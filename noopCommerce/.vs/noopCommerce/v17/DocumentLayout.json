@@ -3,36 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B0905D38-593B-499A-8AFF-59A9F574B981}|noopCommerce\\noopCommerce.csproj|c:\\users\\dell\\source\\repos\\nopcommerce-web-ui-automation-test-using-selenium-aquality-framework-\\noopcommerce\\noopcommerce\\framework\\tests\\searchtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0905D38-593B-499A-8AFF-59A9F574B981}|noopCommerce\\noopCommerce.csproj|solutionrelative:noopcommerce\\framework\\tests\\searchtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0905D38-593B-499A-8AFF-59A9F574B981}|noopCommerce\\noopCommerce.csproj|c:\\users\\dell\\source\\repos\\nopcommerce-web-ui-automation-test-using-selenium-aquality-framework-\\noopcommerce\\noopcommerce\\framework\\tests\\hometest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0905D38-593B-499A-8AFF-59A9F574B981}|noopCommerce\\noopCommerce.csproj|solutionrelative:noopcommerce\\framework\\tests\\hometest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0905D38-593B-499A-8AFF-59A9F574B981}|noopCommerce\\noopCommerce.csproj|c:\\users\\dell\\source\\repos\\nopcommerce-web-ui-automation-test-using-selenium-aquality-framework-\\noopcommerce\\noopcommerce\\framework\\tests\\featuredproducttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0905D38-593B-499A-8AFF-59A9F574B981}|noopCommerce\\noopCommerce.csproj|solutionrelative:noopcommerce\\framework\\tests\\featuredproducttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B0905D38-593B-499A-8AFF-59A9F574B981}|noopCommerce\\noopCommerce.csproj|c:\\users\\dell\\source\\repos\\nopcommerce-web-ui-automation-test-using-selenium-aquality-framework-\\noopcommerce\\noopcommerce\\framework\\pages\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0905D38-593B-499A-8AFF-59A9F574B981}|noopCommerce\\noopCommerce.csproj|solutionrelative:noopcommerce\\framework\\pages\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0905D38-593B-499A-8AFF-59A9F574B981}|noopCommerce\\noopCommerce.csproj|c:\\users\\dell\\source\\repos\\nopcommerce-web-ui-automation-test-using-selenium-aquality-framework-\\noopcommerce\\noopcommerce\\framework\\tests\\registertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0905D38-593B-499A-8AFF-59A9F574B981}|noopCommerce\\noopCommerce.csproj|solutionrelative:noopcommerce\\framework\\tests\\registertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0905D38-593B-499A-8AFF-59A9F574B981}|noopCommerce\\noopCommerce.csproj|c:\\users\\dell\\source\\repos\\nopcommerce-web-ui-automation-test-using-selenium-aquality-framework-\\noopcommerce\\noopcommerce\\framework\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0905D38-593B-499A-8AFF-59A9F574B981}|noopCommerce\\noopCommerce.csproj|solutionrelative:noopcommerce\\framework\\tests\\logintest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0905D38-593B-499A-8AFF-59A9F574B981}|noopCommerce\\noopCommerce.csproj|c:\\users\\dell\\source\\repos\\nopcommerce-web-ui-automation-test-using-selenium-aquality-framework-\\noopcommerce\\noopcommerce\\framework\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0905D38-593B-499A-8AFF-59A9F574B981}|noopCommerce\\noopCommerce.csproj|solutionrelative:noopcommerce\\framework\\pages\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0905D38-593B-499A-8AFF-59A9F574B981}|noopCommerce\\noopCommerce.csproj|c:\\users\\dell\\source\\repos\\nopcommerce-web-ui-automation-test-using-selenium-aquality-framework-\\noopcommerce\\noopcommerce\\framework\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0905D38-593B-499A-8AFF-59A9F574B981}|noopCommerce\\noopCommerce.csproj|solutionrelative:noopcommerce\\framework\\pages\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0905D38-593B-499A-8AFF-59A9F574B981}|noopCommerce\\noopCommerce.csproj|c:\\users\\dell\\source\\repos\\nopcommerce-web-ui-automation-test-using-selenium-aquality-framework-\\noopcommerce\\noopcommerce\\framework\\pages\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0905D38-593B-499A-8AFF-59A9F574B981}|noopCommerce\\noopCommerce.csproj|solutionrelative:noopcommerce\\framework\\pages\\registerpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0905D38-593B-499A-8AFF-59A9F574B981}|noopCommerce\\noopCommerce.csproj|c:\\users\\dell\\source\\repos\\nopcommerce-web-ui-automation-test-using-selenium-aquality-framework-\\noopcommerce\\noopcommerce\\framework\\tests\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -48,6 +32,10 @@
           "DockedWidth": 200,
           "SelectedChildIndex": 8,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -70,80 +58,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FeaturedProductTest.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Tests\\FeaturedProductTest.cs",
-              "RelativeDocumentMoniker": "noopCommerce\\Framework\\Tests\\FeaturedProductTest.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Tests\\FeaturedProductTest.cs",
-              "RelativeToolTip": "noopCommerce\\Framework\\Tests\\FeaturedProductTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T06:31:40.514Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LoginTest.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Tests\\LoginTest.cs",
-              "RelativeDocumentMoniker": "noopCommerce\\Framework\\Tests\\LoginTest.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Tests\\LoginTest.cs",
-              "RelativeToolTip": "noopCommerce\\Framework\\Tests\\LoginTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T06:12:11.608Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LoginPage.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Pages\\LoginPage.cs",
-              "RelativeDocumentMoniker": "noopCommerce\\Framework\\Pages\\LoginPage.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Pages\\LoginPage.cs",
-              "RelativeToolTip": "noopCommerce\\Framework\\Pages\\LoginPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T06:12:06.413Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SearchTest.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Tests\\SearchTest.cs",
-              "RelativeDocumentMoniker": "noopCommerce\\Framework\\Tests\\SearchTest.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Tests\\SearchTest.cs",
-              "RelativeToolTip": "noopCommerce\\Framework\\Tests\\SearchTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-02T05:41:25.193Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "RegisterPage.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Pages\\RegisterPage.cs",
               "RelativeDocumentMoniker": "noopCommerce\\Framework\\Pages\\RegisterPage.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Pages\\RegisterPage.cs",
               "RelativeToolTip": "noopCommerce\\Framework\\Pages\\RegisterPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABTAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T19:59:25.316Z"
+              "WhenOpened": "2025-10-01T19:59:25.316Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "RegisterTest.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Tests\\RegisterTest.cs",
               "RelativeDocumentMoniker": "noopCommerce\\Framework\\Tests\\RegisterTest.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Tests\\RegisterTest.cs",
               "RelativeToolTip": "noopCommerce\\Framework\\Tests\\RegisterTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T19:58:18.296Z"
+              "WhenOpened": "2025-10-01T19:58:18.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "HomeTest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Tests\\HomeTest.cs",
+              "RelativeDocumentMoniker": "noopCommerce\\Framework\\Tests\\HomeTest.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Tests\\HomeTest.cs",
+              "RelativeToolTip": "noopCommerce\\Framework\\Tests\\HomeTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T19:52:48.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BaseTest.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Tests\\BaseTest.cs",
               "RelativeDocumentMoniker": "noopCommerce\\Framework\\Tests\\BaseTest.cs",
@@ -151,32 +105,21 @@
               "RelativeToolTip": "noopCommerce\\Framework\\Tests\\BaseTest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T19:43:25.747Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "HomeTest.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Tests\\HomeTest.cs",
-              "RelativeDocumentMoniker": "noopCommerce\\Framework\\Tests\\HomeTest.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Tests\\HomeTest.cs",
-              "RelativeToolTip": "noopCommerce\\Framework\\Tests\\HomeTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T19:52:48.033Z",
+              "WhenOpened": "2025-10-01T19:43:25.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "HomePage.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Pages\\HomePage.cs",
               "RelativeDocumentMoniker": "noopCommerce\\Framework\\Pages\\HomePage.cs",
               "ToolTip": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Pages\\HomePage.cs",
               "RelativeToolTip": "noopCommerce\\Framework\\Pages\\HomePage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-01T19:43:11.074Z"
+              "WhenOpened": "2025-10-01T19:43:11.074Z",
+              "EditorCaption": ""
             }
           ]
         }

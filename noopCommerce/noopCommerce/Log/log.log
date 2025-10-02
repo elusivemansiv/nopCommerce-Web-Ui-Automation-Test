@@ -592,3 +592,211 @@ Performance: All
 2025-10-02 12:57:25 INFO - Text Field 'Search store' :: Sending keys 'Iphone 16'
 2025-10-02 12:57:25 INFO - Button 'Click Search Button' :: Clicking
 2025-10-02 12:57:30 INFO - Closing browser
+2025-10-02 13:08:44 DEBUG - Get settings from: settings.json
+2025-10-02 13:08:44 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 13:08:44 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 13:08:44 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 13:08:44 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 13:08:49 INFO - Browser 'Chrome' ready...
+2025-10-02 13:08:49 INFO - Maximizing browser window
+2025-10-02 13:08:49 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 13:08:50 INFO - Waiting for page to load
+2025-10-02 13:08:51 INFO - Button 'noopCommerce Logo ' :: Clicking
+2025-10-02 13:08:55 INFO - Closing browser
+2025-10-02 13:08:57 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 13:08:57 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 13:08:57 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 13:08:57 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 13:08:59 INFO - Browser 'Chrome' ready...
+2025-10-02 13:08:59 INFO - Maximizing browser window
+2025-10-02 13:09:00 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 13:09:03 INFO - Waiting for page to load
+2025-10-02 13:09:03 INFO - Button 'Login' :: Clicking
+2025-10-02 13:09:04 INFO - Text Field 'Email' :: Sending keys 'test@gmail.com'
+2025-10-02 13:09:04 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-02 13:09:05 INFO - Button 'Click Login' :: Clicking
+2025-10-02 13:09:06 INFO - Closing browser
+2025-10-02 13:09:07 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 13:09:07 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 13:09:07 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 13:09:07 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 13:09:10 INFO - Browser 'Chrome' ready...
+2025-10-02 13:09:10 INFO - Maximizing browser window
+2025-10-02 13:09:10 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 13:09:12 INFO - Waiting for page to load
+2025-10-02 13:09:12 INFO - Button 'Register ' :: Clicking
+2025-10-02 13:09:14 INFO - Closing browser
+2025-10-02 13:09:15 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 13:09:15 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 13:09:15 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 13:09:15 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 13:09:17 INFO - Browser 'Chrome' ready...
+2025-10-02 13:09:17 INFO - Maximizing browser window
+2025-10-02 13:09:17 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 13:09:18 INFO - Waiting for page to load
+2025-10-02 13:09:19 INFO - Text Field 'Search store' :: Sending keys 'Iphone 16'
+2025-10-02 13:09:19 INFO - Button 'Click Search Button' :: Clicking
+2025-10-02 13:09:23 INFO - Closing browser
+2025-10-02 20:19:44 DEBUG - Get settings from: settings.json
+2025-10-02 20:19:45 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 20:19:45 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 20:19:45 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 20:19:45 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 20:20:06 INFO - Browser 'Chrome' ready...
+2025-10-02 20:20:06 INFO - Maximizing browser window
+2025-10-02 20:20:07 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 20:20:11 INFO - Waiting for page to load
+2025-10-02 20:20:12 INFO - Button 'Register ' :: Clicking
+2025-10-02 20:20:17 INFO - Button 'Male radio button' :: Clicking
+2025-10-02 20:20:17 INFO - Text Field 'First name is required.' :: Sending keys 'Mr.'
+2025-10-02 20:20:18 INFO - Text Field 'LastName is required.' :: Sending keys 'Test'
+2025-10-02 20:20:18 INFO - Text Field 'Password is required.' :: Sending keys '123456'
+2025-10-02 20:20:18 INFO - Text Field 'ConfirmPassword is required.' :: Sending keys '123456'
+2025-10-02 20:20:18 INFO - Closing browser
+2025-10-02 20:22:56 DEBUG - Get settings from: settings.json
+2025-10-02 20:22:56 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 20:22:56 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 20:22:56 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 20:22:56 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 20:23:02 INFO - Browser 'Chrome' ready...
+2025-10-02 20:23:02 INFO - Maximizing browser window
+2025-10-02 20:23:02 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 20:23:03 INFO - Waiting for page to load
+2025-10-02 20:23:04 INFO - Button 'Register ' :: Clicking
+2025-10-02 20:23:06 INFO - Button 'Male radio button' :: Clicking
+2025-10-02 20:23:06 INFO - Text Field 'First name is required.' :: Sending keys 'Mr.'
+2025-10-02 20:23:07 INFO - Text Field 'LastName is required.' :: Sending keys 'Test'
+2025-10-02 20:23:07 INFO - Text Field 'Password is required.' :: Sending keys '123456'
+2025-10-02 20:23:07 INFO - Text Field 'ConfirmPassword is required.' :: Sending keys '123456'
+2025-10-02 20:23:07 INFO - Button 'click register-button' :: Clicking
+2025-10-02 20:23:09 INFO - Closing browser
+2025-10-02 20:24:26 DEBUG - Get settings from: settings.json
+2025-10-02 20:24:26 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 20:24:26 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 20:24:26 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 20:24:26 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 20:24:31 INFO - Browser 'Chrome' ready...
+2025-10-02 20:24:31 INFO - Maximizing browser window
+2025-10-02 20:24:31 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 20:24:33 INFO - Waiting for page to load
+2025-10-02 20:24:34 INFO - Button 'Register ' :: Clicking
+2025-10-02 20:24:36 INFO - Button 'Male radio button' :: Clicking
+2025-10-02 20:24:37 INFO - Text Field 'First name is required.' :: Sending keys 'Mr.'
+2025-10-02 20:24:38 INFO - Text Field 'LastName is required.' :: Sending keys 'Test'
+2025-10-02 20:24:39 INFO - Text Field 'Password is required.' :: Sending keys '123456'
+2025-10-02 20:24:39 INFO - Text Field 'ConfirmPassword is required.' :: Sending keys '123456'
+2025-10-02 20:24:39 INFO - Button 'click register-button' :: Clicking
+2025-10-02 20:24:41 INFO - Closing browser
+2025-10-02 20:24:55 DEBUG - Get settings from: settings.json
+2025-10-02 20:24:55 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 20:24:55 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 20:24:55 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 20:24:55 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 20:25:01 INFO - Browser 'Chrome' ready...
+2025-10-02 20:25:01 INFO - Maximizing browser window
+2025-10-02 20:25:01 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 20:25:03 INFO - Waiting for page to load
+2025-10-02 20:25:03 INFO - Button 'Register ' :: Clicking
+2025-10-02 20:25:06 INFO - Button 'Male radio button' :: Clicking
+2025-10-02 20:25:06 INFO - Text Field 'First name is required.' :: Sending keys 'Mr.'
+2025-10-02 20:25:06 INFO - Text Field 'LastName is required.' :: Sending keys 'Test'
+2025-10-02 20:25:06 INFO - Text Field 'Password is required.' :: Sending keys '123456'
+2025-10-02 20:25:07 INFO - Text Field 'Email is required.' :: Sending keys 'test@gmail.com'
+2025-10-02 20:25:07 INFO - Text Field 'ConfirmPassword is required.' :: Sending keys '123456'
+2025-10-02 20:25:08 INFO - Button 'click register-button' :: Clicking
+2025-10-02 20:25:10 INFO - Closing browser
+2025-10-02 20:25:17 DEBUG - Get settings from: settings.json
+2025-10-02 20:25:17 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 20:25:17 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 20:25:17 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 20:25:17 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 20:25:22 INFO - Browser 'Chrome' ready...
+2025-10-02 20:25:22 INFO - Maximizing browser window
+2025-10-02 20:25:22 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 20:25:24 INFO - Waiting for page to load
+2025-10-02 20:25:24 INFO - Button 'Login' :: Clicking
+2025-10-02 20:25:27 INFO - Text Field 'Email' :: Sending keys 'test@gmail.com'
+2025-10-02 20:25:27 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-02 20:25:27 INFO - Button 'Click Login' :: Clicking
+2025-10-02 20:25:30 INFO - Closing browser
