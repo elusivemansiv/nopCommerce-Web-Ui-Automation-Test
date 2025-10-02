@@ -9,7 +9,7 @@ namespace noopCommerce.Framework.Tests
     internal class HomeTest : BaseTest
     {
         [Test]
-        public void MainPageTest()
+        public void homeTest()
         {
             var homePage = new HomePage();
             homePage.homePageTest();

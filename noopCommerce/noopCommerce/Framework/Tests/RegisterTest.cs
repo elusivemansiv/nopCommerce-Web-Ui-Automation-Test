@@ -1,12 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Aquality.Selenium.Browsers;
+using Aquality.Selenium.Core.Utilities;
+using noopCommerce.Framework.Pages;
+using NUnit.Framework;
+using OpenQA.Selenium;
 
 namespace noopCommerce.Framework.Tests
 {
-    internal class RegisterTest
+    internal class RegisterTest : BaseTest
     {
+        [Test]
+        public void registerTest()
+        {
+            var registerPage = new RegisterPage();
+            registerPage.registerPageTest();
+
+        }
     }
 }

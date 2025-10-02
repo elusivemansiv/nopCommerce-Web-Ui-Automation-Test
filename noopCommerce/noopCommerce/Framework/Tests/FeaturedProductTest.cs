@@ -6,15 +6,7 @@ using OpenQA.Selenium;
 
 namespace noopCommerce.Framework.Tests
 {
-    internal class LoginTest : BaseTest
+    internal class FeaturedProductTest : BaseTest
     {
-        [Test]
-
-        public void loginTest()
-        {
-            var loginPage = new LoginPage();
-            loginPage.loginPageTest();
-
-        }
     }
 }

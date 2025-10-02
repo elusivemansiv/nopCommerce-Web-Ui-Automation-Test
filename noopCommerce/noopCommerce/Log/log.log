@@ -18,3 +18,577 @@ Performance: All
 2025-10-02 01:57:41 INFO - Waiting for page to load
 2025-10-02 01:57:42 INFO - Button 'noopCommerce Logo ' :: Clicking
 2025-10-02 01:57:47 INFO - Closing browser
+2025-10-02 11:17:44 DEBUG - Get settings from: settings.json
+2025-10-02 11:17:51 DEBUG - Get settings from: settings.json
+2025-10-02 11:17:52 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 11:17:52 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 11:17:52 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 11:17:52 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 11:18:02 INFO - Browser 'Chrome' ready...
+2025-10-02 11:18:02 INFO - Maximizing browser window
+2025-10-02 11:18:02 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 11:18:04 INFO - Waiting for page to load
+2025-10-02 11:18:04 INFO - Button 'noopCommerce Logo ' :: Clicking
+2025-10-02 11:18:08 INFO - Closing browser
+2025-10-02 11:22:20 DEBUG - Get settings from: settings.json
+2025-10-02 11:22:20 INFO - Link 'Log in' :: Clicking
+2025-10-02 11:22:21 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 11:22:21 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 11:22:21 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 11:22:21 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 11:22:28 INFO - Browser 'Chrome' ready...
+2025-10-02 11:22:58 DEBUG - Page source:
+<html><head></head><body></body></html>
+2025-10-02 11:24:02 DEBUG - Get settings from: settings.json
+2025-10-02 11:24:02 INFO - Link 'Log in' :: Clicking
+2025-10-02 11:24:02 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 11:24:02 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 11:24:02 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 11:24:02 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 11:24:08 INFO - Browser 'Chrome' ready...
+2025-10-02 11:24:38 DEBUG - Page source:
+<html><head></head><body></body></html>
+2025-10-02 11:25:25 DEBUG - Get settings from: settings.json
+2025-10-02 11:25:25 INFO - Link 'Log in' :: Clicking
+2025-10-02 11:25:25 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 11:25:25 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 11:25:25 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 11:25:25 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 11:25:31 INFO - Browser 'Chrome' ready...
+2025-10-02 11:25:46 DEBUG - Get settings from: settings.json
+2025-10-02 11:25:46 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 11:25:46 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 11:25:46 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 11:25:46 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 11:25:52 INFO - Browser 'Chrome' ready...
+2025-10-02 11:25:52 INFO - Maximizing browser window
+2025-10-02 11:25:53 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 11:25:54 INFO - Waiting for page to load
+2025-10-02 11:25:54 INFO - Button 'noopCommerce Logo ' :: Clicking
+2025-10-02 11:25:59 INFO - Closing browser
+2025-10-02 11:27:09 DEBUG - Get settings from: settings.json
+2025-10-02 11:27:09 INFO - Link 'Log in' :: Clicking
+2025-10-02 11:27:09 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 11:27:09 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 11:27:09 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 11:27:09 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 11:27:15 INFO - Browser 'Chrome' ready...
+2025-10-02 11:27:46 DEBUG - Page source:
+<html><head></head><body></body></html>
+2025-10-02 11:29:45 DEBUG - Get settings from: settings.json
+2025-10-02 11:29:45 INFO - Link 'Log in' :: Clicking
+2025-10-02 11:29:45 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 11:29:45 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 11:29:45 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 11:29:45 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 11:29:51 INFO - Browser 'Chrome' ready...
+2025-10-02 11:30:21 DEBUG - Page source:
+<html><head></head><body></body></html>
+2025-10-02 11:33:08 DEBUG - Get settings from: settings.json
+2025-10-02 11:33:08 INFO - Text Field 'Search store' :: Sending keys 'Iphone 16'
+2025-10-02 11:33:08 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 11:33:08 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 11:33:08 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 11:33:08 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 11:33:14 INFO - Browser 'Chrome' ready...
+2025-10-02 11:34:49 DEBUG - Get settings from: settings.json
+2025-10-02 11:34:49 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 11:34:49 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 11:34:49 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 11:34:49 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 11:34:55 INFO - Browser 'Chrome' ready...
+2025-10-02 11:34:55 INFO - Maximizing browser window
+2025-10-02 11:34:55 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 11:34:56 INFO - Waiting for page to load
+2025-10-02 11:34:57 INFO - Button 'noopCommerce Logo ' :: Clicking
+2025-10-02 11:35:03 INFO - Link 'Log in' :: Clicking
+2025-10-02 11:35:04 INFO - Closing browser
+2025-10-02 11:37:21 DEBUG - Get settings from: settings.json
+2025-10-02 11:37:21 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 11:37:21 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 11:37:21 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 11:37:21 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 11:37:25 INFO - Browser 'Chrome' ready...
+2025-10-02 11:37:25 INFO - Maximizing browser window
+2025-10-02 11:37:26 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 11:37:28 INFO - Waiting for page to load
+2025-10-02 11:37:28 INFO - Button 'noopCommerce Logo ' :: Clicking
+2025-10-02 11:37:32 INFO - Text Field 'Search store' :: Sending keys 'Iphone 16'
+2025-10-02 11:37:33 INFO - Closing browser
+2025-10-02 11:43:07 DEBUG - Get settings from: settings.json
+2025-10-02 11:43:07 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 11:43:07 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 11:43:07 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 11:43:07 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 11:43:12 INFO - Browser 'Chrome' ready...
+2025-10-02 11:43:12 INFO - Maximizing browser window
+2025-10-02 11:43:13 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 11:43:15 INFO - Waiting for page to load
+2025-10-02 11:43:15 INFO - Text Field 'Search store' :: Sending keys 'Iphone 16'
+2025-10-02 11:43:15 INFO - Button 'Click Search Button' :: Clicking
+2025-10-02 11:43:16 INFO - Closing browser
+2025-10-02 11:44:01 DEBUG - Get settings from: settings.json
+2025-10-02 11:44:01 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 11:44:01 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 11:44:01 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 11:44:01 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 11:44:07 INFO - Browser 'Chrome' ready...
+2025-10-02 11:44:07 INFO - Maximizing browser window
+2025-10-02 11:44:07 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 11:44:08 INFO - Waiting for page to load
+2025-10-02 11:44:09 INFO - Text Field 'Search store' :: Sending keys 'Iphone 16'
+2025-10-02 11:44:09 INFO - Button 'Click Search Button' :: Clicking
+2025-10-02 11:44:14 INFO - Closing browser
+2025-10-02 11:46:16 DEBUG - Get settings from: settings.json
+2025-10-02 11:46:16 INFO - Button 'Log in' :: Clicking
+2025-10-02 11:46:16 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 11:46:16 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 11:46:16 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 11:46:16 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 11:46:22 INFO - Browser 'Chrome' ready...
+2025-10-02 11:50:07 DEBUG - Get settings from: settings.json
+2025-10-02 11:50:07 INFO - Button 'Login ' :: Clicking
+2025-10-02 11:50:07 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 11:50:07 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 11:50:07 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 11:50:07 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 11:50:13 INFO - Browser 'Chrome' ready...
+2025-10-02 11:51:19 DEBUG - Get settings from: settings.json
+2025-10-02 11:51:19 INFO - Button 'noopCommerce Logo ' :: Clicking
+2025-10-02 11:51:19 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 11:51:19 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 11:51:19 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 11:51:19 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 11:51:24 INFO - Browser 'Chrome' ready...
+2025-10-02 11:53:01 DEBUG - Get settings from: settings.json
+2025-10-02 11:53:01 INFO - Button 'noopCommerce Logo ' :: Clicking
+2025-10-02 11:53:01 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 11:53:01 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 11:53:01 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 11:53:01 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 11:53:06 INFO - Browser 'Chrome' ready...
+2025-10-02 12:06:10 DEBUG - Get settings from: settings.json
+2025-10-02 12:06:10 INFO - Button 'noopCommerce Logo ' :: Clicking
+2025-10-02 12:06:10 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 12:06:10 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 12:06:10 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 12:06:10 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 12:06:20 INFO - Browser 'Chrome' ready...
+2025-10-02 12:06:50 DEBUG - Page source:
+<html><head></head><body></body></html>
+2025-10-02 12:07:25 DEBUG - Get settings from: settings.json
+2025-10-02 12:07:25 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 12:07:25 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 12:07:25 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 12:07:25 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 12:07:31 INFO - Browser 'Chrome' ready...
+2025-10-02 12:07:31 INFO - Maximizing browser window
+2025-10-02 12:07:32 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 12:07:34 INFO - Waiting for page to load
+2025-10-02 12:07:35 INFO - Button 'noopCommerce Logo ' :: Clicking
+2025-10-02 12:07:39 INFO - Closing browser
+2025-10-02 12:09:46 DEBUG - Get settings from: settings.json
+2025-10-02 12:09:47 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 12:09:47 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 12:09:47 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 12:09:47 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 12:09:53 INFO - Browser 'Chrome' ready...
+2025-10-02 12:09:53 INFO - Maximizing browser window
+2025-10-02 12:09:53 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 12:09:55 INFO - Waiting for page to load
+2025-10-02 12:09:56 INFO - Button 'Register ' :: Clicking
+2025-10-02 12:09:57 INFO - Closing browser
+2025-10-02 12:10:36 DEBUG - Get settings from: settings.json
+2025-10-02 12:10:36 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 12:10:36 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 12:10:36 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 12:10:37 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 12:10:42 INFO - Browser 'Chrome' ready...
+2025-10-02 12:10:42 INFO - Maximizing browser window
+2025-10-02 12:10:42 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 12:10:43 INFO - Waiting for page to load
+2025-10-02 12:10:44 INFO - Button 'noopCommerce Logo ' :: Clicking
+2025-10-02 12:10:49 INFO - Closing browser
+2025-10-02 12:10:50 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 12:10:50 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 12:10:50 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 12:10:50 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 12:10:52 INFO - Browser 'Chrome' ready...
+2025-10-02 12:10:52 INFO - Maximizing browser window
+2025-10-02 12:10:52 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 12:10:53 INFO - Waiting for page to load
+2025-10-02 12:10:54 INFO - Button 'Register ' :: Clicking
+2025-10-02 12:10:56 INFO - Closing browser
+2025-10-02 12:10:57 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 12:10:57 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 12:10:57 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 12:10:57 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 12:11:00 INFO - Browser 'Chrome' ready...
+2025-10-02 12:11:00 INFO - Maximizing browser window
+2025-10-02 12:11:00 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 12:11:01 INFO - Waiting for page to load
+2025-10-02 12:11:02 INFO - Text Field 'Search store' :: Sending keys 'Iphone 16'
+2025-10-02 12:11:02 INFO - Button 'Click Search Button' :: Clicking
+2025-10-02 12:11:06 INFO - Closing browser
+2025-10-02 12:19:21 DEBUG - Get settings from: settings.json
+2025-10-02 12:19:21 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 12:19:21 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 12:19:21 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 12:19:21 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 12:19:29 INFO - Browser 'Chrome' ready...
+2025-10-02 12:19:29 INFO - Maximizing browser window
+2025-10-02 12:19:29 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 12:19:30 INFO - Waiting for page to load
+2025-10-02 12:19:31 INFO - Closing browser
+2025-10-02 12:20:15 DEBUG - Get settings from: settings.json
+2025-10-02 12:20:15 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 12:20:15 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 12:20:15 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 12:20:15 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 12:20:20 INFO - Browser 'Chrome' ready...
+2025-10-02 12:20:20 INFO - Maximizing browser window
+2025-10-02 12:20:20 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 12:20:22 INFO - Waiting for page to load
+2025-10-02 12:20:22 INFO - Button 'Login' :: Clicking
+2025-10-02 12:20:24 INFO - Text Field 'Email' :: Sending keys 'tsoni@gmail.com'
+2025-10-02 12:20:24 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-02 12:20:26 INFO - Closing browser
+2025-10-02 12:23:30 DEBUG - Get settings from: settings.json
+2025-10-02 12:23:30 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 12:23:30 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 12:23:30 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 12:23:30 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 12:23:35 INFO - Browser 'Chrome' ready...
+2025-10-02 12:23:35 INFO - Maximizing browser window
+2025-10-02 12:23:35 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 12:23:36 INFO - Waiting for page to load
+2025-10-02 12:23:37 INFO - Closing browser
+2025-10-02 12:24:36 DEBUG - Get settings from: settings.json
+2025-10-02 12:24:36 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 12:24:36 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 12:24:36 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 12:24:36 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 12:24:43 INFO - Browser 'Chrome' ready...
+2025-10-02 12:24:43 INFO - Maximizing browser window
+2025-10-02 12:24:43 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 12:24:45 INFO - Waiting for page to load
+2025-10-02 12:24:46 INFO - Button 'Login' :: Clicking
+2025-10-02 12:24:47 INFO - Text Field 'Email' :: Sending keys 'test@gmail.com'
+2025-10-02 12:24:47 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-02 12:24:48 INFO - Button 'Click Login' :: Clicking
+2025-10-02 12:24:50 INFO - Closing browser
+2025-10-02 12:56:43 DEBUG - Get settings from: settings.json
+2025-10-02 12:56:44 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 12:56:44 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 12:56:44 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 12:56:44 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 12:56:50 INFO - Browser 'Chrome' ready...
+2025-10-02 12:56:50 INFO - Maximizing browser window
+2025-10-02 12:56:50 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 12:56:51 INFO - Waiting for page to load
+2025-10-02 12:56:52 INFO - Button 'noopCommerce Logo ' :: Clicking
+2025-10-02 12:56:56 INFO - Closing browser
+2025-10-02 12:56:58 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 12:56:58 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 12:56:58 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 12:56:58 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 12:57:01 INFO - Browser 'Chrome' ready...
+2025-10-02 12:57:01 INFO - Maximizing browser window
+2025-10-02 12:57:02 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 12:57:03 INFO - Waiting for page to load
+2025-10-02 12:57:03 INFO - Button 'Login' :: Clicking
+2025-10-02 12:57:04 INFO - Text Field 'Email' :: Sending keys 'test@gmail.com'
+2025-10-02 12:57:05 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-02 12:57:05 INFO - Button 'Click Login' :: Clicking
+2025-10-02 12:57:07 INFO - Closing browser
+2025-10-02 12:57:10 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 12:57:10 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 12:57:10 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 12:57:10 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 12:57:12 INFO - Browser 'Chrome' ready...
+2025-10-02 12:57:12 INFO - Maximizing browser window
+2025-10-02 12:57:13 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 12:57:14 INFO - Waiting for page to load
+2025-10-02 12:57:14 INFO - Button 'Register ' :: Clicking
+2025-10-02 12:57:16 INFO - Closing browser
+2025-10-02 12:57:20 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-02 12:57:20 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-02 12:57:20 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-02 12:57:20 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-02 12:57:23 INFO - Browser 'Chrome' ready...
+2025-10-02 12:57:23 INFO - Maximizing browser window
+2025-10-02 12:57:23 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-02 12:57:24 INFO - Waiting for page to load
+2025-10-02 12:57:25 INFO - Text Field 'Search store' :: Sending keys 'Iphone 16'
+2025-10-02 12:57:25 INFO - Button 'Click Search Button' :: Clicking
+2025-10-02 12:57:30 INFO - Closing browser

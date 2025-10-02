@@ -1,12 +1,19 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Aquality.Selenium.Browsers;
+using Aquality.Selenium.Core.Utilities;
+using noopCommerce.Framework.Pages;
+using NUnit.Framework;
+using OpenQA.Selenium;
 
 namespace noopCommerce.Framework.Tests
 {
-    internal class SearchTest
+    internal class SearchTest : BaseTest
     {
+        [Test]
+        public void searchTest()
+        {
+            var homePage = new HomePage();
+            homePage.searchItemStore();
+
+        }
     }
 }

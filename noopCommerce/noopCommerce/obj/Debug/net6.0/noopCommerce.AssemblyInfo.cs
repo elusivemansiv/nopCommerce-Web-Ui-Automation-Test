@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("noopCommerce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ccd769f3bcfbe9eda6ba3c4cfaaf12469daadd3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7adcaca4a81b0902d9d1e6d29f5728ebce83190a")]
 [assembly: System.Reflection.AssemblyProductAttribute("noopCommerce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("noopCommerce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
