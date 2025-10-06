@@ -800,3 +800,366 @@ Performance: All
 2025-10-02 20:25:27 INFO - Text Field 'Password' :: Sending keys '123456'
 2025-10-02 20:25:27 INFO - Button 'Click Login' :: Clicking
 2025-10-02 20:25:30 INFO - Closing browser
+2025-10-06 10:40:01 DEBUG - Get settings from: settings.json
+2025-10-06 10:40:01 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-06 10:40:01 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-06 10:40:01 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-06 10:40:01 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-06 10:40:11 INFO - Browser 'Chrome' ready...
+2025-10-06 10:40:11 INFO - Maximizing browser window
+2025-10-06 10:40:12 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-06 10:40:15 INFO - Waiting for page to load
+2025-10-06 10:40:15 INFO - Text Field 'Search store' :: Sending keys 'Iphone 16'
+2025-10-06 10:40:15 INFO - Button 'Click Search Button' :: Clicking
+2025-10-06 10:40:21 INFO - Closing browser
+2025-10-06 10:41:07 DEBUG - Get settings from: settings.json
+2025-10-06 10:41:08 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-06 10:41:08 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-06 10:41:08 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-06 10:41:08 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-06 10:41:12 INFO - Browser 'Chrome' ready...
+2025-10-06 10:41:12 INFO - Maximizing browser window
+2025-10-06 10:41:12 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-06 10:41:13 INFO - Waiting for page to load
+2025-10-06 10:41:14 INFO - Text Field 'Search store' :: Sending keys 'Iphone 16'
+2025-10-06 10:41:15 INFO - Button 'Click Search Button' :: Clicking
+2025-10-06 10:41:19 INFO - Closing browser
+2025-10-06 10:43:35 DEBUG - Get settings from: settings.json
+2025-10-06 10:43:35 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-06 10:43:35 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-06 10:43:35 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-06 10:43:35 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-06 10:43:40 INFO - Browser 'Chrome' ready...
+2025-10-06 10:43:40 INFO - Maximizing browser window
+2025-10-06 10:43:40 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-06 10:43:41 INFO - Waiting for page to load
+2025-10-06 10:43:42 INFO - Label 'Featured Products Section' :: Waiting for element to be displayed
+2025-10-06 10:43:42 INFO - Link 'First Featured Product' :: Clicking
+2025-10-06 10:43:45 INFO - Closing browser
+2025-10-06 10:44:19 DEBUG - Get settings from: settings.json
+2025-10-06 10:44:19 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-06 10:44:19 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-06 10:44:19 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-06 10:44:19 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-06 10:44:27 INFO - Browser 'Chrome' ready...
+2025-10-06 10:44:27 INFO - Maximizing browser window
+2025-10-06 10:44:27 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-06 10:44:29 INFO - Waiting for page to load
+2025-10-06 10:44:29 INFO - Label 'Featured Products Section' :: Waiting for element to be displayed
+2025-10-06 10:44:30 INFO - Link 'First Featured Product' :: Clicking
+2025-10-06 10:44:32 INFO - Closing browser
+2025-10-06 10:54:09 DEBUG - Get settings from: settings.json
+2025-10-06 10:54:10 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-06 10:54:10 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-06 10:54:10 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-06 10:54:10 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-06 10:54:17 INFO - Browser 'Chrome' ready...
+2025-10-06 10:54:18 INFO - Maximizing browser window
+2025-10-06 10:54:18 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-06 10:54:19 INFO - Waiting for page to load
+2025-10-06 10:54:20 INFO - Label 'Featured Products Section' :: Waiting for element to be displayed
+2025-10-06 10:54:20 INFO - Link 'First Featured Product' :: Clicking
+2025-10-06 10:54:23 INFO - Closing browser
+2025-10-06 10:55:28 DEBUG - Get settings from: settings.json
+2025-10-06 10:55:29 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-06 10:55:29 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-06 10:55:29 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-06 10:55:29 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-06 10:55:36 INFO - Browser 'Chrome' ready...
+2025-10-06 10:55:36 INFO - Maximizing browser window
+2025-10-06 10:55:36 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-06 10:55:38 INFO - Waiting for page to load
+2025-10-06 10:55:39 INFO - Label 'Featured Products Section' :: Waiting for element to be displayed
+2025-10-06 10:55:39 INFO - Link 'First Featured Product' :: Clicking
+2025-10-06 10:55:42 INFO - Closing browser
+2025-10-06 10:56:09 DEBUG - Get settings from: settings.json
+2025-10-06 10:56:10 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-06 10:56:10 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-06 10:56:10 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-06 10:56:10 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-06 10:56:15 INFO - Browser 'Chrome' ready...
+2025-10-06 10:56:15 INFO - Maximizing browser window
+2025-10-06 10:56:16 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-06 10:56:18 INFO - Waiting for page to load
+2025-10-06 10:56:18 INFO - Label 'Featured Products Section' :: Waiting for element to be displayed
+2025-10-06 10:56:18 INFO - Link 'First Featured Product' :: Clicking
+2025-10-06 10:56:20 INFO - Closing browser
+2025-10-06 10:58:06 DEBUG - Get settings from: settings.json
+2025-10-06 10:58:06 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-06 10:58:06 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-06 10:58:06 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-06 10:58:06 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-06 10:58:11 INFO - Browser 'Chrome' ready...
+2025-10-06 10:58:11 INFO - Maximizing browser window
+2025-10-06 10:58:11 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-06 10:58:13 INFO - Waiting for page to load
+2025-10-06 10:58:13 INFO - Label 'Featured Products Section' :: Waiting for element to be displayed
+2025-10-06 10:58:14 INFO - Link 'First Featured Product' :: Clicking
+2025-10-06 10:58:17 INFO - Closing browser
+2025-10-06 10:59:49 DEBUG - Get settings from: settings.json
+2025-10-06 10:59:49 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-06 10:59:49 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-06 10:59:49 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-06 10:59:49 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-06 10:59:56 INFO - Browser 'Chrome' ready...
+2025-10-06 10:59:56 INFO - Maximizing browser window
+2025-10-06 10:59:56 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-06 10:59:57 INFO - Waiting for page to load
+2025-10-06 11:00:08 INFO - Label 'Featured Products Section' :: Waiting for element to be displayed
+2025-10-06 11:00:08 INFO - Link 'First Featured Product' :: Clicking
+2025-10-06 11:00:15 INFO - Closing browser
+2025-10-06 11:03:00 DEBUG - Get settings from: settings.json
+2025-10-06 11:03:00 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-06 11:03:00 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-06 11:03:00 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-06 11:03:00 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-06 11:03:06 INFO - Browser 'Chrome' ready...
+2025-10-06 11:03:06 INFO - Maximizing browser window
+2025-10-06 11:03:07 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-06 11:03:08 INFO - Waiting for page to load
+2025-10-06 11:03:09 INFO - Label 'Featured Products Section' :: Waiting for element to be displayed
+2025-10-06 11:03:09 INFO - Link 'First Featured Product' :: Clicking
+2025-10-06 11:03:11 INFO - Closing browser
+2025-10-06 11:05:48 DEBUG - Get settings from: settings.json
+2025-10-06 11:05:48 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-06 11:05:48 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-06 11:05:48 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-06 11:05:48 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-06 11:05:55 INFO - Browser 'Chrome' ready...
+2025-10-06 11:05:55 INFO - Maximizing browser window
+2025-10-06 11:05:55 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-06 11:05:58 INFO - Waiting for page to load
+2025-10-06 11:05:59 INFO - Label 'Featured Products Section' :: Waiting for element to be displayed
+2025-10-06 11:05:59 INFO - Link 'First Featured Product' :: Clicking
+2025-10-06 11:06:02 INFO - Closing browser
+2025-10-06 11:55:27 DEBUG - Get settings from: settings.json
+2025-10-06 11:55:27 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-06 11:55:27 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-06 11:55:27 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-06 11:55:27 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-06 11:55:38 INFO - Browser 'Chrome' ready...
+2025-10-06 11:55:38 INFO - Maximizing browser window
+2025-10-06 11:55:39 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-06 11:55:40 INFO - Waiting for page to load
+2025-10-06 11:55:41 INFO - Label 'Featured Products Section' :: Waiting for element to be displayed
+2025-10-06 11:55:41 INFO - Link 'First Featured Product' :: Clicking
+2025-10-06 11:55:45 INFO - Closing browser
+2025-10-06 11:58:20 DEBUG - Get settings from: settings.json
+2025-10-06 11:58:21 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-06 11:58:21 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-06 11:58:21 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-06 11:58:21 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-06 11:58:27 INFO - Browser 'Chrome' ready...
+2025-10-06 11:58:27 INFO - Maximizing browser window
+2025-10-06 11:58:28 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-06 11:58:28 INFO - Waiting for page to load
+2025-10-06 11:58:30 INFO - Label 'Featured Products Section' :: Waiting for element to be displayed
+2025-10-06 11:58:30 INFO - Link 'First Featured Product' :: Clicking
+2025-10-06 11:58:32 INFO - Waiting for page to load
+2025-10-06 11:58:32 INFO - Button 'HDD' :: Clicking
+2025-10-06 11:58:32 INFO - Button 'OS' :: Clicking
+2025-10-06 11:58:33 INFO - Button 'Software Checkbox' :: Clicking
+2025-10-06 11:58:33 INFO - Closing browser
+2025-10-06 12:35:30 DEBUG - Get settings from: settings.json
+2025-10-06 12:35:30 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-06 12:35:30 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-06 12:35:30 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-06 12:35:30 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-06 12:35:38 INFO - Browser 'Chrome' ready...
+2025-10-06 12:35:38 INFO - Maximizing browser window
+2025-10-06 12:35:38 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-06 12:35:40 INFO - Waiting for page to load
+2025-10-06 12:35:41 INFO - Label 'Featured Products Section' :: Waiting for element to be displayed
+2025-10-06 12:35:41 INFO - Link 'First Featured Product' :: Clicking
+2025-10-06 12:35:49 INFO - Waiting for page to load
+2025-10-06 12:35:49 INFO - ComboBox 'Processor Select Menu' :: Selecting value - '2'
+2025-10-06 12:35:49 INFO - ComboBox 'Select RAM' :: Selecting value - '4'
+2025-10-06 12:35:49 INFO - Button 'HDD Option' :: Clicking
+2025-10-06 12:35:49 INFO - Button 'OS Option' :: Clicking
+2025-10-06 12:35:50 INFO - Button 'Software Checkbox' :: Clicking
+2025-10-06 12:35:50 INFO - Button 'Add To Cart Button' :: Clicking
+2025-10-06 12:35:50 INFO - Waiting for page to load
+2025-10-06 12:35:50 INFO - Closing browser
+2025-10-06 12:40:32 DEBUG - Get settings from: settings.json
+2025-10-06 12:40:32 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-06 12:40:32 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-06 12:40:32 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-06 12:40:32 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-06 12:40:37 INFO - Browser 'Chrome' ready...
+2025-10-06 12:40:37 INFO - Maximizing browser window
+2025-10-06 12:40:38 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-06 12:40:39 INFO - Waiting for page to load
+2025-10-06 12:40:39 INFO - Label 'Featured Products Section' :: Waiting for element to be displayed
+2025-10-06 12:40:40 INFO - Link 'First Featured Product' :: Clicking
+2025-10-06 12:40:42 INFO - Waiting for page to load
+2025-10-06 12:40:42 INFO - ComboBox 'Processor Select Menu' :: Selecting value - '2'
+2025-10-06 12:40:42 INFO - ComboBox 'Select RAM' :: Selecting value - '5'
+2025-10-06 12:40:43 INFO - Button 'HDD Option' :: Clicking
+2025-10-06 12:40:43 INFO - Button 'OS Option' :: Clicking
+2025-10-06 12:40:43 INFO - Button 'Software Checkbox' :: Clicking
+2025-10-06 12:40:43 INFO - Button 'Add To Cart Button' :: Clicking
+2025-10-06 12:40:44 INFO - Waiting for page to load
+2025-10-06 12:40:44 INFO - Closing browser
+2025-10-06 12:41:22 DEBUG - Get settings from: settings.json
+2025-10-06 12:41:22 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-06 12:41:22 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-06 12:41:22 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-06 12:41:22 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-06 12:41:28 INFO - Browser 'Chrome' ready...
+2025-10-06 12:41:28 INFO - Maximizing browser window
+2025-10-06 12:41:29 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-06 12:41:30 INFO - Waiting for page to load
+2025-10-06 12:41:31 INFO - Label 'Featured Products Section' :: Waiting for element to be displayed
+2025-10-06 12:41:31 INFO - Link 'First Featured Product' :: Clicking
+2025-10-06 12:41:33 INFO - Waiting for page to load
+2025-10-06 12:41:33 INFO - ComboBox 'Processor Select Menu' :: Selecting value - '2'
+2025-10-06 12:41:33 INFO - ComboBox 'Select RAM' :: Selecting value - '5'
+2025-10-06 12:41:33 INFO - Button 'HDD Option' :: Clicking
+2025-10-06 12:41:34 INFO - Button 'OS Option' :: Clicking
+2025-10-06 12:41:34 INFO - Button 'Software Checkbox' :: Clicking
+2025-10-06 12:41:34 INFO - Button 'Add To Cart Button' :: Clicking
+2025-10-06 12:41:35 INFO - Closing browser

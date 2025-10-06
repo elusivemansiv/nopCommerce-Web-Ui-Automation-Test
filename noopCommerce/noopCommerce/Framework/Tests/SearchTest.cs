@@ -11,8 +11,8 @@ namespace noopCommerce.Framework.Tests
         [Test]
         public void searchTest()
         {
-            var homePage = new HomePage();
-            homePage.searchItemStore();
+            var searchPage = new HomePage();
+            searchPage.searchItemStore();
 
         }
     }
