@@ -3,6 +3,7 @@ using Aquality.Selenium.Core.Utilities;
 using noopCommerce.Framework.Pages;
 using NUnit.Framework;
 using OpenQA.Selenium;
+using System.Threading;
 
 namespace noopCommerce.Framework.Tests
 {

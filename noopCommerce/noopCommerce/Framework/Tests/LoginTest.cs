@@ -10,11 +10,57 @@ namespace noopCommerce.Framework.Tests
     {
         [Test]
 
-        public void loginTest()
+        public void ValidloginTest()
         {
             var loginPage = new LoginPage();
-            loginPage.loginPageTest();
+            loginPage.loginPageValidTest();
 
         }
+
+        [Test]
+
+        public void InValidEmailloginTest()
+        {
+            var loginPage = new LoginPage();
+            loginPage.loginPageInValidEmailTest();
+
+        }
+
+        [Test]
+
+        public void InValidPassloginTest()
+        {
+            var loginPage = new LoginPage();
+            loginPage.loginPageInValidPassTest();
+
+        }
+
+        [Test]
+
+        public void NoEmailloginTest()
+        {
+            var loginPage = new LoginPage();
+            loginPage.loginPageNoEmailTest();
+
+        }
+
+        [Test]
+
+        public void NoPassloginTest()
+        {
+            var loginPage = new LoginPage();
+            loginPage.loginPageNoPassword();
+
+        }
+
+        [Test]
+
+        public void InValidNodataloginTest()
+        {
+            var loginPage = new LoginPage();
+            loginPage.loginPageNoDataTest();
+
+        }
+
     }
 }

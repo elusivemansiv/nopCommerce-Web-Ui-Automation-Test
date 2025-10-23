@@ -1163,3 +1163,1055 @@ Performance: All
 2025-10-06 12:41:34 INFO - Button 'Software Checkbox' :: Clicking
 2025-10-06 12:41:34 INFO - Button 'Add To Cart Button' :: Clicking
 2025-10-06 12:41:35 INFO - Closing browser
+2025-10-15 22:06:48 DEBUG - Get settings from: settings.json
+2025-10-15 22:06:48 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-15 22:06:48 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-15 22:06:48 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-15 22:06:48 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-15 22:06:58 INFO - Browser 'Chrome' ready...
+2025-10-15 22:06:58 INFO - Maximizing browser window
+2025-10-15 22:06:58 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-15 22:07:00 INFO - Waiting for page to load
+2025-10-15 22:07:01 INFO - Button 'Login' :: Clicking
+2025-10-15 22:07:03 INFO - Text Field 'Email' :: Sending keys 'testing@gmail.com'
+2025-10-15 22:07:19 INFO - Closing browser
+2025-10-15 22:07:20 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-15 22:07:20 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-15 22:07:20 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-15 22:07:20 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-15 22:07:24 INFO - Browser 'Chrome' ready...
+2025-10-15 22:07:24 INFO - Maximizing browser window
+2025-10-15 22:07:24 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-15 22:07:26 INFO - Waiting for page to load
+2025-10-15 22:07:26 INFO - Button 'Login' :: Clicking
+2025-10-15 22:07:28 INFO - Closing browser
+2025-10-15 22:07:30 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-15 22:07:30 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-15 22:07:30 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-15 22:07:30 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-15 22:07:33 INFO - Browser 'Chrome' ready...
+2025-10-15 22:07:33 INFO - Maximizing browser window
+2025-10-15 22:07:33 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-15 22:07:35 INFO - Waiting for page to load
+2025-10-15 22:07:36 INFO - Button 'Login' :: Clicking
+2025-10-15 22:07:38 INFO - Text Field 'Email' :: Sending keys 'testing@gmail.com'
+2025-10-15 22:07:39 INFO - Closing browser
+2025-10-15 22:07:39 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-15 22:07:39 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-15 22:07:39 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-15 22:07:39 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-15 22:07:42 INFO - Browser 'Chrome' ready...
+2025-10-15 22:07:42 INFO - Maximizing browser window
+2025-10-15 22:07:42 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-15 22:07:44 INFO - Waiting for page to load
+2025-10-15 22:07:45 INFO - Button 'Login' :: Clicking
+2025-10-15 22:07:46 INFO - Text Field 'Email' :: Sending keys 'test@gmail.com'
+2025-10-15 22:07:50 INFO - Closing browser
+2025-10-15 22:08:01 DEBUG - Get settings from: settings.json
+2025-10-15 22:08:01 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-15 22:08:01 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-15 22:08:01 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-15 22:08:01 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-15 22:08:06 INFO - Browser 'Chrome' ready...
+2025-10-15 22:08:06 INFO - Maximizing browser window
+2025-10-15 22:08:06 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-15 22:08:08 INFO - Waiting for page to load
+2025-10-15 22:08:08 INFO - Button 'Register ' :: Clicking
+2025-10-15 22:08:13 INFO - Button 'Male radio button' :: Clicking
+2025-10-15 22:08:43 DEBUG - Page source:
+<html lang="en-US" dir="ltr"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}@media (width <= 720px){.h2{line-height:1.5rem;font-size:1.25rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="360"><script src="/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98f0939efdc07219"></script><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}button{font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}body.theme-dark{background-color:#222;color:#d9d9d9}body.theme-dark a{color:#fff}body.theme-dark a:hover{text-decoration:underline;color:#ee730a}body.theme-dark .lds-ring div{border-color:#999 rgba(0,0,0,0) rgba(0,0,0,0)}body.theme-dark .font-red{color:#b20f03}body.theme-dark .ctp-button{background-color:#4693ff;color:#1d1d1d}body.theme-dark #challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4")}body.theme-dark #challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+")}body.theme-light{background-color:#fff;color:#313131}body.theme-light a{color:#0051c3}body.theme-light a:hover{text-decoration:underline;color:#ee730a}body.theme-light .lds-ring div{border-color:#595959 rgba(0,0,0,0) rgba(0,0,0,0)}body.theme-light .font-red{color:#fc574a}body.theme-light .ctp-button{border-color:#003681;background-color:#003681;color:#fff}body.theme-light #challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=")}body.theme-light #challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI2ZjNTc0YSIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjZmM1NzRhIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+")}a{transition:color 150ms ease;background-color:rgba(0,0,0,0);text-decoration:none;color:#0051c3}a:hover{text-decoration:underline;color:#ee730a}.main-content{margin:8rem auto;padding-right:1.5rem;padding-left:1.5rem;width:100%;max-width:60rem}.main-content .loading-verifying{height:76.391px}.spacer{margin:2rem 0}.spacer-top{margin-top:4rem}.spacer-bottom{margin-bottom:2rem}.heading-favicon{margin-right:.5rem;width:2rem;height:2rem}@media (width <= 720px){.main-content{margin-top:4rem}.heading-favicon{width:1.5rem;height:1.5rem}}.main-wrapper{display:flex;flex:1;flex-direction:column;align-items:center}.font-red{color:#b20f03}.h1{line-height:3.75rem;font-size:2.5rem;font-weight:500}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}.core-msg{line-height:2.25rem;font-size:1.5rem;font-weight:400}.body-text{line-height:1.25rem;font-size:1rem;font-weight:400}@media (width <= 720px){.h1{line-height:1.75rem;font-size:1.5rem}.h2{line-height:1.5rem;font-size:1.25rem}.core-msg{line-height:1.5rem;font-size:1rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI2ZjNTc0YSIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjZmM1NzRhIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}#challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=");background-repeat:no-repeat;background-size:contain;padding-left:42px}.text-center{text-align:center}.ctp-button{transition-duration:200ms;transition-property:background-color,border-color,color;transition-timing-function:ease;margin:2rem 0;border:.063rem solid #0051c3;border-radius:.313rem;background-color:#0051c3;cursor:pointer;padding:.375rem 1rem;line-height:1.313rem;color:#fff;font-size:.875rem}.ctp-button:hover{border-color:#003681;background-color:#003681;cursor:pointer;color:#fff}.footer{margin:0 auto;padding-right:1.5rem;padding-left:1.5rem;width:100%;max-width:60rem;line-height:1.125rem;font-size:.75rem}.footer-inner{border-top:1px solid #d9d9d9;padding-top:1rem;padding-bottom:1rem}.clearfix::after{display:table;clear:both;content:""}.clearfix .column{float:left;padding-right:1.5rem;width:50%}.diagnostic-wrapper{margin-bottom:.5rem}.footer .ray-id{text-align:center}.footer .ray-id code{font-family:monaco,courier,monospace}.core-msg,.zone-name-title{overflow-wrap:break-word}@media (width <= 720px){.diagnostic-wrapper{display:flex;flex-wrap:wrap;justify-content:center}.clearfix::after{display:initial;clear:none;text-align:center;content:none}.column{padding-bottom:2rem}.clearfix .column{float:none;padding:0;width:auto;word-break:keep-all}.zone-name-title{margin-bottom:1rem}}.loading-verifying{height:76.391px}.lds-ring{display:inline-block;position:relative;width:1.875rem;height:1.875rem}.lds-ring div{box-sizing:border-box;display:block;position:absolute;border:.3rem solid #595959;border-radius:50%;border-color:#313131 rgba(0,0,0,0) rgba(0,0,0,0);width:1.875rem;height:1.875rem;animation:lds-ring 1.2s cubic-bezier(.5, 0, .5, 1) infinite}.lds-ring div:nth-child(1){animation-delay:-.45s}.lds-ring div:nth-child(2){animation-delay:-.3s}.lds-ring div:nth-child(3){animation-delay:-.15s}@keyframes lds-ring{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}.rtl .heading-favicon{margin-right:0;margin-left:.5rem}.rtl #challenge-success-text{background-position:right;padding-right:42px;padding-left:0}.rtl #challenge-error-text{background-position:right;padding-right:34px;padding-left:0}.challenge-content .loading-verifying{height:76.391px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}body a{color:#fff}body a:hover{text-decoration:underline;color:#ee730a}body .lds-ring div{border-color:#999 rgba(0,0,0,0) rgba(0,0,0,0)}body .font-red{color:#b20f03}body .ctp-button{background-color:#4693ff;color:#1d1d1d}body #challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4")}body #challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+")}}</style><script src="https://challenges.cloudflare.com/turnstile/v0/g/e9c9e9d67513/api.js?onload=nleNK4&amp;render=explicit" async="" defer="" crossorigin="anonymous"></script></head><body><div class="main-wrapper" role="main"><div class="main-content"><h1 class="zone-name-title h1"><img src="/favicon.ico" class="heading-favicon" alt="Icon for demo.nopcommerce.com">demo.nopcommerce.com</h1><p id="Truv1" class="h2 spacer-bottom">Verifying you are human. This may take a few seconds.</p><div id="uMtSJ0" style="display: grid;"><div><div><input type="hidden" name="cf-turnstile-response" id="cf-chl-widget-8quog_response"></div></div></div><div id="bBCk7" class="spacer loading-verifying" style="display: none; visibility: hidden;"><div class="lds-ring"><div></div><div></div><div></div><div></div></div></div><div id="OkOq1" class="core-msg spacer spacer-top">demo.nopcommerce.com needs to review the security of your connection before proceeding.</div><div id="Zdps1" style="display: none;"><div id="challenge-success-text" class="h2">Verification successful</div><div class="core-msg spacer">Waiting for demo.nopcommerce.com to respond...</div></div><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cvId: '3',cZone: 'demo.nopcommerce.com',cType: 'managed',cRay: '98f0939efdc07219',cH: 'sJ3ZkpQ5spKHCpL5.udUYhPX1Yjigh_4h_DIg3mko2I-1760544522-1.2.1.1-qSS9xm7a6RSUMiBUSaYwXSH2HTYbjsml0yEHci0SsJ4pYnBVOO85T1etMg4adPwJ',cUPMDTk:"\/register?returnUrl=%2F&__cf_chl_tk=4Ql0KiAhMaX31ocB3uMzLRK3nriyfBdi.UWwv9o1vVY-1760544522-1.0.1.1-ICEWPu7h4ZBSQ0BFMYZurWrdLADu0HFDfBu4SFqCZ1Y",cFPWv: 'g',cITimeS: '1760544522',cTplC:0,cTplV:5,cTplB: 'cf',fa:"\/register?returnUrl=%2F&__cf_chl_f_tk=4Ql0KiAhMaX31ocB3uMzLRK3nriyfBdi.UWwv9o1vVY-1760544522-1.0.1.1-ICEWPu7h4ZBSQ0BFMYZurWrdLADu0HFDfBu4SFqCZ1Y",md: 'crXCNQf9Z1ZQ5vnms5hEMd7WW96GX7dCbz4DkE2wiR4-1760544522-1.2.1.1-jSMkSd1NTUIVpDUDaGrVNmUHPjznkDOgtFs7Jyotn6ZKv6nx0kSXs0PLutU1HNh0QTGeNY1La_uBcVO6tcmhGm4j.fgLb_9uYlXGDp1c3pJ7Otun_Oimw2pFXt1z3m3hYcCdAFTEryeUo8SW0XVANkdpKpbifE0xApRPH4amB7qM8I25xMV7UVnASE.bNujldqS3uKWHXfsL7stnJIkNlSn5.Ho12o3UAetGGKo1qP0IdbZWl4s84Mro09tUMIy5NJAu8CwZKhULJyAzv62OKlIpWOshW2fGUIiGtSUkuqObr9LVexbqq1pgJsVvN9kgIfWTUfDz68RGuOqdKi_LqKecXjZamdCrNRAxibtWTMPF6TnPtTOkILgVD0N2uHXheLl.lqIFF1o3zapgSwZRByhVETla1wxafPIeuEn.w5SApdUe5CYtyPdIgMiWOnwVk1cFHtOw2JdD7Vh2_imJ1NFwEUjSfj_Kpb_7QFdXf1DSLInjNru4yC8vFGqRQeRJELecNsOulC8xc5fkAws3IxcMfXCskHV_6Q59n_2lTm.2xLIcnzr4SfH1zzbWreKcwGHy5jA2yAR3LNRTZcNScL_zrC2eIJugM0QI94q6htmRkpaWfL2eU8mvfEVGFXZwYTNFj7xhnidLAo2KgPf88.XW9yio9Faap2EEqMrAvePNPNnCmApo1ncabQucMO12a9mxpoh.f6BmWI5dlvOy37pWRrH8F4ijegrNxmK3TE..j2saMw5PqSnyaXoQ3ZbzJjTQ_sbyCxIr2.Ftm2wd_lkrDzdAMR9Jah3Pm4d1U6dApEWNyoFPqkXd2yW0LJBQWKfx52JadL5CMuDbRBJv4yA5wlXRFfOWI_5WlfGuT5RWkn3eXbBcULgPMRKeGpGmPjefHItGqLqYNChN9kzYL4gGdKMLxECFpxbxmU4lUbqWDUeMLpXQgIoZbl7JN1wQodvBiq1vRmAWrCm5ArYyKb4FRMmeMLUVflPxb7Hw5e_fJk3cPzf47EMMeLUCzjx3P5JyAm1plitUkq3JkHZhK5.Mj5Gw1WrUEYYAYlUgDaQ2nFL7qEVoWDJwVIzMh_OC',mdrd: 'tSgzvo6PLRg1GBHX3vGKXUNZeSt8w8ZjNiEDbLSWJXg-1760544522-1.2.1.1-LkagBzCGBsk5HY9KP9.MnaCHsjG1KakVT3HunQT069rKoBqVkzrb7JPhegxiRNuwVI6CmAP7zfIqQnzBFqbD3__5DxDHMUHncLbxtp6K2S9LoJ3Dh4OXz5_gOQoN0X3ykoshhXcavMGjcxXwjpmrUZ5FGo1vBiAX39pgSIpmrKPzt.csqLcxjx6iAWtQxiyQ2vJIgVKzUTBAAIk38kZsIDAHQ5oOPhk16qJSMQDle0X5Yhh6wfBVeoJUYdU8fNOza7qSqOfbZBj7pjBvNzpc2SBbz0HyiDFXw5iUKbm9.GmyIHQz_Gxf3pzKM19Ukeayk8zS3Exg8XnwIGibkl663XgcmH2DTbM87OgxZkH2dvJhZJ.wkBt3cK7l6K0dnmvyRsgS6GfqPGr1x5lUNZjbOV4DQRdNekhLaeCjtkHxiBHEbdGAhwjVAZxTbC1ragEAbqhyRUDAgFJ66D7xbJz9JbH12bcZvpZSYTVtqmvqscwAUV6A4HlEPJvr2P2KSYr1.pCXRJmGp1h5Ma.6U8uMzqKNyVIBGfUKwdPYZOFRvglBl0baz_Hekclz96r.kYmF1.It4bmua_qsE.MjggV.KpP0WZp09UMxL.HfSE4jbOPNqyd0DRR9eslcv5rqYEiCg1sPg9PB8blHrU.5iEeG6KwXHNg7uzSZfvYUiEKxGv5eL.Yn0pAS287PSgwcpQyfOBSxoILEhNYHB2mh8g76DD9er3wcXkTvoKq._Ms4vxagnY5ov5nOc3l8GB0Jq9gEOjjuH2YrFQR222sKv5ICQPIrB5Sb.eFtn5Y8iq0fSRREIMbO5f_QFNsXCszh24YUij7fjNayrBlJZffflR1kNB_MS8s8yNBnNm4mJ5oPT5SnNq49S8k7B6Jm.Q.f9Ixy.6n97f4DxVV5z.W8uhIaTa92WjyMTIsdUzIw3buaSVuYu5tWtUYxi3ZtfiN0D0SWPQnWzYdZMIkz1f.ptRxV_r6uLOCkkP8xsKWsipOzdcw6nZcQPCaASI9tCqrmTj.L_xcuLWDBC4qkSrYtnVvZoF.9Kb94kmcAltVU8uXdd6U6ptl1xshlDUOVbhucI.sY2ZPXpte4h2RkgwfQ11XghoN3YUJRQ1X24w5yQ2vhvKGJqgi96CGtqDux2vuAkhwp2cDpde5l85eQdfrx40x.CMZ9UDhKIWXh9Lb8WsUbkWr29Tw9SYUML7EbRClheG7yvrN6uZ3yWsF2r0kCRFbYwx9.8HXKwFJ8FTVrSPARqT6RQk6ifVw7EO09RcNuTZCJbUnsUU5wSf4nCf9x202Q5IH281XJJT9xaloPFiil.KPo2SP5Dx_C3IDT1e3Hi0njk7upSwQbW7f5gbGpuhcP_H5B2Oq8HBXqTrY4d6TnXzU1WbvTV_RrNhzoYFUmzokVhO6rTl8pq.RA8ptTLSwQOX4NUUf_fsMzvfMRj5dU9Yxr2N09kxpgcISpbQ9oBcLP6Jr2UZJqjmmMy3HSPKwiMlG5HQGwFJ103ESI3c9l7wr0tut74jRJzh12QOzX1teuDDzm2rU3QCZP6C7U7OpxBRoU4w0Gwhci9JF9ZoqYXqVQYRxdi719A6EME7CB7emiNOxaRskrnK5BkexRK5QkQ5QvYlp4VgNTO2rmLbGBh4F.rYeZUc_H5s5_7g9gfcW2i19ta5WkzTern1ltgKRPgLLxlpPaIu6qv9LD3EycJoBJu4o7ng9.QiXMXuAEP3lOhayBsNCvFfeX99BOqsPP4sFKrVuJFiQdP_QEYuaU30Cy35vO7GZPa0Q34mHtX5ONbzisk.SchHI0XyHn7p9pr9wmNh57f38B3UdFswZwNo9gmNgec.UcQQnOxXH2Ycc0ngvlMOanRpFcLSoKHxOhDMpYXPspfrY37PWzEFqPGCm2IFg6Zwtgsc5rifp3ws3t9OE5zC73QXSn1WTHHco_0GhD_754uliMGRhHJe5VyuwbSa8HZN33vHYescjFGWyjL3uSyyCfWmC.TAyAhRTEDKrMaxIRXpm.PRccArlgQx5u70jfFVHl7zwjNEyAUSZnMsWQ0ZjmsY9EHRLMxfJiFfvff5ItcGde5jl221NmRSNHH4cemhajfucHniSIKWaTWiRifjSC579o7wLMOtDt9K8UDH1kSH5HtXYlstgORRH_V88YGcTWgx5j0R3A3bbymYyfdXXISstPczGqPSy6VdaSzRo0EGew8lvZ_Uzk0HPE2maNXuV0HO8HEHuINd4YhLllhrUQ6Wk80OML0epQFhZuAO2_HxxvIvtTt8HFRnzGnCUT0NVrVyJ1gcV34uV7dez_LSz9ZeZBsR9F6iffqWOHaxc5h87UfmI84lhot.uY25Fatlq7fYY1jqHYO.wDbhHlfT6Viw6nF786WzhW0HfMzg4uyyiFG7xYon60TDRYZOwOJOIl0MzMiYoLK0.b29DpiDGhFMwRMzk3wU3yzmmtweGYysISN5EA5oP0vUD467pJ7y5QrHZaQGZjUxc2ZKi_7k.RSLIuJZqNLnNhQlNysPCnbxWuYuvf2IkzXw6WK7GxR28qXcgXbeIbiD.qSShbLIYzNBknEEqqWmVtc6y1C0JUPCP5FWNtE3qzan1GqpdOOWM_msP.bPO3bf6sCkv08b01q1ltflFoWBl8srVYFJR40V8jV0Q9X9rbmk_ZDDjNkotenET6iloijG5oIbu3obo4oLV1QH1gR0pUPWnYUuqiRnC5aZBKRQ733OrCB.ftE6kk3KvpcW0bg47dkRst8WnLQhBi66PPoLaAKvf4WQYb9qBoiRq.6s0AMA2TPC4lyMoOSs0MVDWVzAzN469bWJfresLfI.kZ7ZxoNEcbfiLabW6fLYzQaafrPpxdJqwC_xKBd9K5AjwEMfM2R6Hhjv_1ioHyrcdIaLYA76hR..B7W0gFe7hM_HCPTR2xyDGH4jXTrwMkpw8rAQ9wK9nUTid7LL15MrBvDG.qKjwmvKj_v662.NfhFywb_lhMs51v6xmM4WD1BQJMpcJh6kDnX4zi8swtHs7mx6ajShdFSBUKJRVJnKhyD2U2850_0hF0rFepwi5DPozjX30jYbFqn6UeyH9.InM6g121jsv6CfZh2XJcjXVYOotoGZxI0Z0eEeyIZMQHfsTKTfdlUMjk2eTCVWvdeFk5AiKm644Ady3aSqiR49Zkd71KhHs',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98f0939efdc07219';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"\/register?returnUrl=%2F&__cf_chl_rt_tk=4Ql0KiAhMaX31ocB3uMzLRK3nriyfBdi.UWwv9o1vVY-1760544522-1.0.1.1-ICEWPu7h4ZBSQ0BFMYZurWrdLADu0HFDfBu4SFqCZ1Y"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;98f0939efdc07219&quot;,&quot;version&quot;:&quot;2025.9.1&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfEdge&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;token&quot;:&quot;c9968ab4bf7342ef8c643d4835a610ea&quot;,&quot;b&quot;:1}" crossorigin="anonymous"></script>
+<div class="footer" role="contentinfo"><div class="footer-inner"><div class="clearfix diagnostic-wrapper"><div class="ray-id">Ray ID: <code>98f0939efdc07219</code></div></div><div class="text-center" id="footer-text">Performance &amp; security by <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&amp;utm_campaign=m" target="_blank">Cloudflare</a></div></div></div></body></html>
+2025-10-15 22:08:43 INFO - Closing browser
+2025-10-15 22:09:02 DEBUG - Get settings from: settings.json
+2025-10-15 22:09:03 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-15 22:09:03 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-15 22:09:03 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-15 22:09:03 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-15 22:09:08 INFO - Browser 'Chrome' ready...
+2025-10-15 22:09:08 INFO - Maximizing browser window
+2025-10-15 22:09:08 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-15 22:09:10 INFO - Waiting for page to load
+2025-10-15 22:09:10 INFO - Button 'Register ' :: Clicking
+2025-10-15 22:09:18 INFO - Button 'Male radio button' :: Clicking
+2025-10-15 22:09:49 ERROR - Element [Male radio button] was not found by locator 'By.Id: gender-male' in Displayed state: Timed out after 30 seconds; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+2025-10-15 22:09:49 FATAL - An exception occurred while tried to save the page source
+2025-10-15 22:09:49 INFO - Closing browser
+2025-10-15 22:09:56 DEBUG - Get settings from: settings.json
+2025-10-15 22:09:56 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-15 22:09:56 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-15 22:09:56 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-15 22:09:56 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-15 22:10:07 INFO - Browser 'Chrome' ready...
+2025-10-15 22:10:07 INFO - Maximizing browser window
+2025-10-15 22:10:07 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-15 22:10:10 INFO - Waiting for page to load
+2025-10-15 22:10:11 INFO - Button 'Register ' :: Clicking
+2025-10-15 22:10:13 INFO - Button 'Male radio button' :: Clicking
+2025-10-15 22:10:29 INFO - Closing browser
+2025-10-15 22:10:42 DEBUG - Get settings from: settings.json
+2025-10-15 22:10:42 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-15 22:10:42 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-15 22:10:42 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-15 22:10:42 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-15 22:10:50 INFO - Browser 'Chrome' ready...
+2025-10-15 22:10:50 INFO - Maximizing browser window
+2025-10-15 22:10:50 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-15 22:10:51 INFO - Waiting for page to load
+2025-10-15 22:10:52 INFO - Text Field 'Search store' :: Sending keys 'Iphone 16'
+2025-10-15 22:10:52 INFO - Button 'Click Search Button' :: Clicking
+2025-10-15 22:10:58 INFO - Closing browser
+2025-10-15 22:11:08 DEBUG - Get settings from: settings.json
+2025-10-15 22:11:08 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-15 22:11:08 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-15 22:11:08 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-15 22:11:08 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-15 22:11:14 INFO - Browser 'Chrome' ready...
+2025-10-15 22:11:14 INFO - Maximizing browser window
+2025-10-15 22:11:15 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-15 22:11:17 INFO - Waiting for page to load
+2025-10-15 22:11:17 INFO - Text Field 'Search store' :: Sending keys 'Iphone 16'
+2025-10-15 22:11:17 INFO - Button 'Click Search Button' :: Clicking
+2025-10-15 22:11:21 INFO - Closing browser
+2025-10-15 22:11:30 DEBUG - Get settings from: settings.json
+2025-10-15 22:11:31 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-15 22:11:31 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-15 22:11:31 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-15 22:11:31 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-15 22:11:36 INFO - Browser 'Chrome' ready...
+2025-10-15 22:11:36 INFO - Maximizing browser window
+2025-10-15 22:11:36 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-15 22:11:37 INFO - Waiting for page to load
+2025-10-15 22:11:38 INFO - Button 'noopCommerce Logo ' :: Clicking
+2025-10-15 22:11:42 INFO - Closing browser
+2025-10-15 22:11:48 DEBUG - Get settings from: settings.json
+2025-10-15 22:11:48 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-15 22:11:48 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-15 22:11:48 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-15 22:11:48 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-15 22:11:53 INFO - Browser 'Chrome' ready...
+2025-10-15 22:11:53 INFO - Maximizing browser window
+2025-10-15 22:11:54 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-15 22:11:55 INFO - Waiting for page to load
+2025-10-15 22:11:55 INFO - Button 'noopCommerce Logo ' :: Clicking
+2025-10-15 22:12:00 INFO - Closing browser
+2025-10-15 22:12:13 DEBUG - Get settings from: settings.json
+2025-10-15 22:12:13 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-15 22:12:13 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-15 22:12:13 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-15 22:12:13 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-15 22:12:19 INFO - Browser 'Chrome' ready...
+2025-10-15 22:12:19 INFO - Maximizing browser window
+2025-10-15 22:12:19 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-15 22:12:20 INFO - Waiting for page to load
+2025-10-15 22:12:21 INFO - Label 'Featured Products Section' :: Waiting for element to be displayed
+2025-10-15 22:12:21 INFO - Link 'First Featured Product' :: Clicking
+2025-10-15 22:12:26 INFO - Waiting for page to load
+2025-10-15 22:12:27 INFO - ComboBox 'Processor Select Menu' :: Selecting value - '2'
+2025-10-15 22:12:57 DEBUG - Page source:
+<html lang="en-US" dir="ltr"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}@media (width <= 720px){.h2{line-height:1.5rem;font-size:1.25rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="360"><script src="/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98f099afba5c3f11"></script><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}button{font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}body.theme-dark{background-color:#222;color:#d9d9d9}body.theme-dark a{color:#fff}body.theme-dark a:hover{text-decoration:underline;color:#ee730a}body.theme-dark .lds-ring div{border-color:#999 rgba(0,0,0,0) rgba(0,0,0,0)}body.theme-dark .font-red{color:#b20f03}body.theme-dark .ctp-button{background-color:#4693ff;color:#1d1d1d}body.theme-dark #challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4")}body.theme-dark #challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+")}body.theme-light{background-color:#fff;color:#313131}body.theme-light a{color:#0051c3}body.theme-light a:hover{text-decoration:underline;color:#ee730a}body.theme-light .lds-ring div{border-color:#595959 rgba(0,0,0,0) rgba(0,0,0,0)}body.theme-light .font-red{color:#fc574a}body.theme-light .ctp-button{border-color:#003681;background-color:#003681;color:#fff}body.theme-light #challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=")}body.theme-light #challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI2ZjNTc0YSIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjZmM1NzRhIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+")}a{transition:color 150ms ease;background-color:rgba(0,0,0,0);text-decoration:none;color:#0051c3}a:hover{text-decoration:underline;color:#ee730a}.main-content{margin:8rem auto;padding-right:1.5rem;padding-left:1.5rem;width:100%;max-width:60rem}.main-content .loading-verifying{height:76.391px}.spacer{margin:2rem 0}.spacer-top{margin-top:4rem}.spacer-bottom{margin-bottom:2rem}.heading-favicon{margin-right:.5rem;width:2rem;height:2rem}@media (width <= 720px){.main-content{margin-top:4rem}.heading-favicon{width:1.5rem;height:1.5rem}}.main-wrapper{display:flex;flex:1;flex-direction:column;align-items:center}.font-red{color:#b20f03}.h1{line-height:3.75rem;font-size:2.5rem;font-weight:500}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}.core-msg{line-height:2.25rem;font-size:1.5rem;font-weight:400}.body-text{line-height:1.25rem;font-size:1rem;font-weight:400}@media (width <= 720px){.h1{line-height:1.75rem;font-size:1.5rem}.h2{line-height:1.5rem;font-size:1.25rem}.core-msg{line-height:1.5rem;font-size:1rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI2ZjNTc0YSIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjZmM1NzRhIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}#challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=");background-repeat:no-repeat;background-size:contain;padding-left:42px}.text-center{text-align:center}.ctp-button{transition-duration:200ms;transition-property:background-color,border-color,color;transition-timing-function:ease;margin:2rem 0;border:.063rem solid #0051c3;border-radius:.313rem;background-color:#0051c3;cursor:pointer;padding:.375rem 1rem;line-height:1.313rem;color:#fff;font-size:.875rem}.ctp-button:hover{border-color:#003681;background-color:#003681;cursor:pointer;color:#fff}.footer{margin:0 auto;padding-right:1.5rem;padding-left:1.5rem;width:100%;max-width:60rem;line-height:1.125rem;font-size:.75rem}.footer-inner{border-top:1px solid #d9d9d9;padding-top:1rem;padding-bottom:1rem}.clearfix::after{display:table;clear:both;content:""}.clearfix .column{float:left;padding-right:1.5rem;width:50%}.diagnostic-wrapper{margin-bottom:.5rem}.footer .ray-id{text-align:center}.footer .ray-id code{font-family:monaco,courier,monospace}.core-msg,.zone-name-title{overflow-wrap:break-word}@media (width <= 720px){.diagnostic-wrapper{display:flex;flex-wrap:wrap;justify-content:center}.clearfix::after{display:initial;clear:none;text-align:center;content:none}.column{padding-bottom:2rem}.clearfix .column{float:none;padding:0;width:auto;word-break:keep-all}.zone-name-title{margin-bottom:1rem}}.loading-verifying{height:76.391px}.lds-ring{display:inline-block;position:relative;width:1.875rem;height:1.875rem}.lds-ring div{box-sizing:border-box;display:block;position:absolute;border:.3rem solid #595959;border-radius:50%;border-color:#313131 rgba(0,0,0,0) rgba(0,0,0,0);width:1.875rem;height:1.875rem;animation:lds-ring 1.2s cubic-bezier(.5, 0, .5, 1) infinite}.lds-ring div:nth-child(1){animation-delay:-.45s}.lds-ring div:nth-child(2){animation-delay:-.3s}.lds-ring div:nth-child(3){animation-delay:-.15s}@keyframes lds-ring{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}.rtl .heading-favicon{margin-right:0;margin-left:.5rem}.rtl #challenge-success-text{background-position:right;padding-right:42px;padding-left:0}.rtl #challenge-error-text{background-position:right;padding-right:34px;padding-left:0}.challenge-content .loading-verifying{height:76.391px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}body a{color:#fff}body a:hover{text-decoration:underline;color:#ee730a}body .lds-ring div{border-color:#999 rgba(0,0,0,0) rgba(0,0,0,0)}body .font-red{color:#b20f03}body .ctp-button{background-color:#4693ff;color:#1d1d1d}body #challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4")}body #challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+")}}</style><script src="https://challenges.cloudflare.com/turnstile/v0/g/e9c9e9d67513/api.js?onload=nleNK4&amp;render=explicit" async="" defer="" crossorigin="anonymous"></script></head><body><div class="main-wrapper" role="main"><div class="main-content"><h1 class="zone-name-title h1"><img src="/favicon.ico" class="heading-favicon" alt="Icon for demo.nopcommerce.com">demo.nopcommerce.com</h1><p id="Truv1" class="h2 spacer-bottom">Verify you are human by completing the action below.</p><div id="uMtSJ0" style="display: grid;"><div><div><input type="hidden" name="cf-turnstile-response" id="cf-chl-widget-mipig_response"></div></div></div><div id="bBCk7" class="spacer loading-verifying" style="display: none; visibility: hidden;"><div class="lds-ring"><div></div><div></div><div></div><div></div></div></div><div id="OkOq1" class="core-msg spacer spacer-top">demo.nopcommerce.com needs to review the security of your connection before proceeding.</div><div id="Zdps1" style="display: none;"><div id="challenge-success-text" class="h2">Verification successful</div><div class="core-msg spacer">Waiting for demo.nopcommerce.com to respond...</div></div><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cvId: '3',cZone: 'demo.nopcommerce.com',cType: 'managed',cRay: '98f099afba5c3f11',cH: 'XFLuRrVRjW8WtfmwLvfjc64IsPezVIlpVnDL2q3PvO8-1760544770-1.2.1.1-nVSho5vL1qncuxxq2.CleyrxqeW_Usw0On.mx.FlN4verrgc2MNkFO.wD.D7Ieiy',cUPMDTk:"\/build-your-own-computer?__cf_chl_tk=db49IlljN.M1SJRIvCYyX90GAeWPFkcUxVOfq4ZMKdQ-1760544770-1.0.1.1-ChjzTAIvw0i5qd_JXHH9V7pCciGwMSJxKl0C5AlJUPQ",cFPWv: 'g',cITimeS: '1760544770',cTplC:0,cTplV:5,cTplB: 'cf',fa:"\/build-your-own-computer?__cf_chl_f_tk=db49IlljN.M1SJRIvCYyX90GAeWPFkcUxVOfq4ZMKdQ-1760544770-1.0.1.1-ChjzTAIvw0i5qd_JXHH9V7pCciGwMSJxKl0C5AlJUPQ",md: 'x1QBGCorNVeoMFz88MCeQ1GLg7CCDHt6FawyiRl935Q-1760544770-1.2.1.1-4YiQ3nMjRUrGXQgFtvNNpjVzDUv4eUnf0FJ4cVpqxYcBh6OhkmWF7TiAni76xeL34BmS4vZuUEEliNF2SuTeeAE0Pf8d2TlQJ6w9xuhb2JnqcmdO3aVH97wSs82T8R.b1DVkx5uCSexYaD_hJHBzvR85reXjb4eOYOb_FvHzQRpxX9yjJIE4XuZQKeylB_yGVobv6Ufy58QzX81i7jek2qxrw4O8dnDij8AcNBl6xYaGuRLhM02MKBPL.QM0nlqZSEFj3IWtt3zOHBC1_VyDVsKk0Ks4ByqO2pk9X3t3xsnYc8q.YXbuonQF8ca2oHHMMWDmLwTyEVZ9VZU3ef3vEdl0vDtIL11O4Ftsrxnvu7yNQIKSCQmQxS5LJfeRv5MvvDw09JpEtbPG7Omn7_fNA3ol2mi1A3Q_KFRtq999Sh2d3pA6JVC_Ei41Ubs.8yeyKD2UHz3oETcPfUKkm.7kbBwYOSFXPOONANLgdiwGiCIBr4z643ERPrZVoOPd4wo0uiY6re3.e9r.e7YJq8OHVhqxoZ4bIMYRV6GWaF5LaF4aotafe8O8HDEzaQA8o6hXq94xNmPPSwimtICQqVo_3W6J5GoPUDa9.O___.QtXqL196cMjruqTULosUB6xrwGjxOXawdYeK0LoFPYnWFQOrgRAIKY7LFgABFdGEMhLRdlMyNYhSVTD70ZRZPT2ZBR2BT3ygO.3EzNCFOx8Tpah_sPMIQUfrZPa_o2KhtoQUGjoh706V7s9M84jbXLMFjksQdkD6UI.bGJZjvqLwe.Tff6tTzUnWQfEoKXv4.mLiTBkZP9kQkzONrr4ED1BZ1ITm7XhLXbDXnAcY9R64Izc1h85.HBrAzsRH21tlraV2ypKl1J29.c9yTGxV4cauUKWbFbmhioN5jqdP0OX8wctWRRpPDwjtn.Qtqlxhq9puToS_A23zkK3lEWgT3neN.vxDn8JfjFomo_mVthLShPGGiQGzt2I_wVgbYcNydkkY3Xn0iK6_6nEXKXTYPpc6Mq1LO0f7jLMc1AwTtKq3SNfrtlgbLa5TUVkj_vYrAi9F9E2KMUrGkZpHK6r9b0B2SH',mdrd: 'tbZsk1Z.LC.K3uEik2XHjy.C7FX__Rqir48jtnQ3nGA-1760544770-1.2.1.1-JP14ONK4YgUUwi6lmwgTJ2tlOmwpxdT7.hJY_5lEemxhHH5oCqndDMLRL2qB6PbTfHx81Fvx09DDZCzv01wWwOFQBLyRPHytIHr3QTH_bdKVOYlNkEFNGfFpt7GRQSa0.nm7v03.LQpKqtzAYdtdnNpx48lxVuKSbbzmRTgqOi8AKInD3Pk05zS32of2RNumgJlapKItFAX_Qee_cnvvfTD4LqkhNuzW.H9VGM0T46SX6JOC71SqG_teitWuDvS06KM1A0wz2L9TxP56h._X0CJBCDwpY0PUGZLY3vvCn5bXaad26HwlnJ50OD0qUUav7EZrY2P6KYqlUNdYbYW21xs_JMojYWNOgwE2Nl.KHUxoDLgx9yPyWjRrRonJlhiDXlm96VZa.C6pn46Fbhb2OmlMKm8an0r3PXdCTCkA_ciXAdSgD8uHLlwcyBoqp7w1KXuEzYP_dYpAXxrkWFjAxyISK0f56c9_l4R43fjQ0AExCWVqySH_2xLcUNo5W5SmbkT8u2TtjYRrThLW7CicchD0c9h8abk.SbQUin_clLuZJHfARHgDPxhLLH_xBFKo29O5IgKkYBoeYgB8of96FRE78y5VQashRI7Rl52ZvHVEsCSXgAIvRVY39vDW8Mcegi98gO6l3ZmxStJ4qwxp.DHy7NVnw65yhKEDowm_ZZJ63KYO.zX37jE6RqFE5gtUz1g1cO5zC01Dy11V9AoIeAW44.64D.KswEdrzDNPb2b9rcsyOCT0fH2QrGu4c_3dINbRJ2ZIcClslKZfXKiuBN81tJm7r2nNjp4yvK4xNNTmJ7PuviR52Q1KFbsRpnZR7CmPGv5QuyWzOLcN9Dm3RCG6Ld.NxPUzfVjnSFTDBTYczm9xOjdDvx.5SacsuxE5kHraiRUqpjhBquUn_tIGoSGBPy8WVAmfxFzwHvIrmFNFmHYUarkoU2vNYVdJ5uj1XtCC6QwD7fQjJUXvUPwakfkFfCLPaQ2KyeYEQe2ylQcnAjUc9X4KFs3MokcoZhYDVynCy_PkC9dg3d6sQN00BwHo6bQVxj6lnKH2CJoZgQm9GxpWtUqtkKzKTjSZJnj4Foa0mh57S21pyqe.YrZRwr1AJqHJeuIWTSmhzIGlOiGglkqX1qoQ4ZQGkDZFaPJ1aBL_E2ShkssxbP2FN3Rzer9oDj5kEvunPRY.KYQpXiwzC5XK41ojqeqJV6ooYK6uZRglXmg_Q6jjG4dGZoFcPJY4brIOr2ryLFKLkpw36l6zpBiRC8ge5byn9MVUndmB6L7ugrON0RNQ0GiwIqK8l0JrwitizwkXQHsKdyJmnJiC8utHLYpeE9zToSs321IJHDaoE6t54UI.JL50dFOoT7kej5XNETPo87t0Yq_zZsYEGx4wsSwtvnPQQDHk3cozciENyPwXWrMnyPNzu5Rh.zwyON0raqLYSO9fnItSRsITPFPpH7cvO9x44golzSYUAZuG2oMLiWlNWZRark8ksEupJ3tGWQ9e9jTF2_.AZ53J4BllZnWcJld.4r_jKYpvjJQo_wI3R8fxazJxGGJDijhhWjsMBx.RCeBHbyPNn6rcaIKUUGLnaRLhZn2oAidO5bFkWQfHtLwa5YzEBjPNEM6xG.DzMIN0SzR2nfht4r1SmxLCUmNPHQduUaOeW4mqXRiXeECT45y6k5jvaZ3aTfvJ9AkuFEVIwb2YfwxjJMrR0YvgB8jJVP_uBRKWi.wOmpn_alXKStoOPZaO8CzCpwKCNYa1KI1hyTgb9xvWAfYxy85ZN_fKlWdups9ak2YLWioqysS_AFo.tJtbS7mc3VPJxXQtvycGSGLU.lkffHxgLZMNvsRqK740Ph.oaJ7385PDe7f36bNl94vxKHvvgEFBm1JC3qYrPWdxYePGeYzBF2BMNv5V0vgij7Cj9i3I3r7rpqjXKUPk.DPN8W.tY1U5a.D7Ke6W.BsVpMfrJE4gYL3ZaBg8auQd2359xzG4S0u4IfFpDgIv44D3Y7HnJZ.ICj8vfFBKj0bGDsPdpIXsp2.Yh._W0WJGuzFvzRqJ5RKpb5IxGBlyZm.PJpNwPfcEoT0H9J5lX8RTzwwMWXA43YeqzkbjRY8whBJje0GimEI78Et7QXenHZkC_c_rj1Re51yT9Qh0zXnkVCVFuikUO0a2rvu8eJrKwA7YeXNuU0oIkRKGM_ah1nBwGpql7FpD3Lc_S2r6sWelnfOSIWu_RxKppjKQi8YeEqtMjauDZTBl1.UJdhZIld3qErRv9XVyEDrZseox.NEeoueModi2cvwtdZKGivHcSQTVFG7o7NfK0xCGmF96nRx7tV7Hx9N4du48Q_VBoCiITJKKNZWgWVG0sYv6CPbx9u7s2xXmYQPxgw0YICJNeJXw6Zjcb8bhgoPxddGg8itAAWcA.oWvg1AWfoxTEiw2K_jx_fBzk8yGkeNx0ri8pO8edRkGOPOm_V1LTol3f01nRiFe9KIM8YDoAFF7gRImOgw64u5PtFhUherYtxNuwD2tBNpsbAnc.0YSR59zMWvte.ExpiJR54vQeDG0ONob83lnjsM66n.SAcpEM_uCBT2l5gwYVa_AFteRDKyrKKtT23QKEISlIVJTOIld200AnCi6QCaFKleh1Is5VXo3n7DsW3nEa4UDr.YbcfJn66vdvEOPItdevsK8LQf3W6.FYMI601b2DZERsAOPAEpcIUTBKSq0SNSafhOpTskofz59kH3fST3xz8LusmmfLMo7Qe6OnvEpeC9xMBgWoNWadbfJ8T2JVcvViR__4l79CNevLZYkttw6LlXlGqKk5Om1LO.zLCY05WSDraw7eGBaHXxQPasKbKbmdid5acSS1OW_C_L3TWBY2tVdt1ftkG6QkQ3pNxD7.yGbSesftJpVrF78BRLDPlMEqCREDGQVwsPmX3hoUtX6GRfM8Kv1KO4.ZtGgBjm9I9_S6LUp7vEb_D2CNkQ4rrse9kERf.1LNXWBiZaZKsyueGk5hLEswN_mFDVo52yMdKQIyKpNt4P4WhrF2y.jJUq.f3gc0_iKPtHf5eMUsR3xbOxsKsCkTFW7WU0BbrTbmQr9Cj30cBOudwNgjHwMdJVUfi7lkn1qX7NX_hhpNqdlCHupqSdC.kjpVXwOveDFfix4by4rA_FC8VuVOeg5gpX6lU5w8BxUd6W8869eSC5BpCqXr.7SKgSrMgQtSxAp',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98f099afba5c3f11';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"\/build-your-own-computer?__cf_chl_rt_tk=db49IlljN.M1SJRIvCYyX90GAeWPFkcUxVOfq4ZMKdQ-1760544770-1.0.1.1-ChjzTAIvw0i5qd_JXHH9V7pCciGwMSJxKl0C5AlJUPQ"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;98f099afba5c3f11&quot;,&quot;version&quot;:&quot;2025.9.1&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfEdge&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;token&quot;:&quot;c9968ab4bf7342ef8c643d4835a610ea&quot;,&quot;b&quot;:1}" crossorigin="anonymous"></script>
+<div class="footer" role="contentinfo"><div class="footer-inner"><div class="clearfix diagnostic-wrapper"><div class="ray-id">Ray ID: <code>98f099afba5c3f11</code></div></div><div class="text-center" id="footer-text">Performance &amp; security by <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&amp;utm_campaign=m" target="_blank">Cloudflare</a></div></div></div></body></html>
+2025-10-15 22:12:57 INFO - Closing browser
+2025-10-16 14:14:27 DEBUG - Get settings from: settings.json
+2025-10-16 14:14:28 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-16 14:14:28 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-16 14:14:28 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-16 14:14:28 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-16 14:14:42 INFO - Browser 'Chrome' ready...
+2025-10-16 14:14:42 INFO - Maximizing browser window
+2025-10-16 14:14:42 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-16 14:14:51 INFO - Waiting for page to load
+2025-10-16 14:14:52 INFO - Button 'Register ' :: Clicking
+2025-10-16 14:14:53 INFO - Button 'Male radio button' :: Clicking
+2025-10-16 14:15:24 DEBUG - Page source:
+<html lang="en-US" dir="ltr"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}@media (width <= 720px){.h2{line-height:1.5rem;font-size:1.25rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="360"><script src="/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98f61b7e0c1a3e6f"></script><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}button{font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}body.theme-dark{background-color:#222;color:#d9d9d9}body.theme-dark a{color:#fff}body.theme-dark a:hover{text-decoration:underline;color:#ee730a}body.theme-dark .lds-ring div{border-color:#999 rgba(0,0,0,0) rgba(0,0,0,0)}body.theme-dark .font-red{color:#b20f03}body.theme-dark .ctp-button{background-color:#4693ff;color:#1d1d1d}body.theme-dark #challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4")}body.theme-dark #challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+")}body.theme-light{background-color:#fff;color:#313131}body.theme-light a{color:#0051c3}body.theme-light a:hover{text-decoration:underline;color:#ee730a}body.theme-light .lds-ring div{border-color:#595959 rgba(0,0,0,0) rgba(0,0,0,0)}body.theme-light .font-red{color:#fc574a}body.theme-light .ctp-button{border-color:#003681;background-color:#003681;color:#fff}body.theme-light #challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=")}body.theme-light #challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI2ZjNTc0YSIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjZmM1NzRhIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+")}a{transition:color 150ms ease;background-color:rgba(0,0,0,0);text-decoration:none;color:#0051c3}a:hover{text-decoration:underline;color:#ee730a}.main-content{margin:8rem auto;padding-right:1.5rem;padding-left:1.5rem;width:100%;max-width:60rem}.main-content .loading-verifying{height:76.391px}.spacer{margin:2rem 0}.spacer-top{margin-top:4rem}.spacer-bottom{margin-bottom:2rem}.heading-favicon{margin-right:.5rem;width:2rem;height:2rem}@media (width <= 720px){.main-content{margin-top:4rem}.heading-favicon{width:1.5rem;height:1.5rem}}.main-wrapper{display:flex;flex:1;flex-direction:column;align-items:center}.font-red{color:#b20f03}.h1{line-height:3.75rem;font-size:2.5rem;font-weight:500}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}.core-msg{line-height:2.25rem;font-size:1.5rem;font-weight:400}.body-text{line-height:1.25rem;font-size:1rem;font-weight:400}@media (width <= 720px){.h1{line-height:1.75rem;font-size:1.5rem}.h2{line-height:1.5rem;font-size:1.25rem}.core-msg{line-height:1.5rem;font-size:1rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI2ZjNTc0YSIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjZmM1NzRhIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}#challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=");background-repeat:no-repeat;background-size:contain;padding-left:42px}.text-center{text-align:center}.ctp-button{transition-duration:200ms;transition-property:background-color,border-color,color;transition-timing-function:ease;margin:2rem 0;border:.063rem solid #0051c3;border-radius:.313rem;background-color:#0051c3;cursor:pointer;padding:.375rem 1rem;line-height:1.313rem;color:#fff;font-size:.875rem}.ctp-button:hover{border-color:#003681;background-color:#003681;cursor:pointer;color:#fff}.footer{margin:0 auto;padding-right:1.5rem;padding-left:1.5rem;width:100%;max-width:60rem;line-height:1.125rem;font-size:.75rem}.footer-inner{border-top:1px solid #d9d9d9;padding-top:1rem;padding-bottom:1rem}.clearfix::after{display:table;clear:both;content:""}.clearfix .column{float:left;padding-right:1.5rem;width:50%}.diagnostic-wrapper{margin-bottom:.5rem}.footer .ray-id{text-align:center}.footer .ray-id code{font-family:monaco,courier,monospace}.core-msg,.zone-name-title{overflow-wrap:break-word}@media (width <= 720px){.diagnostic-wrapper{display:flex;flex-wrap:wrap;justify-content:center}.clearfix::after{display:initial;clear:none;text-align:center;content:none}.column{padding-bottom:2rem}.clearfix .column{float:none;padding:0;width:auto;word-break:keep-all}.zone-name-title{margin-bottom:1rem}}.loading-verifying{height:76.391px}.lds-ring{display:inline-block;position:relative;width:1.875rem;height:1.875rem}.lds-ring div{box-sizing:border-box;display:block;position:absolute;border:.3rem solid #595959;border-radius:50%;border-color:#313131 rgba(0,0,0,0) rgba(0,0,0,0);width:1.875rem;height:1.875rem;animation:lds-ring 1.2s cubic-bezier(.5, 0, .5, 1) infinite}.lds-ring div:nth-child(1){animation-delay:-.45s}.lds-ring div:nth-child(2){animation-delay:-.3s}.lds-ring div:nth-child(3){animation-delay:-.15s}@keyframes lds-ring{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}.rtl .heading-favicon{margin-right:0;margin-left:.5rem}.rtl #challenge-success-text{background-position:right;padding-right:42px;padding-left:0}.rtl #challenge-error-text{background-position:right;padding-right:34px;padding-left:0}.challenge-content .loading-verifying{height:76.391px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}body a{color:#fff}body a:hover{text-decoration:underline;color:#ee730a}body .lds-ring div{border-color:#999 rgba(0,0,0,0) rgba(0,0,0,0)}body .font-red{color:#b20f03}body .ctp-button{background-color:#4693ff;color:#1d1d1d}body #challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4")}body #challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+")}}</style><script src="https://challenges.cloudflare.com/turnstile/v0/g/e9c9e9d67513/api.js?onload=nleNK4&amp;render=explicit" async="" defer="" crossorigin="anonymous"></script></head><body><div class="main-wrapper" role="main"><div class="main-content"><h1 class="zone-name-title h1"><img src="/favicon.ico" class="heading-favicon" alt="Icon for demo.nopcommerce.com">demo.nopcommerce.com</h1><p id="Truv1" class="h2">Verifying you are human. This may take a few seconds.</p><div id="uMtSJ0" style="display: none;"></div><div id="bBCk7" class="spacer loading-verifying" style="display: block; visibility: visible;"><div class="lds-ring"><div></div><div></div><div></div><div></div></div></div><div id="OkOq1" class="core-msg spacer">demo.nopcommerce.com needs to review the security of your connection before proceeding.</div><div id="Zdps1" style="display: none;"><div id="challenge-success-text" class="h2">Verification successful</div><div class="core-msg spacer">Waiting for demo.nopcommerce.com to respond...</div></div><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cvId: '3',cZone: 'demo.nopcommerce.com',cType: 'managed',cRay: '98f61b7e0c1a3e6f',cH: '2gALwO4vsxyAN9bYZKkfeL5WcKEutng1EDaj.JyFwjc-1760602516-1.2.1.1-6cTtE8lEy6KFeC2bEkSDowfTicD1UR8BMApBM2D9rtLU0HeSMBQEd3c3KB1H32j_',cUPMDTk:"\/register?returnUrl=%2F&__cf_chl_tk=MBX7E.hPLs1_YAjkPiS_RWaAFYmhqUuYPlCuhEquK.A-1760602516-1.0.1.1-Ev.2gQyNjHWY8FrlBBRMHE7sNjAFVzwx28IxbBaZe3k",cFPWv: 'g',cITimeS: '1760602516',cTplC:0,cTplV:5,cTplB: 'cf',fa:"\/register?returnUrl=%2F&__cf_chl_f_tk=MBX7E.hPLs1_YAjkPiS_RWaAFYmhqUuYPlCuhEquK.A-1760602516-1.0.1.1-Ev.2gQyNjHWY8FrlBBRMHE7sNjAFVzwx28IxbBaZe3k",md: 'sn8FiLVqL93JStMoEGOOhnIzsyYnhYkBTsObN8qg.GQ-1760602516-1.2.1.1-jG1bOzLcz6vTpfgNBuK5jOrIji_6Dd9c05SYNqHldhF.U02NaKRe1BZNupbBRmw9vquqwEeyzxLiYxBgGcWxBUr_encDdT8W8kp0z16AHLvLNSYM.z6zzp0edxyqa_41OIWef5C_Glb3lXTIHdV9AFjGtmuUjsU9pGLbjS4wSOUX2xrJ5JbcHQAKpRKIpUXYiV155cRfuYe1uI89.uz77De_3nWohkOFhcM._E3KlJpVBaMrwe9_Hbn.a68z9LkbkF2kEbx1DZzRQIu_NAUxPKTYQuS2.fF9fdvCp4mHu024UZeSfJr1bDXkMF_rVydFsLRIa.pi9l9OjS3PyZe.wRYQcov1dGKekoEEWLSxRHvyjCkE.o.8fTQ9bp2mQPgSKMwZ_2AH3HZlJUv1Wp55aeCvupYEn0p5Mix3y_dKYPeVIhJRPMql4A3HgUn2Ny6pC.wMnB_lP7FoT2dDOWrE1WJuICafncd8plWG9ZWAW_VQqgmE5OaBv_GJ1EoKjB6iK5ELI8EC0V.uRJKpNsUHzv2x6WjeuORJUMIU_mu7VhkqcpVxtql6eqk6VseOMhpbM21jxqJgd21BH62d35J2Ce.CRnzhwT.3zEw1l3IBaFP6DmH2d_oA1wpIjgRKy9EBLZUcNziMFB4bDZwkJjDSFI6B2t0BzHzOE78rudbetR5hNlYIMAyEtJK3Lk8IdKKPNMWc.HoDlZwKjIsCsTseEzqwDyr493YD_sUizQFEVHA8VlxGwTggBpKAF6RHVz0H6YJZ4nmsXqSljILH.bS25EQM4gRzOybWafv4pLFxKx6OjUDnydHvDVkAizY_UJIkARI4B8S9enspkD0WWrjncs7wIyiqPonQ.SKnYRpb6cjjY1wgXtFmX0gljCgJdjipr2jPD9UrxJYO4LuVxB372XM8kzG.HlGP1QphZf53d5D.Nl3VtA44i.HUA_54o10iqJw8yQHFmeAR1Pf1baydszl9kETZ86KHTOM0gFtOaGuFIuO2OPrbi9NeFKROrVhZ1pej84YfdiqAstsQJ4CvKHTJc6iiWRLVZIV8mbzK9Nmo2whPAOUDt76XDHPka0KP',mdrd: 'NuHLJ_6vcYzi.yBVSOB5vVO946yHiYydNktc_IFWsGo-1760602516-1.2.1.1-S97bBrXeLGqUSDI0M9U.21CoPY.SUELLu0kgEhGL.JrnFL9Gj4herZddIkVHhKDKTon.LBP78BPYU7k0pveQZTDhTq3KukB9vfzDMmnODhenHwrkm8F8Ahk7Ce_46MMwHjr4rmkSVY5J4VCyesmz41jRz9krcxHQtDM70PVF.0b_hkp4qD9qXKfb4XZ7NYvgGj82suQtWVEVI8H40n2jOzwHniIErH2AQTaESHU9SXClbLdc0AiLt.DEu5Q3SYz_EueM9riNPJjtxdbbO8C97PClykDxGRrH9pMVWOGCxPSywUjQ2M.ZBnLw5bpVt5jsU2i9nziUDj2sMafFkZ0rxZITjnpJJQf3XJttFfbVpUawKfdp8YfZyVhXFI8DDeFgrDYpyehxYmNU6ocjwcoD5Va54oWLn3UVVSV6HdW8jHGRF.eCggqxoKjY.qRFc32UCTTLQbGfoRkyiF.lLFRFHGPaWVN8YIRyVepCuuMkLBbljRtMpYMpsM7wGlcXQRZvDJ4izo8qRxp_peB_68ew292CH9sXrIPzqAF2J4cMQISJfL4RB3Bwt.DBLY84QfJWXkc6btMHcP1ingv1l1XRmz2WLohZ0uOp7fOgh6aKWlm64ZmrM492dhUVEi7NsaOuYfpiq01lf_yDPcOiiblbEtiTW8SVFPDL5hdqlLEvI2c8LzELFr1DAR5p0v2NYgISJFTmdVhiPNR2b7LZ4A5iVOinoLROzDT9RrvxSOYbD7wx2_zKZGyluQvvyFfNSoejlpNyzvkF3UV_AnjZ5WHyagsjtQQCgF0AUJD0sbjgw1caFjzJ9FvzgLVp4lh2okHESoGMRwyaTt_LtHTVIQc9F6JRN2.CsK7pe_tpTOw0sNuQkMpx1vS2VSMhw2jFWBoUj_moj73fgv4CkkglTskP9KkElua5AA0rn6BHzJiQKDgHMwYRJlalieSEyWWn4ee5eUBXjkXPXlqbHroWi_8qvXiuwBdKT1NWRTYfgRmV9MRN18SORQbF5u9LNP7HC3NF6c7zOaQ5ENyu3LjAiV8lWn7oEVbtwnfVrlSC_xIzKvoG89xprbhtCdyxOIzRLZoOeJ8TYxQkxy4CMAQb8HcLXpkH8CgDehkN57IzAGidLkIh7ruCUrnRIAbFM0o3YOW3fR6XYFzkQdpX4.yENHonobdUnn84GIW0IYhTthk5GcqI4qhMj_jsw9jRs2vPBtXQsZ3M8yH0VXGOS0iDCodxRVx7kTD9j0KU4_K2ghxn8eezWMSugYZePmAigd8OAtxM1jhNPoJ1Co1M1ZwBbGG9sLwXOGMja7estGMMc1cTBQuPNm7MvsSfF5geFSlAyqnAGibrKmRCwnUm40f1HMQNxhMqzPgJjxvWBz8yMMOC9gBcaj6MWU_IdIwmAJcAgjq3365oqGMTnbMpHrTvKG5rDFK8KgIE59teBea4D0YIxAdpgOwB7q.hZ0eI3tDiiWj03HQ_QkgS.UMBBUDXFSA_M4fcPJxSUW__c_tgahPd4cUiitusuTb2JEAYTFg.xhbT7Oo4DeVx3YHxfWCivwXzbOhUNOZ15llf_2L2_ql3dDlXyzahbjrYoY_u_Ug60enkyJcv.3R.dWicjSt79NvY8aTzXT5thmQbNrQqWPnkAvyUb5MsD5WB2PgXPc_8Vj4Rwpx6NfaUO_XaLEKmmBYPfKgZ5dzzDvPEL7Gab74SJlk0QLHarloyyFgwIMUAK5WhaJLlZMwhf8yuvv2CC7SYUW4MYzd4G77YTTcUSJj3sgvY9wnIq5f9Y7IdjbB9Yczekn9aT2ikGbnTeiSU_EI7ZQI2jAoG4BxCz1v2Jlot2YAOKD84bNBymBlABPDJjBJC34tLZOAO9KmIZbhbCaSMZ68GhuaM2ol0rXnJnrVYpg1ASuvhfIj0iTBZcK6vqxJ4vfcUJ0HeaEmGqmYVWTIPPbBLYO3HFMSi34VFINt26mTPDKyMF6NatbR38sDWPjU5ZR5nRvlTy.vZR0DlhSebNCdJnSTenhsc1XirtTEWB8VA3Nr7C0nbhpOXfgjJy9ZAVTzyGm0X148hOTdQ6f9y58yK5witxHfaxxNclGMA4uaF5XG.LjRhT8UctzvkjrUrDiFpUVc.zecEg_z5UopDxmKDPQP5V7opmYoC.J8Ok66QdWZixJvIfeKYXl48ZPPiCwNWQ_rnYx_bbEHtX9HwHaKFMDbLzpvnSP8VYWYGB4McXC4NzFEogASf6E3nVn6BBPWIOHipKkwNCJC4sNdLtoC3dszG7zWmF3e9yuNzE5tM5tJM4jo5I0ylis6LlDNA4T.VUVXtcoswieReQrg0irA40rrcBxP0MOiHpGIjv_hRc4Ijv45IpRKgnra5kxbAFj0Of_UoCPaFSRE48MxeoLU6j.iIuPq5cOijYMmnYfPGpc6_HrsGvM2izqYKzLM9YxwNV8lwFP6xvTz2j0auEPZsEmOOGyZZpi8qdqo39gFswO5kbxvKWQ0FWcdrjUk_W4_LUwPtBQ4rAPssSsP.XfVleAHtRxyH6Nv4TyB7tLtcTbehJO_PWWPWbP2Fj_MGvN_IbRkmVLB83jHKbH0W3ZHQ.Kfdxa.PN0TJPc0gIvgzCXhQe26gqqpzvhrJ8koB8MLvlwIdGJD9OsYYvCtk9VwI1NhOjGPUnmjMt29_1ec3Va0ptCCYV8BYmYufWqdPw.hm.fShiXE4AD_jU.HTZQCr.d9pC2F4Jt3dXwIujPwgQIc3kbJoKl3UJ7X_YsGP4lLQwtQbynPY96MgJiYZfwS5oL2B1QLL0z21HEKdJAomIwWS8sUy8H_QTvmDu9d40NBHC_ZX5vgvOaFYSZLKHPds0Gc61YdeQztBtGA_jbcUbZ7YxJES.9S8XmuurzXDDeP2M_l0RB8fCCFbyYY4FCwQSRvPamJYdRqQ47gqvES2IrpKvImHQPYWEeCroblxLB206oBtzyXNpg4dav9Soh6.OqBKbHif9WSMqAQEWxh5MDsOiEhxJ3GDLiu4hYSNuzod6zKIlZwIi32UZ.po_ky7YQBlbKJ8FK0P7nwethC6Fb3gFnz5g12TxHiq.AkdGbH_Li.OtgiGQ5AAtCNsUFKnYjaR1Qf.4xszfx69qtHkony_pDvJcRShZmGOx_3un7xdTBAMnPH.VzbTupnyvIEji2K58k7liAkq2DnpM.i703BmQYaYyUzLhpb3diK7',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98f61b7e0c1a3e6f';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"\/register?returnUrl=%2F&__cf_chl_rt_tk=MBX7E.hPLs1_YAjkPiS_RWaAFYmhqUuYPlCuhEquK.A-1760602516-1.0.1.1-Ev.2gQyNjHWY8FrlBBRMHE7sNjAFVzwx28IxbBaZe3k"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;98f61b7e0c1a3e6f&quot;,&quot;version&quot;:&quot;2025.9.1&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfEdge&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;token&quot;:&quot;c9968ab4bf7342ef8c643d4835a610ea&quot;,&quot;b&quot;:1}" crossorigin="anonymous"></script>
+<div class="footer" role="contentinfo"><div class="footer-inner"><div class="clearfix diagnostic-wrapper"><div class="ray-id">Ray ID: <code>98f61b7e0c1a3e6f</code></div></div><div class="text-center" id="footer-text">Performance &amp; security by <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&amp;utm_campaign=m" target="_blank">Cloudflare</a></div></div></div></body></html>
+2025-10-16 14:15:24 INFO - Closing browser
+2025-10-16 14:21:58 DEBUG - Get settings from: settings.json
+2025-10-16 14:21:58 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-16 14:21:58 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-16 14:21:58 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-16 14:21:58 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-16 14:22:04 INFO - Browser 'Chrome' ready...
+2025-10-16 14:22:04 INFO - Maximizing browser window
+2025-10-16 14:22:04 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-16 14:22:13 INFO - Waiting for page to load
+2025-10-16 14:22:13 INFO - Button 'Register ' :: Clicking
+2025-10-16 14:22:25 INFO - Button 'Male radio button' :: Clicking
+2025-10-16 14:22:55 DEBUG - Page source:
+<html lang="en-US" dir="ltr"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}@media (width <= 720px){.h2{line-height:1.5rem;font-size:1.25rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="360"><script src="/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98f625b69cb2dce8"></script><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}button{font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}body.theme-dark{background-color:#222;color:#d9d9d9}body.theme-dark a{color:#fff}body.theme-dark a:hover{text-decoration:underline;color:#ee730a}body.theme-dark .lds-ring div{border-color:#999 rgba(0,0,0,0) rgba(0,0,0,0)}body.theme-dark .font-red{color:#b20f03}body.theme-dark .ctp-button{background-color:#4693ff;color:#1d1d1d}body.theme-dark #challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4")}body.theme-dark #challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+")}body.theme-light{background-color:#fff;color:#313131}body.theme-light a{color:#0051c3}body.theme-light a:hover{text-decoration:underline;color:#ee730a}body.theme-light .lds-ring div{border-color:#595959 rgba(0,0,0,0) rgba(0,0,0,0)}body.theme-light .font-red{color:#fc574a}body.theme-light .ctp-button{border-color:#003681;background-color:#003681;color:#fff}body.theme-light #challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=")}body.theme-light #challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI2ZjNTc0YSIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjZmM1NzRhIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+")}a{transition:color 150ms ease;background-color:rgba(0,0,0,0);text-decoration:none;color:#0051c3}a:hover{text-decoration:underline;color:#ee730a}.main-content{margin:8rem auto;padding-right:1.5rem;padding-left:1.5rem;width:100%;max-width:60rem}.main-content .loading-verifying{height:76.391px}.spacer{margin:2rem 0}.spacer-top{margin-top:4rem}.spacer-bottom{margin-bottom:2rem}.heading-favicon{margin-right:.5rem;width:2rem;height:2rem}@media (width <= 720px){.main-content{margin-top:4rem}.heading-favicon{width:1.5rem;height:1.5rem}}.main-wrapper{display:flex;flex:1;flex-direction:column;align-items:center}.font-red{color:#b20f03}.h1{line-height:3.75rem;font-size:2.5rem;font-weight:500}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}.core-msg{line-height:2.25rem;font-size:1.5rem;font-weight:400}.body-text{line-height:1.25rem;font-size:1rem;font-weight:400}@media (width <= 720px){.h1{line-height:1.75rem;font-size:1.5rem}.h2{line-height:1.5rem;font-size:1.25rem}.core-msg{line-height:1.5rem;font-size:1rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI2ZjNTc0YSIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjZmM1NzRhIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}#challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=");background-repeat:no-repeat;background-size:contain;padding-left:42px}.text-center{text-align:center}.ctp-button{transition-duration:200ms;transition-property:background-color,border-color,color;transition-timing-function:ease;margin:2rem 0;border:.063rem solid #0051c3;border-radius:.313rem;background-color:#0051c3;cursor:pointer;padding:.375rem 1rem;line-height:1.313rem;color:#fff;font-size:.875rem}.ctp-button:hover{border-color:#003681;background-color:#003681;cursor:pointer;color:#fff}.footer{margin:0 auto;padding-right:1.5rem;padding-left:1.5rem;width:100%;max-width:60rem;line-height:1.125rem;font-size:.75rem}.footer-inner{border-top:1px solid #d9d9d9;padding-top:1rem;padding-bottom:1rem}.clearfix::after{display:table;clear:both;content:""}.clearfix .column{float:left;padding-right:1.5rem;width:50%}.diagnostic-wrapper{margin-bottom:.5rem}.footer .ray-id{text-align:center}.footer .ray-id code{font-family:monaco,courier,monospace}.core-msg,.zone-name-title{overflow-wrap:break-word}@media (width <= 720px){.diagnostic-wrapper{display:flex;flex-wrap:wrap;justify-content:center}.clearfix::after{display:initial;clear:none;text-align:center;content:none}.column{padding-bottom:2rem}.clearfix .column{float:none;padding:0;width:auto;word-break:keep-all}.zone-name-title{margin-bottom:1rem}}.loading-verifying{height:76.391px}.lds-ring{display:inline-block;position:relative;width:1.875rem;height:1.875rem}.lds-ring div{box-sizing:border-box;display:block;position:absolute;border:.3rem solid #595959;border-radius:50%;border-color:#313131 rgba(0,0,0,0) rgba(0,0,0,0);width:1.875rem;height:1.875rem;animation:lds-ring 1.2s cubic-bezier(.5, 0, .5, 1) infinite}.lds-ring div:nth-child(1){animation-delay:-.45s}.lds-ring div:nth-child(2){animation-delay:-.3s}.lds-ring div:nth-child(3){animation-delay:-.15s}@keyframes lds-ring{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}.rtl .heading-favicon{margin-right:0;margin-left:.5rem}.rtl #challenge-success-text{background-position:right;padding-right:42px;padding-left:0}.rtl #challenge-error-text{background-position:right;padding-right:34px;padding-left:0}.challenge-content .loading-verifying{height:76.391px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}body a{color:#fff}body a:hover{text-decoration:underline;color:#ee730a}body .lds-ring div{border-color:#999 rgba(0,0,0,0) rgba(0,0,0,0)}body .font-red{color:#b20f03}body .ctp-button{background-color:#4693ff;color:#1d1d1d}body #challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4")}body #challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+")}}</style><script src="https://challenges.cloudflare.com/turnstile/v0/g/e9c9e9d67513/api.js?onload=nleNK4&amp;render=explicit" async="" defer="" crossorigin="anonymous"></script></head><body><div class="main-wrapper" role="main"><div class="main-content"><h1 class="zone-name-title h1"><img src="/favicon.ico" class="heading-favicon" alt="Icon for demo.nopcommerce.com">demo.nopcommerce.com</h1><p id="Truv1" class="h2 spacer-bottom">Verify you are human by completing the action below.</p><div id="uMtSJ0" style="display: grid;"><div><div><input type="hidden" name="cf-turnstile-response" id="cf-chl-widget-8w3mh_response"></div></div></div><div id="bBCk7" class="spacer loading-verifying" style="display: none; visibility: hidden;"><div class="lds-ring"><div></div><div></div><div></div><div></div></div></div><div id="OkOq1" class="core-msg spacer spacer-top">demo.nopcommerce.com needs to review the security of your connection before proceeding.</div><div id="Zdps1" style="display: none;"><div id="challenge-success-text" class="h2">Verification successful</div><div class="core-msg spacer">Waiting for demo.nopcommerce.com to respond...</div></div><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cvId: '3',cZone: 'demo.nopcommerce.com',cType: 'managed',cRay: '98f625b69cb2dce8',cH: 'eq4mZgBCtcUW_7n4OBpzkqI24Wn24wRquicr9ATroWw-1760602934-1.2.1.1-tloZkQhfKgcg5TJ6o7BeoHiwqTbKBnMVCgBAtJtxa9MhA1jA0Tje2Gqr_f9mDg5_',cUPMDTk:"\/register?returnUrl=%2F&__cf_chl_tk=1jOb746FxRCDnhgaoNdKZi6v9P6e_WT.Vkpjm6ZzKB4-1760602934-1.0.1.1-.Vgs3BbBPqLV53qnyQC1_j6HGsMaTTvuPmDmuchKpUg",cFPWv: 'g',cITimeS: '1760602934',cTplC:0,cTplV:5,cTplB: 'cf',fa:"\/register?returnUrl=%2F&__cf_chl_f_tk=1jOb746FxRCDnhgaoNdKZi6v9P6e_WT.Vkpjm6ZzKB4-1760602934-1.0.1.1-.Vgs3BbBPqLV53qnyQC1_j6HGsMaTTvuPmDmuchKpUg",md: 'Hn46zO.V2929_ckzZ8gP2Bzx3lYjsZSZinaebUUnroE-1760602934-1.2.1.1-iPsKLAVqhypa9CUPN5v6JwP4ycNhoKguT4jaH.dBeuRwcnE8_UOBLOfHjvFYW0OtSUq4p6jUpsmsh9nfeMWuC2dVZs1Y2AzuNOBrkROJFFG11M_MzNXYuHyyJIA90cXSWcRYHWG9oBQDExNpeenSTmdy66luXuKLkRZTrkI_nhTfPSrb9R3Lx0v6gd2eCZA_EPf53ewJvoD_8VmNp3Vivu02yYfSLOY6ILXxtf8mmcrPpkm6jaj0Elpr7Xg1JZ5R367aYcdTQRHMmpPcQk.8.oi8xyI483V.bn._R2iqD8h4DZM90_mKxn4kdcjR5c.vIm7DrTAJSy8nvoBhuUZrQPG4ghbd5_ZiamqdBTJYOzPlcxNkescaLVf0LhzIIU2fuWkChI.jilSitBsDQ2i5HsnbTpEo.4tq4IwFqgClJx1MU4kRJpH3hrsH5MSfRZVHkzkJH7qYji8HkdOX6f.nCbVgFVDTbwTYPkZKZdgzLThS0nupDtxMYnt5vvpPbR1Ew0.AgL6GaSfFvVccIkoqm0B5Yf_MghGzk_EzYJvJGgw3QtcbhMsUbqaYV776piJBhpQfkBwKrlo9fFBn579z4eNz9gPkEdEOR6TIuLzoY_q3hEVkSNgMti6dF5w5Agqk5FAmZt4nyH0R.v9BMxveyUAHeZ_35qCMRUTMBR0smNXSb4vpG7.L8QUAb_vPP7sAV_V5AsPDCqCIWLUUX6dYS9z6rn4fIhIgcJIZFzdzNMA6JqcF0fY2lvmqH_9FpLP8SKE_FyT0FmCqpty0wzBC2efz3Rx1sC1MOc.SJLJH1MyRtb6SBaXTPiIXOdq288rKQv5k9TuzjvgBuNODDZTwctc3GAxz4jAq6qlPaBYRV8_LeLNaDIBZWNrgVzSbDOGlRTKOyDxwzVLM8umCUbsQoo3uBy5bYO3dBlDNuxu_ePTbCAm.K_aob5leji1ZU3GcWG2No.tLLQhEVZVDLk6fOmQh617j9nBGAS56pY6S0YvYvrUlJ7IRqzyKciJs2S1x4jXYQLpR1zInZMwkG8mwqw_YAGo372lhEq3La1lUSoxSsVo1vnF3biz4bc3YAGES',mdrd: 'Q_4EjTxY_sWJ8LpCjxZYq1saU5rxLmGs3vlTrs88u3Y-1760602934-1.2.1.1-6wD0OB55CPasQJBZXXTtdrt5kT0cu.KMbAE9JlIJ6aDDdtztfmOe9bVgK6AT95z_fcA3ZkpyJXcOQmoGzoSSVN0y6NbsfY8lR.4GhzHxNM8TQRedkUnlhlIUIn1SflRZI8asmn_VHRzzxl7BwqJgh1wlFRo0mCtJWf_7s7fnAcH82beuwPy62X_cc3OU679X0T_h4cuNRhPHud9hrsUc9kD5Xtk3.SRXksbb7LwuvQwnrWhVxag1Wax7qdBrYfg0VffAevcFZmE8jAQZNIm5pboRsbKxz879Op9TqEfWcA4mX3mNK_uBD.CLyZSFMlaHBZE_dTjMQRyYE3HeteEINkwggXA0nw9cuUa7GBA.nO3EISBFMTU5_jv8HaSBQxZ5BPcaF1WyFG.z6V0De8YrorT3CbA5PiExY9TnkY3SRWHlXbQhnweRcXLPAu2d2h0M.AOlcYWkWV.Xwi.l4TnyrUzIZVceXJ71NAo3FFNETo35UrMkw7edOXzQLXCy3nxme6u4CAODcAMGM71lADcT_jnzWULAyMktaBRD58pRNBiau5ijz5jLqCFIkDPM9g.EOky8j1fyM8NZU6gILSai3KfopB8aMQNMB8bo3TH8LWuhO_6Tzapa7tzLZJDsO7pBMdghQrh8vCydHyYmnT3O1bPNpTAPTgAEPJQ8pvMoJdekKJ3vYsow5Xul9W4vVXTTSY_FGQ6WFSjPD0nzPmx.P54079WQjetWq652DeDupbQxy12VjseFO8n6ULWvWqFl.sWFToLXN1gqO5rXvNKwe.dB0iOek.TnUlNIXODN6WhP1Pgnt0eRfJ9zlTqLUlun3Uj.LtXi9ikXDqLRb09nWCTDG9ODGy.mm_Lej.RBCqhmAv6QBELQrpQ7u5YVep8rZpQjs19Ab3eUTs7glAo7Ovpv1y7UhSVQJVLxtsH13_aufH6SG3aVbA9AHuq5f4f9wD03EY1JZK90UkNoDgogh_LrILCs5ac40a8M9BURy0xWKsdevatjpK_uqfTx8P0yImk5qh63.oGAFJ9lqCURRppFTiFT8gU2K_Uoy2GLgvf4ulc3YTILLAud2ldJHK9zPI73zGvJHp6u.R5O777guDA084NO2LfuaTgibIGLdYuKYRmjX7nJd0naLS8sNLgBWPJKrdXCb2UEWmRt99MGiXNzdjAg_6GH9_rbLXaWpG0Af6XC3fck0wjwwX3xFjnryERnMBqMsUgyIB3729TP0PapiiHcfmb5MyV8frYEC.PXVopNfs7kJ9OYs13We.NUIntMRE93GpHO0Nv8CQIvLutgyFt0TlQUEoHK0ZhweEIvgI1.lxsC48dSpljZ23ldAUZn_lZ6guehB2TzHjwcmJIvejz3r6Y6qG2xkKU8s7AdrVW6izxxWBptKkWqEx7HkgZxvOuIdaF_eHr5dENmd4A3aTqg78WbGu.jHXR12JPO24kkwZMQjgRg7DjyW6Oc6mDiQzsSfyOGLKhg6sItdklIH6pKgDud9zt3MZ9E_pB6PQ8rWH833fk3giwN2SVK2GmE6QjM9TToSW77cS2rwVKvF51wGEpB8amNwzR6qvznS.AHbmve2qPBEDlNVMZp.RaagRupx9v4KcofgwhIMMhCbM1kqMrHLo6hYCXqWJ2g13VX7yHpJ2Xoj4v1v0Dw3u4qMGfP6EVk82RmuM.MfzPw6Q.85ncTatW0YmczNVMQ6bt9VrdNhundrTXTc82KhOGvYXI7_yFOYpeibGT2awrNDgEjHpTEBXQPfx7W1xlOu4qVQ2gKmNmZNioZKNQ7sO0nz3VB6TfuvqkeJlo9JNIlJfVqcrZn0Nb2Hyo00ngmNsXrERGcdFlqcZpg4ZZnQKmQgl0CfwQcMAZCOjxAcbNoaoqjgwUXesDell9tmGKPpYmW9jYzPfm.lybbMZ8_h8BaOiKpYpuMJfPLLUCdDsr43rBjP_i8TG1_qakDxvYTP_uO8kTGdvLqD99GOvosUDYwFVpQQCNpW_QLhQkpSLc62Rau1q9aHFZEJzgihh81ixyS2.uFfjAXgKRb9V1Uj8XnThJXyQvKLqqVj7AzIMMqIcvjXK0l859uvjbnjFhPmn6C00DsFXaPZnJ6Ab6K5ZTXwKOOnW9fTg7JfKOY13wHV2jHzdxEZ0JJNUlyA8kZn6ripltRsunIuAobz66HROB5PuI2m8HSI1XIlMOzQqSW9znHE3sJXfCAYU_yX77VRY3OtJkCm6QOy4LLLldK06EwwZMFTr3wr7PYhDR_CSMOy3OagygqxC6i4GVb8YkCw7UGb.dFElwO.7UqH8w7d94UY0.z.459icRLSGHVt7kVlTPdA51Bne3ghbsjZDNWShGtuqAEBipKNotXWcKvc0xaBYp1Qmu8Xb5mx9F0fOnqnM038R5.UysmZxnW4xaa.X5K0Sdy4g8IP0u5LBm9JmRug2shfyEyvsbRsXUUL5uaU8C.zPkjTWIvPOJEMcUUocB7a7WHKLWP1VijDP2yiwndeuH94RKQ8wRdUH6CcOC43wTr7JaVtK0_hl6ARrCBtwdMVOrf5c3K0R7400KKH4yiWQKbBbVm22zw37KO0WRxZUdW4n_qOQTd18A0UV9Oy7iJXyEH_XrFdu9I0gpifGnrNr3UUxw8qOb6n4gT.nLQhPQpasrSP7mRbV2r0FdFvorlVoRX7J.cCbrO2uYVSkYAPgEIxCDBvxucoyl9OYHAMGorGmIkVv10n_EvlB9UyTtV0Sf5LLpZZzPSthcZ27uyzz1.TYdd_m82FtBhusw2ClOZD91APxpYDlpXKRoOplJaG3MgGfoXz13fYAnDyezKcJAcT72Jl5DMJNHPob2iAq0O8mx4G0aZbvJvTR9zWH6Cwv.PTp1Iwc9Vu.vpBIAF_6ENanX5pbHkmetkkqUX8ZwIArXnsZXT0fp7zRgjswmCHk5a9K53U1QU3DXMOZrmuAvdlsYc4WvJ7wpgV_Ha5wPzrRJnYq6hls8S1TYn4uPyF4k47J08zkGiqDmmTzOMDtYp4x06ImquQDigFPAVvBrjvOEKP7UnZjgnDh2x46Tl.9dnjvpS52IGyiz9BRJTT.sfEjgmBhQG5BcB2z_5qzIpg3dn_q4nBKjXFjg',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98f625b69cb2dce8';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"\/register?returnUrl=%2F&__cf_chl_rt_tk=1jOb746FxRCDnhgaoNdKZi6v9P6e_WT.Vkpjm6ZzKB4-1760602934-1.0.1.1-.Vgs3BbBPqLV53qnyQC1_j6HGsMaTTvuPmDmuchKpUg"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;98f625b69cb2dce8&quot;,&quot;version&quot;:&quot;2025.9.1&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfEdge&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;token&quot;:&quot;c9968ab4bf7342ef8c643d4835a610ea&quot;,&quot;b&quot;:1}" crossorigin="anonymous"></script>
+<div class="footer" role="contentinfo"><div class="footer-inner"><div class="clearfix diagnostic-wrapper"><div class="ray-id">Ray ID: <code>98f625b69cb2dce8</code></div></div><div class="text-center" id="footer-text">Performance &amp; security by <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&amp;utm_campaign=m" target="_blank">Cloudflare</a></div></div></div></body></html>
+2025-10-16 14:22:55 INFO - Closing browser
+2025-10-16 14:52:41 DEBUG - Get settings from: settings.json
+2025-10-16 14:52:42 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-16 14:52:42 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-16 14:52:42 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-16 14:52:42 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-16 14:52:48 INFO - Browser 'Chrome' ready...
+2025-10-16 14:52:48 INFO - Maximizing browser window
+2025-10-16 14:52:48 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-16 14:52:49 INFO - Waiting for page to load
+2025-10-16 14:52:50 INFO - Button 'Register ' :: Clicking
+2025-10-16 14:52:57 INFO - Button 'Male radio button' :: Clicking
+2025-10-16 14:53:28 DEBUG - Page source:
+<html lang="en-US" dir="ltr"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}@media (width <= 720px){.h2{line-height:1.5rem;font-size:1.25rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="360"><script src="/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98f652947c3a9d6f"></script><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}button{font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}body.theme-dark{background-color:#222;color:#d9d9d9}body.theme-dark a{color:#fff}body.theme-dark a:hover{text-decoration:underline;color:#ee730a}body.theme-dark .lds-ring div{border-color:#999 rgba(0,0,0,0) rgba(0,0,0,0)}body.theme-dark .font-red{color:#b20f03}body.theme-dark .ctp-button{background-color:#4693ff;color:#1d1d1d}body.theme-dark #challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4")}body.theme-dark #challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+")}body.theme-light{background-color:#fff;color:#313131}body.theme-light a{color:#0051c3}body.theme-light a:hover{text-decoration:underline;color:#ee730a}body.theme-light .lds-ring div{border-color:#595959 rgba(0,0,0,0) rgba(0,0,0,0)}body.theme-light .font-red{color:#fc574a}body.theme-light .ctp-button{border-color:#003681;background-color:#003681;color:#fff}body.theme-light #challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=")}body.theme-light #challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI2ZjNTc0YSIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjZmM1NzRhIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+")}a{transition:color 150ms ease;background-color:rgba(0,0,0,0);text-decoration:none;color:#0051c3}a:hover{text-decoration:underline;color:#ee730a}.main-content{margin:8rem auto;padding-right:1.5rem;padding-left:1.5rem;width:100%;max-width:60rem}.main-content .loading-verifying{height:76.391px}.spacer{margin:2rem 0}.spacer-top{margin-top:4rem}.spacer-bottom{margin-bottom:2rem}.heading-favicon{margin-right:.5rem;width:2rem;height:2rem}@media (width <= 720px){.main-content{margin-top:4rem}.heading-favicon{width:1.5rem;height:1.5rem}}.main-wrapper{display:flex;flex:1;flex-direction:column;align-items:center}.font-red{color:#b20f03}.h1{line-height:3.75rem;font-size:2.5rem;font-weight:500}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}.core-msg{line-height:2.25rem;font-size:1.5rem;font-weight:400}.body-text{line-height:1.25rem;font-size:1rem;font-weight:400}@media (width <= 720px){.h1{line-height:1.75rem;font-size:1.5rem}.h2{line-height:1.5rem;font-size:1.25rem}.core-msg{line-height:1.5rem;font-size:1rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI2ZjNTc0YSIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjZmM1NzRhIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}#challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=");background-repeat:no-repeat;background-size:contain;padding-left:42px}.text-center{text-align:center}.ctp-button{transition-duration:200ms;transition-property:background-color,border-color,color;transition-timing-function:ease;margin:2rem 0;border:.063rem solid #0051c3;border-radius:.313rem;background-color:#0051c3;cursor:pointer;padding:.375rem 1rem;line-height:1.313rem;color:#fff;font-size:.875rem}.ctp-button:hover{border-color:#003681;background-color:#003681;cursor:pointer;color:#fff}.footer{margin:0 auto;padding-right:1.5rem;padding-left:1.5rem;width:100%;max-width:60rem;line-height:1.125rem;font-size:.75rem}.footer-inner{border-top:1px solid #d9d9d9;padding-top:1rem;padding-bottom:1rem}.clearfix::after{display:table;clear:both;content:""}.clearfix .column{float:left;padding-right:1.5rem;width:50%}.diagnostic-wrapper{margin-bottom:.5rem}.footer .ray-id{text-align:center}.footer .ray-id code{font-family:monaco,courier,monospace}.core-msg,.zone-name-title{overflow-wrap:break-word}@media (width <= 720px){.diagnostic-wrapper{display:flex;flex-wrap:wrap;justify-content:center}.clearfix::after{display:initial;clear:none;text-align:center;content:none}.column{padding-bottom:2rem}.clearfix .column{float:none;padding:0;width:auto;word-break:keep-all}.zone-name-title{margin-bottom:1rem}}.loading-verifying{height:76.391px}.lds-ring{display:inline-block;position:relative;width:1.875rem;height:1.875rem}.lds-ring div{box-sizing:border-box;display:block;position:absolute;border:.3rem solid #595959;border-radius:50%;border-color:#313131 rgba(0,0,0,0) rgba(0,0,0,0);width:1.875rem;height:1.875rem;animation:lds-ring 1.2s cubic-bezier(.5, 0, .5, 1) infinite}.lds-ring div:nth-child(1){animation-delay:-.45s}.lds-ring div:nth-child(2){animation-delay:-.3s}.lds-ring div:nth-child(3){animation-delay:-.15s}@keyframes lds-ring{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}.rtl .heading-favicon{margin-right:0;margin-left:.5rem}.rtl #challenge-success-text{background-position:right;padding-right:42px;padding-left:0}.rtl #challenge-error-text{background-position:right;padding-right:34px;padding-left:0}.challenge-content .loading-verifying{height:76.391px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}body a{color:#fff}body a:hover{text-decoration:underline;color:#ee730a}body .lds-ring div{border-color:#999 rgba(0,0,0,0) rgba(0,0,0,0)}body .font-red{color:#b20f03}body .ctp-button{background-color:#4693ff;color:#1d1d1d}body #challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4")}body #challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+")}}</style><script src="https://challenges.cloudflare.com/turnstile/v0/g/e9c9e9d67513/api.js?onload=nleNK4&amp;render=explicit" async="" defer="" crossorigin="anonymous"></script></head><body><div class="main-wrapper" role="main"><div class="main-content"><h1 class="zone-name-title h1"><img src="/favicon.ico" class="heading-favicon" alt="Icon for demo.nopcommerce.com">demo.nopcommerce.com</h1><p id="Truv1" class="h2 spacer-bottom">Verify you are human by completing the action below.</p><div id="uMtSJ0" style="display: grid;"><div><div><input type="hidden" name="cf-turnstile-response" id="cf-chl-widget-oj6yn_response"></div></div></div><div id="bBCk7" class="spacer loading-verifying" style="display: none; visibility: hidden;"><div class="lds-ring"><div></div><div></div><div></div><div></div></div></div><div id="OkOq1" class="core-msg spacer spacer-top">demo.nopcommerce.com needs to review the security of your connection before proceeding.</div><div id="Zdps1" style="display: none;"><div id="challenge-success-text" class="h2">Verification successful</div><div class="core-msg spacer">Waiting for demo.nopcommerce.com to respond...</div></div><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cvId: '3',cZone: 'demo.nopcommerce.com',cType: 'managed',cRay: '98f652947c3a9d6f',cH: 'z5sAK4AmI52bS2A.MiLi0mfcbf.IYAo__0nYl8W9YdQ-1760604772-1.2.1.1-lmH.3FoTCofychf8MGdSIH7CuBbwflupZTrDIvvrhdoB2OCTD5yBoeHCvfepEjzC',cUPMDTk:"\/register?returnUrl=%2F&__cf_chl_tk=npOJBttCfDVBqwSpaYELOOuKDXTl1hjv789fYsfCTls-1760604772-1.0.1.1-97MwV5mg2.5GIrverFKQIPb7LzeihmU0TqmR19Lol6E",cFPWv: 'g',cITimeS: '1760604772',cTplC:0,cTplV:5,cTplB: 'cf',fa:"\/register?returnUrl=%2F&__cf_chl_f_tk=npOJBttCfDVBqwSpaYELOOuKDXTl1hjv789fYsfCTls-1760604772-1.0.1.1-97MwV5mg2.5GIrverFKQIPb7LzeihmU0TqmR19Lol6E",md: 'Ow_9DSU4EfDk0Ns2xuNmvBYtwET3gscPc6nKBjstpQo-1760604772-1.2.1.1-fV2NKIvXmOcHq7u6XPNptz1NqDC1g6oz2lvAubmIqJ0sWE3NB_5PghEOtyk1F4mss8TMH5_p85ViIvEVprPF4NYM01beSwrQw8YRXURl1gQ9YOtEJJOXZ1eRXGbfwhZrz0k8._nRHsZT7cRo6cpUdYLZUVS1R4nzgwlgbjpJYwhXlbNSGB7KeiCiLq_gj0gKFObyqjM7i1.deezWu4mHsE0362mtbLpXedmwrUh34VPHh4d5vdD7xmmvDLf6fMDxdAtIOOdrUstw9slxPdVAeNU6ecmipJWaDeG_71B2vRYrjH1TEAIo.uy_26KS2fNn7P1uk1TYGsipS4V3chgYd.pDxQ2MMXEEr3U8NuP1HUDEgeaeVDeL1zHqcrXVPx4Op7CFbnnTjawcSZ5OMwj2jnem_VINcg.R3w.Mof9EpvTJo0wBD0baSjWimc.0R3PrSXTQ.TdHuDycr.R0aByc4Icu8fFTTG817idd3X.Mr.LMYh.foj.lOZq_61PbN3cCoS1NVi4wWzkFqr6R6XlQyo7fQEvf3hctRcIDhKfYbpaMp4ZbCNbTqqBCmDIXtgXt5PlNe9E5oFO9F2xIuyT.GBhwuaecVZoS2_Q_vEFdCJ1jza1d2xZwbQJLXbiEs8.mubhhIDqFZE2tr.8Gs.e8bDFJGNxRSjELWglI1QzjwYOGVxtX_dAYQ2LpH6USpY1FxtvxXwkW3wWMpWesvUHNXxRl0XLdaDS2UwUNenfKM.VFTC_hVCjDibWwyTQTGq3Bz8MAQzJbJQG_jfxcCqk.oBm1nfOy76BRYcC6HxmqnfR4SOEWoNN3aFkGQk6Z1A_l0uiGRvAsvPpi6Bl2rR27_gET1eorge9ZDRhNlVsVV2l5wq8nTuB2aEf9aY5ISpV2zJ1QtKqTLYtR2piwiKSJzgNhk4VDQP8GMpVF3CNrzlhfk3eF._SLqA.1M02rccHaDYCHcPfpAvhWX9xqqBahXIGmullCmmrNx1dg7XvUz_xk.Tq58.RKYBuCVDmErNydAH3s59Rj5tJca281cwQqYjeE6NxSo6kiqjh7dHorQ7O.s7iHVIR1WUsY5ezhyqh2',mdrd: 'rexGV7viArFGsbac05wGIB5VIYrd9jYa7O1VCsLqVZc-1760604772-1.2.1.1-o8yNRKdCBv7HxZbmZcvtzJNHTm1lCa5AXc0vOLURdGbJHppuECrKxzcS5MDRckDPbHUqlR.Ruw0EJnPEbybt_tBXK4bPnyqtdl9WXHsIPhuNcPDcIG7C7YFD8ovdVxQaqrva9OT..Y2FblqYIoTKpFFJTHux9VZVDaarSwMeUMMZSpG_vrGhElPYi4b5vqvx_LapMCqbzd9.EDF_g8UqDzFn0gcWG5DREvGAHkhsO7G2nJtiY386OMipz7N34PUAWmctgez0h8.y6DHpTqApguIKcy9o7lNp6.BlqNW8gX2P49l1evx643tHfRWo6bKloyZO3mFYiQpLEc1AYF9ZWcJSzFmPenbhY3IrLKqtDv..v.Yx8N6pRfLP_HYXf_7KGm.bY5a7jx6GXAE9HtWp9GNJReSrocmtfrA6JTXZ95seals2J2ckL.9uWhu1TUVoQ.Tn5eHBnbofHiQCyxsrZ0uPUNIdSO0IqHwWUEn1JLIKVnhOKeeawVjG5d7Zqzm1Wl.59bzjA3D9_3xSW9hhv6ELmAB0aBozYVQYHpCSpJRyE5Q10yNEYbn6cajRDG5ihqEq9TV4Muhlsm.12oeFLQWcIAoWOTJeAZsGFv.sztLsEFxpMEVC85yc03pTNG1MWG_kGZWzh866e5gF1IyoR9TH7UX0Rmh._wJxngymRD5S8W9GMwYh.Jj7XMwl7A_D_NR1wUewP25haUS8r6ehucUwMDrmUJL2sW2c52kw1H1Ho2k.ZF24SyluyUnLhshHcVbNVuO4rKa4j8cFmfkTWiKKGmkjFqLlMgFGyB6KQD_zznnsw6jmQZyOFgI9aGeFXNT8lna4zTFZmzwyB2cEwmVROs0Fec9DyozgssjAOPJZCPrqm0kxCCIV0LzGUDzguWc22QupwXp_OdS8qQvgXg3swqhOjCXNaqlw2y8ZsmK7oXNYYcQ3ApoTt6X9v.fd.pmBPQS2Ke7GQkbqPMbOMnsBZZ8FHvjZNExfDm2figwyg1GO4QyGQySyeWkVKNEAZ8NRCWFCfyDyCAd9oLp4eY7rBz4m2YQaidvSbXtUEErKOTkPpjRZxzzypzBYTniwvPPL5CufI8zc5AcxzSjTf6qHPzkLLFdYiZPecnJo42pn27J82_NTzi4rYqmotTg4x2lN6qKa70E3GwUVUuLwETqcLc9Wl3690cfXzYlwLG3XWyNweMBvvkZE2.WPscp5XmhG.ReH8eAf0GftCZ7.xx1yfOxnsE.m4CgQ3DagtNgAM.pZXEh2PEfUNm1jd8NqpBUFqQzm.102hFUStuADuhpvRrhfUYXmRs0uqh.NRXNi6CJ.lrBC07C_C0j62TdVBPFRzGjCtyzjfxpDygLlHq5P_CjzO6.NB3SDxY11KPByX5fpe.63cBxVjU7e0Y6CYcAIfhal8Vi_1kX3VJQV4cguDPcU8dgRzF5RWX8ORAzILImRfqM5j5nYX50Zgoe_3r7VK.Wxa.RZEpFZAeX7LhNv9vBWha0ZFmOXZMMDuV4yq7PE_X4qONfc7e9uOOSduk0MyZ55l3iRVhkWWFdALtI8Rh2LJWnX6q_fv8bW6nj8E35e.npc9dFiW7zJAVmwJoMweqi03btrM_wrWhLGsDlRi.Q7AFOIWm7La38KFHcHcc8Lr8hn2Jeda4r7AnELl2dsocJWaTCxnxJgR4G4CnD4NyaPqxb.1TvurQ.k2S_BAWzZCpb.VsRcqCRI2G2RJ9FgpxJgVChLHGnP39nVEKaMqQTJYmF6P6exNy1A6oKMxMNrbtE34n9cPd1c_7tQQno_Wzu82SzOlM6DExFQ0xF3ZgIawcB0FMNAcolVLrhLcaiRl8YbCTUIiahq8fkr9HZMwILDXnXsKvcv7dOebqyRshC3Qhj6AXogj8iS6eYrWZfuiNvmMrer_WmkGKw8jT0zyhVAapAVtWuSB_tW3cNp9HhBd6oSx1V1iuVRuPm77oYAgqfmB5i374kfFVa49Z83uNeXawXyLwLrt8IB9Lw0Dn5tKyoKJ26JyfJ9r__HznzK3nuBfERPNGWY958S7Nm3VySG.gBH9O83h22qHdKB7AQeMwZci3KxeCytsS06L636f7XyzC8mKAJo_lVlt8Hwz.LgtK6Xho0hA0_mWw4UPKe.LErx.Notz9E0lvux_YEq5RDCkZH8M62V9030T0MbAfGoefspfXxZOORB5.WHqWTE7iEKBm9alilir5f4LJWESN7DlvoXpExK.LkIMdynVJCLHPyoOq0a2FhPGnN4ILYxXFJVURDuRRAVauunyj9_uahosZDQLweATbAtW.R9ZQR7Qyc8h.IDpnlve.BoLLWw3TkvjItCQSaZnLrwtuCC4Ph9lQybvB5dhzg7BtvVPSEa.gEPNPJQ1mSiGi5xvwWLcEqy_Fwm3PduXAXgBAYK8xt_vHfDR_l4Y7elqbVYtnH1HSUIWhqsWc1uk_FyWNXrD95Z.zHTqZ3JP5pPX0mWnv5rmFu5yxt8eFgYZ4WFDMe6znve5NarE_lukIQMcYg3Djk9AaB..po.WoeVMONZTcB7jUCFuEnjcT8wvC1_JJdcAfXrR0jzJa2MDCKIfsVZWzy6KKoHRMZ6LNn8osXEAhEdMfPef6jSGuOBnRcPxM3kpRotzzTJAnqb2qiHOrV9U17SN6q3qp0ANgmF0W7hzoHKuiIr0v37SEYaXqTltlXd.tGQwP4Wk8qWWazS5RVSjCVC9hXZnpjIVGgq4mUaJsHSqRCAuX6DyBHR0HS9EN5wImbKankZoEU7GKZrJgNdey7qM1warLEWGWzSD4ak8t5sRDkHtXaCVdCPoTDKlVenDyrteBKUfdWpAS3SGbSY7XuszQtAbir_yERRjx6MsHnbvhuXCTUqCSqOITqh0HumuhZNOGUeuWpOpZKWkiAEUoZcpy.u13loFy7jAR.zsIvjMMMV0Wckz2A6Kwn7XKAq9iQaRUTkp8QiL41oJEcHFM_W0hzg8p3kHIQzkNVxUgMhsG6MyVdoeCaOJs6oLrrmNlKnt16J1hU5UTlZChn8dQMtB9yERlQe7Mh3n89SxPWJjjK4FzvWp_L1iBfDMNp.XMLEH3BzENBeO3FckuCxIqhma98aV_31C5P0jrD77ZLptzew6QETIKc_kIe92Oc5NxtrL8z22OcvKQ',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98f652947c3a9d6f';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"\/register?returnUrl=%2F&__cf_chl_rt_tk=npOJBttCfDVBqwSpaYELOOuKDXTl1hjv789fYsfCTls-1760604772-1.0.1.1-97MwV5mg2.5GIrverFKQIPb7LzeihmU0TqmR19Lol6E"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;98f652947c3a9d6f&quot;,&quot;version&quot;:&quot;2025.9.1&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfEdge&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;token&quot;:&quot;c9968ab4bf7342ef8c643d4835a610ea&quot;,&quot;b&quot;:1}" crossorigin="anonymous"></script>
+<div class="footer" role="contentinfo"><div class="footer-inner"><div class="clearfix diagnostic-wrapper"><div class="ray-id">Ray ID: <code>98f652947c3a9d6f</code></div></div><div class="text-center" id="footer-text">Performance &amp; security by <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&amp;utm_campaign=m" target="_blank">Cloudflare</a></div></div></div></body></html>
+2025-10-16 14:53:28 INFO - Closing browser
+2025-10-16 14:55:19 DEBUG - Get settings from: settings.json
+2025-10-16 14:55:19 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-16 14:55:19 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-16 14:55:19 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-16 14:55:19 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-16 14:55:25 INFO - Browser 'Chrome' ready...
+2025-10-16 14:55:25 INFO - Maximizing browser window
+2025-10-16 14:55:26 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-16 14:55:28 INFO - Waiting for page to load
+2025-10-16 14:55:29 INFO - Button 'Register ' :: Clicking
+2025-10-16 14:55:34 INFO - Button 'Male radio button' :: Clicking
+2025-10-16 14:56:05 DEBUG - Page source:
+<html lang="en-US" dir="ltr"><head><title>Just a moment...</title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><meta name="robots" content="noindex,nofollow"><meta name="viewport" content="width=device-width,initial-scale=1"><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}.main-content{margin:8rem auto;padding-left:1.5rem;max-width:60rem}@media (width <= 720px){.main-content{margin-top:4rem}}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}@media (width <= 720px){.h2{line-height:1.5rem;font-size:1.25rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}}</style><meta http-equiv="refresh" content="360"><script src="/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98f657121f92ce63"></script><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}button{font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji"}body{display:flex;flex-direction:column;height:100vh;min-height:100vh}body.theme-dark{background-color:#222;color:#d9d9d9}body.theme-dark a{color:#fff}body.theme-dark a:hover{text-decoration:underline;color:#ee730a}body.theme-dark .lds-ring div{border-color:#999 rgba(0,0,0,0) rgba(0,0,0,0)}body.theme-dark .font-red{color:#b20f03}body.theme-dark .ctp-button{background-color:#4693ff;color:#1d1d1d}body.theme-dark #challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4")}body.theme-dark #challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+")}body.theme-light{background-color:#fff;color:#313131}body.theme-light a{color:#0051c3}body.theme-light a:hover{text-decoration:underline;color:#ee730a}body.theme-light .lds-ring div{border-color:#595959 rgba(0,0,0,0) rgba(0,0,0,0)}body.theme-light .font-red{color:#fc574a}body.theme-light .ctp-button{border-color:#003681;background-color:#003681;color:#fff}body.theme-light #challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=")}body.theme-light #challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI2ZjNTc0YSIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjZmM1NzRhIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+")}a{transition:color 150ms ease;background-color:rgba(0,0,0,0);text-decoration:none;color:#0051c3}a:hover{text-decoration:underline;color:#ee730a}.main-content{margin:8rem auto;padding-right:1.5rem;padding-left:1.5rem;width:100%;max-width:60rem}.main-content .loading-verifying{height:76.391px}.spacer{margin:2rem 0}.spacer-top{margin-top:4rem}.spacer-bottom{margin-bottom:2rem}.heading-favicon{margin-right:.5rem;width:2rem;height:2rem}@media (width <= 720px){.main-content{margin-top:4rem}.heading-favicon{width:1.5rem;height:1.5rem}}.main-wrapper{display:flex;flex:1;flex-direction:column;align-items:center}.font-red{color:#b20f03}.h1{line-height:3.75rem;font-size:2.5rem;font-weight:500}.h2{line-height:2.25rem;font-size:1.5rem;font-weight:500}.core-msg{line-height:2.25rem;font-size:1.5rem;font-weight:400}.body-text{line-height:1.25rem;font-size:1rem;font-weight:400}@media (width <= 720px){.h1{line-height:1.75rem;font-size:1.5rem}.h2{line-height:1.5rem;font-size:1.25rem}.core-msg{line-height:1.5rem;font-size:1rem}}#challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI2ZjNTc0YSIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjZmM1NzRhIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+");background-repeat:no-repeat;background-size:contain;padding-left:34px}#challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjMzEzMTMxIiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4=");background-repeat:no-repeat;background-size:contain;padding-left:42px}.text-center{text-align:center}.ctp-button{transition-duration:200ms;transition-property:background-color,border-color,color;transition-timing-function:ease;margin:2rem 0;border:.063rem solid #0051c3;border-radius:.313rem;background-color:#0051c3;cursor:pointer;padding:.375rem 1rem;line-height:1.313rem;color:#fff;font-size:.875rem}.ctp-button:hover{border-color:#003681;background-color:#003681;cursor:pointer;color:#fff}.footer{margin:0 auto;padding-right:1.5rem;padding-left:1.5rem;width:100%;max-width:60rem;line-height:1.125rem;font-size:.75rem}.footer-inner{border-top:1px solid #d9d9d9;padding-top:1rem;padding-bottom:1rem}.clearfix::after{display:table;clear:both;content:""}.clearfix .column{float:left;padding-right:1.5rem;width:50%}.diagnostic-wrapper{margin-bottom:.5rem}.footer .ray-id{text-align:center}.footer .ray-id code{font-family:monaco,courier,monospace}.core-msg,.zone-name-title{overflow-wrap:break-word}@media (width <= 720px){.diagnostic-wrapper{display:flex;flex-wrap:wrap;justify-content:center}.clearfix::after{display:initial;clear:none;text-align:center;content:none}.column{padding-bottom:2rem}.clearfix .column{float:none;padding:0;width:auto;word-break:keep-all}.zone-name-title{margin-bottom:1rem}}.loading-verifying{height:76.391px}.lds-ring{display:inline-block;position:relative;width:1.875rem;height:1.875rem}.lds-ring div{box-sizing:border-box;display:block;position:absolute;border:.3rem solid #595959;border-radius:50%;border-color:#313131 rgba(0,0,0,0) rgba(0,0,0,0);width:1.875rem;height:1.875rem;animation:lds-ring 1.2s cubic-bezier(.5, 0, .5, 1) infinite}.lds-ring div:nth-child(1){animation-delay:-.45s}.lds-ring div:nth-child(2){animation-delay:-.3s}.lds-ring div:nth-child(3){animation-delay:-.15s}@keyframes lds-ring{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}.rtl .heading-favicon{margin-right:0;margin-left:.5rem}.rtl #challenge-success-text{background-position:right;padding-right:42px;padding-left:0}.rtl #challenge-error-text{background-position:right;padding-right:34px;padding-left:0}.challenge-content .loading-verifying{height:76.391px}@media (prefers-color-scheme: dark){body{background-color:#222;color:#d9d9d9}body a{color:#fff}body a:hover{text-decoration:underline;color:#ee730a}body .lds-ring div{border-color:#999 rgba(0,0,0,0) rgba(0,0,0,0)}body .font-red{color:#b20f03}body .ctp-button{background-color:#4693ff;color:#1d1d1d}body #challenge-success-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSIgdmlld0JveD0iMCAwIDI2IDI2Ij48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJNMTMgMGExMyAxMyAwIDEgMCAwIDI2IDEzIDEzIDAgMCAwIDAtMjZtMCAyNGExMSAxMSAwIDEgMSAwLTIyIDExIDExIDAgMCAxIDAgMjIiLz48cGF0aCBmaWxsPSIjZDlkOWQ5IiBkPSJtMTAuOTU1IDE2LjA1NS0zLjk1LTQuMTI1LTEuNDQ1IDEuMzg1IDUuMzcgNS42MSA5LjQ5NS05LjYtMS40Mi0xLjQwNXoiLz48L3N2Zz4")}body #challenge-error-text{background-image:url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgZmlsbD0ibm9uZSI+PHBhdGggZmlsbD0iI0IyMEYwMyIgZD0iTTE2IDNhMTMgMTMgMCAxIDAgMTMgMTNBMTMuMDE1IDEzLjAxNSAwIDAgMCAxNiAzbTAgMjRhMTEgMTEgMCAxIDEgMTEtMTEgMTEuMDEgMTEuMDEgMCAwIDEtMTEgMTEiLz48cGF0aCBmaWxsPSIjQjIwRjAzIiBkPSJNMTcuMDM4IDE4LjYxNUgxNC44N0wxNC41NjMgOS41aDIuNzgzem0tMS4wODQgMS40MjdxLjY2IDAgMS4wNTcuMzg4LjQwNy4zODkuNDA3Ljk5NCAwIC41OTYtLjQwNy45ODQtLjM5Ny4zOS0xLjA1Ny4zODktLjY1IDAtMS4wNTYtLjM4OS0uMzk4LS4zODktLjM5OC0uOTg0IDAtLjU5Ny4zOTgtLjk4NS40MDYtLjM5NyAxLjA1Ni0uMzk3Ii8+PC9zdmc+")}}</style><script src="https://challenges.cloudflare.com/turnstile/v0/g/e9c9e9d67513/api.js?onload=nleNK4&amp;render=explicit" async="" defer="" crossorigin="anonymous"></script></head><body><div class="main-wrapper" role="main"><div class="main-content"><h1 class="zone-name-title h1"><img src="/favicon.ico" class="heading-favicon" alt="Icon for demo.nopcommerce.com">demo.nopcommerce.com</h1><p id="Truv1" class="h2 spacer-bottom">Verifying you are human. This may take a few seconds.</p><div id="uMtSJ0" style="display: grid;"><div><div><input type="hidden" name="cf-turnstile-response" id="cf-chl-widget-z8muq_response"></div></div></div><div id="bBCk7" class="spacer loading-verifying" style="display: none; visibility: hidden;"><div class="lds-ring"><div></div><div></div><div></div><div></div></div></div><div id="OkOq1" class="core-msg spacer spacer-top">demo.nopcommerce.com needs to review the security of your connection before proceeding.</div><div id="Zdps1" style="display: none;"><div id="challenge-success-text" class="h2">Verification successful</div><div class="core-msg spacer">Waiting for demo.nopcommerce.com to respond...</div></div><noscript><div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div></noscript></div></div><script>(function(){window._cf_chl_opt = {cvId: '3',cZone: 'demo.nopcommerce.com',cType: 'managed',cRay: '98f657121f92ce63',cH: '9VRoFbHDEUO5z11AOqhqi3IGyBeI2666HnttPjUJmas-1760604956-1.2.1.1-Xz1dWW6eIBJ6yLubnDxVYnMniYt1v1hjadChOV5woOc4Tw4T9KQWmFIqO_GiUfnM',cUPMDTk:"\/?__cf_chl_tk=7dEiMZbYjr_t0W.1ft41uJM.9FEehGwxO7TFQIg4UiY-1760604956-1.0.1.1-8Q3nG3azv4JhQmr.2M31uQMvYRVwOGG0eYnjdOjTpOA",cFPWv: 'g',cITimeS: '1760604956',cTplC:0,cTplV:5,cTplB: 'cf',fa:"\/?__cf_chl_f_tk=7dEiMZbYjr_t0W.1ft41uJM.9FEehGwxO7TFQIg4UiY-1760604956-1.0.1.1-8Q3nG3azv4JhQmr.2M31uQMvYRVwOGG0eYnjdOjTpOA",md: '0s6LZ9K5mejeicfvvDKiiNkM0bAgRkrVnpyRtKd8CqA-1760604956-1.2.1.1-Vm3PcwODCIuo2f_DFmGIP6DQU4gQq9NmOOB0IXo.kMjdN1SZIAJuVKwWNsHkTxPWq6StM3olRVv7adnFwY3qczqsYm07MdDFGOzkGoK4Pcej2i5VvGzpD8rQxwGmzcKvy2HoLT9_J8J42703U0duk7m36Sv20.YPDCU2wo8YkzHqaMJBgq2Wg1ji3wqcg6eecyufWi09kJtSef0g.ZVs3CLHzY0FWJZfHPRtMwXQFeZJs5KVMJzgwzbNBUQtv74ZPDdntVrRnwBhQ7Y2EIuDRMGYwXN3BwR1UuBPs90ZYkYfPaIibo0G8I9h4dT1W8yNNqAwe7v6BgWwnRoZYMO20rnU66sGZVXh93vlTyb_tpdG2XSHrgxXM7UnvvjpeROa5qmz2P4s3ZDym4BHDahB_HoRmtVGtuFYPDUjmjT24ewZqs859x4yThrwMOy_zf_4wicJdJ3frJFp8nkpikP57riNqIJ43wRfyXsO5n6kZWSznkiHTxrjoLgeW5ipn7Q.Z7rzkygkKbs71Hp4LNxxQMZ8vF1u3tiIBzt.0KYepgg3oApS4J67.uinjpqxrzBlXpaVKozjvBVGgnZrE0_QhpadCWe8GanSWdvenyPhF0vOiTJ1TcrtLgVWNiDTmJmV1YJZl6GSIbNYk8Ujvge6I3jHKCjUtOFvNk8NANW3z6ywHoQOsLD741oRvW8VOt0iHNm_DC.xrvc4jeBdrJyQ_pCZbn2n8On78OhtqJpTFov8ri_s84LLEbHNX2tttayKWDnio21TGXg3u1H3PgF9YHU8A0pFxGP0djVII3BwqpXZTZuLVjcPS4E4QGUEMct_lkHk7.F22j9_0b6fyE0UneNCdPjsqq1k3PQl9U7BqdljeoOkU._I88OmWE7WZkal4OXLosbgQ1RNYmMTY4c4Y0wQ5OtHyidfYuSwziJgzFE.OL0Oe_uv85I7ak4G8.JLQNRXCOqt_OokMJv5QqaYtv.ON1D29JY8LIlevzLto57QA2iK4EGu.BbJZs7SSLflXwps2.zgodqqlnK5pxSkhw',mdrd: 'stdw0wCmABb_1GnxAu2qQ.Of9DF34Dvzk3t.w2i2xrc-1760604956-1.2.1.1-vDci1N2j_.KoHv81qJzPtF6avjyW1GJ9QUvkhBUGyjMkr6w_S.HhDNUQmGhfHZWGKKsnRAz6JHa4GttXw20JFhZUeDreHTCEGkY96pszVjDuzdN_D.rTg896LHn3my4VMmcIEizG9MyDTCwls8yrBPrznsA6BrunAUUhmiOEpsI.MIIMTaO3_dxF6BrjaAhn7wTnmFVA5_jOxWHXH_1N_YKdYtW7I9Yy10.0xnkY6QBdv5uX7Y4qAlM_yfP0G6leoXk6.3vGFXmJb4Vx.IZDJhMeEBMECL8uYqwydv.8MINsFT3iJ1ZuHUZQgsIQfHtSZJjgKPkbYy2btCdUw86oy.1ZipLFmjeugWZzXbqpnd9Migwbcj4sOgPRwgqbpseDRITHwb0bZ4ZNxpFREi37GdPBsBwjVo5heOZNpmDaNqasjuQDcqGQ3ibqdPatSfou6Y.2fRV6.rn91vHD7OKzYTLTd.zaisGJ51IWvRXMwXpxsq6zqDxLPkv8lHNQVO17uR7okl3HsmeZLLvzlFpFPVI_JPZvuc_IFIFEtrEgJsSw0cH6jMOvSKdzLt.LQ9phJy1gLxUvROFPzYy2Ep2fTYGxL27QaY6KIbNxfNgnoAuUYtIyy9OGedio5Cr9nzvzNYExRgmzfoW0oZcjQsBMBlBUIE2.uniIjWUoGG3l.5d62EhU29T1I0aLD0lQwJSBNk15QTVPQgcPPZQaaL7O.q1bq6id7bBL8UBVPGkUowC.0KERJiHKSjiy270r4X331hcbGtYFKDgNJm1J46g_pXyOX7Ux8iTn_k5hOOGfHcxqasX6fpEGlQYYriXytSIh50G6QZh45HysKUMMkRxGrXvdQ8yzot.MytUJajVoEMBPa_K.eTR33nZOAy8VR0hqqtH4spyEQaN8ltd1_Mb7HErbV1oOu_E9Hzr381fNDduUJndQWsBO0vnyqO_ejd8d6bTlGXLpS5SnZcMUNRjNuS3imxDV6vZC96FxuJ6Q1nmyJd4eVHivl_IkKOe44MU2Js9ll2133h8ZXGps2YX7F5Xuq7ZGmk5fv_vypTnupVdeR9EnHd.OJZX79TwVAS6cLq8HzzKHvkACsdQrkncFTwsd4zBPLY7RBrH2aNBc2IjhtKjmpwzZvRFpzArt.9CqvyIOQvQShQRJ8D9KoDmytt.4eFln8guQYb4we0dHylMHApHu4bIcGZ267sw2UDCHCg0crkKE3pGO_03iMxZE3NmtrOIYfeVT9jaxKTNggns108M.Gygbjlfu6U82b6BxOU.jlh4kskut3yNg8ibCeWVJAIcaYaeUF.uHDhhK5R8xoEKKTEMXTeTn3N5hc6Iwc3GU5yxTUkIKzqDinuBCe0olj7gAkBWsoppsFvQ8CrFLBsvx2yoq_5xcnLPU1UxTsxxM8mShs5gEsZ44O6M.7uwrFi.AGbfTg5zMvrxFc24Eh7TXPqnENlsSKqMAp4bjMdgGctY1hIql.w4CtxLYuGaV2BEX._eU66ELQ5hQ730nc.YF_87dC7pVRIeLThea3ajhR0NWgQCak45XJFynsHsQ8w2suZ4.HNm4TybhC6cxIrt6nTlD3x77qbrb9Ov2hwwbuA2wi.imrc6ZXF6U2Ouk1BSqUKSD1RFby910R3j1SW_RylDB0oNnXmwLukonW4eWtyuNWkCt3c3QD8iSQP5RQVkNNG2tW.t6N6UhbN3UCPFFTPMSoSs4KI1LsgTMw6UGxfH1g7s2yHYZvdG4U_RPFlPTs5NSw9lRYOJWAb0vpfQVN8pElrB.KvgyJNDdY9mUuSEoWzOG8hyHnNqh8mOm4VCp3uXdSviyqhAFgDetcxh_6iW1JsoqFfoaeTYhtVYBKTZkTssm8TgYIN_HpzqumM53gP5gNhdUyUPrcU8dZqqb4i4qVZpa3ELh7BZkd_Gn1hbvJTBMaMnxTKOVeHm8NXYDpcNYCKaewsrQ1bmdVukS6rM1.RjeIyadO8D13nQki0.mzAacELTkegHy2Qa2zNjJMWTadgfZp1.89pbDJWtgP5_y5VdGwnKDqlw1LySEx0IwRMt0iwAcMy0PBsjSSau2yl8ZVAwt54urH.OHvpzMhogsliw9nhinvJeCktRgfW0zm9rBaEdL_hRda5RmJyuW_O1VMXGAZug1DfmRdKMrvLnN19z3nsDoTBrR6irvk75p6Tzc57eA3ZzKukdP6m_9mZBVpK4KzX7K7qpH6MhRIpCTA3rjm2L4wpktcN_vR1NhdVvaPakCOFvpPsusuF7t8JHWElciAD.yooQ0IKJneGONODZuUL4inTi2EC4i4OBYtP5Y6p.HeC5EpEzyUqSm6opdtf72wNdj4PLYTj8Xt_i9zUdvGWF7t330NqpLVdav9d.G_u0CDbkG5Kr7awlULhJrQduov7n_JaKri6vrU8ZfrwMwihreusw5zimfjtffzoRKMyoqnlzsvBTMMUa78OSilJE5bQEoHpq38AKoePbm81ceaI9lKwaM49FsxdrFAR7MZC2byH7365_zi6mfoDGEWlbYDdViBxnEGUhaGxtwMplanwB66DNWIkCflqpzSVPuJ5iSB8OukUG48UF17dsqfQVrhU2QA6WfPuG2rlHdQiRBFroEvcRw1XM8Bv72RyoECkAEdDdo9IuCiSaBlYMT8GEWF9d4ZFHCgid_tjWrYqyxoc.iDMKgtrCyZN36473Pt5zR5sEG.3LKDvqKzOu311I2pQFaDY8XNtyOJLbCTb8eFgeZHh3Yvp65ytSCa9y1JDWrhv6zAWDfBv0J099_efHZPazMCCvfaNz9218LkJbDhBuv2n18oEAdnslkecSXQcJO2.3tn0kO5A_ovOuecQLHg000EYQgOyKQRHiFLfInYovXu8vaPgAs0kRJkeQF1_T5ieRKlkchypiiNQ7nTdnF3qmmO8uRX1k0rQRtLY6KGaLCI3eD8pDOd_lRkaoLop4lu8dGpz6PBlvh2h4.R1lVO_xnnmcateLLQ6EaejwfM.mvFvRQnOMjNR3E2Z.LMHMNYyLzhi6BFPJrTKyT3c7MPdsMMyuju055RjKKSzLVduqFEFtvk3ymU6MXtnEpC7npHFOKfUHhD0V68pSIoNCzKNnbQw21rGQPoKxWMpq6T7c_ZDP5',};var a = document.createElement('script');a.src = '/cdn-cgi/challenge-platform/h/g/orchestrate/chl_page/v1?ray=98f657121f92ce63';window._cf_chl_opt.cOgUHash = location.hash === '' && location.href.indexOf('#') !== -1 ? '#' : location.hash;window._cf_chl_opt.cOgUQuery = location.search === '' && location.href.slice(0, location.href.length - window._cf_chl_opt.cOgUHash.length).indexOf('?') !== -1 ? '?' : location.search;if (window.history && window.history.replaceState) {var ogU = location.pathname + window._cf_chl_opt.cOgUQuery + window._cf_chl_opt.cOgUHash;history.replaceState(null, null,"\/?__cf_chl_rt_tk=7dEiMZbYjr_t0W.1ft41uJM.9FEehGwxO7TFQIg4UiY-1760604956-1.0.1.1-8Q3nG3azv4JhQmr.2M31uQMvYRVwOGG0eYnjdOjTpOA"+ window._cf_chl_opt.cOgUHash);a.onload = function() {history.replaceState(null, null, ogU);}}document.getElementsByTagName('head')[0].appendChild(a);}());</script><script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon="{&quot;rayId&quot;:&quot;98f657121f92ce63&quot;,&quot;version&quot;:&quot;2025.9.1&quot;,&quot;serverTiming&quot;:{&quot;name&quot;:{&quot;cfExtPri&quot;:true,&quot;cfEdge&quot;:true,&quot;cfOrigin&quot;:true,&quot;cfL4&quot;:true,&quot;cfSpeedBrain&quot;:true,&quot;cfCacheStatus&quot;:true}},&quot;token&quot;:&quot;c9968ab4bf7342ef8c643d4835a610ea&quot;,&quot;b&quot;:1}" crossorigin="anonymous"></script>
+<div class="footer" role="contentinfo"><div class="footer-inner"><div class="clearfix diagnostic-wrapper"><div class="ray-id">Ray ID: <code>98f657121f92ce63</code></div></div><div class="text-center" id="footer-text">Performance &amp; security by <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=challenge&amp;utm_campaign=m" target="_blank">Cloudflare</a></div></div></div></body></html>
+2025-10-16 14:56:05 INFO - Closing browser
+2025-10-16 15:10:33 DEBUG - Get settings from: settings.json
+2025-10-16 15:10:33 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-16 15:10:33 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-16 15:10:33 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-16 15:10:33 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-16 15:10:44 INFO - Browser 'Chrome' ready...
+2025-10-16 15:10:44 INFO - Maximizing browser window
+2025-10-16 15:10:45 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-16 15:10:47 INFO - Waiting for page to load
+2025-10-16 15:10:49 INFO - Button 'Register ' :: Clicking
+2025-10-16 15:10:57 INFO - Button 'Male radio button' :: Clicking
+2025-10-16 15:11:18 INFO - Closing browser
+2025-10-16 15:11:40 DEBUG - Get settings from: settings.json
+2025-10-16 15:11:40 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-16 15:11:40 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-16 15:11:40 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-16 15:11:40 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-16 15:11:49 INFO - Browser 'Chrome' ready...
+2025-10-16 15:11:49 INFO - Maximizing browser window
+2025-10-16 15:11:50 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-16 15:11:53 INFO - Waiting for page to load
+2025-10-16 15:11:56 INFO - Button 'Register ' :: Clicking
+2025-10-16 15:11:59 INFO - Button 'Male radio button' :: Clicking
+2025-10-16 15:12:25 INFO - Closing browser
+2025-10-23 11:21:59 DEBUG - Get settings from: settings.json
+2025-10-23 11:21:59 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:21:59 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:21:59 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:21:59 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:22:09 INFO - Browser 'Chrome' ready...
+2025-10-23 11:22:09 INFO - Maximizing browser window
+2025-10-23 11:22:09 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:22:11 INFO - Waiting for page to load
+2025-10-23 11:22:15 INFO - Button 'noopCommerce Logo ' :: Clicking
+2025-10-23 11:22:19 INFO - Closing browser
+2025-10-23 11:23:41 DEBUG - Get settings from: settings.json
+2025-10-23 11:23:41 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:23:41 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:23:41 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:23:41 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:23:46 INFO - Browser 'Chrome' ready...
+2025-10-23 11:23:46 INFO - Maximizing browser window
+2025-10-23 11:23:46 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:23:48 INFO - Waiting for page to load
+2025-10-23 11:23:50 INFO - Button 'noopCommerce Logo ' :: Clicking
+2025-10-23 11:23:54 INFO - Closing browser
+2025-10-23 11:24:02 DEBUG - Get settings from: settings.json
+2025-10-23 11:24:02 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:24:02 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:24:02 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:24:02 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:24:08 INFO - Browser 'Chrome' ready...
+2025-10-23 11:24:08 INFO - Maximizing browser window
+2025-10-23 11:24:08 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:24:09 INFO - Waiting for page to load
+2025-10-23 11:24:09 INFO - Button 'Login' :: Clicking
+2025-10-23 11:24:20 INFO - Text Field 'Email' :: Sending keys 'testing@gmail.com'
+2025-10-23 11:24:20 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-23 11:24:21 INFO - Button 'Click Login' :: Clicking
+2025-10-23 11:24:23 INFO - Closing browser
+2025-10-23 11:24:24 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:24:24 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:24:24 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:24:24 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:24:26 INFO - Browser 'Chrome' ready...
+2025-10-23 11:24:26 INFO - Maximizing browser window
+2025-10-23 11:24:27 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:24:28 INFO - Waiting for page to load
+2025-10-23 11:24:29 INFO - Button 'Login' :: Clicking
+2025-10-23 11:24:33 INFO - Text Field 'Email' :: Sending keys ''
+2025-10-23 11:24:33 INFO - Text Field 'Password' :: Sending keys ''
+2025-10-23 11:24:33 INFO - Button 'Click Login' :: Clicking
+2025-10-23 11:24:34 INFO - Closing browser
+2025-10-23 11:24:35 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:24:35 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:24:35 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:24:35 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:24:38 INFO - Browser 'Chrome' ready...
+2025-10-23 11:24:38 INFO - Maximizing browser window
+2025-10-23 11:24:38 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:24:39 INFO - Waiting for page to load
+2025-10-23 11:24:40 INFO - Button 'Login' :: Clicking
+2025-10-23 11:24:41 INFO - Text Field 'Email' :: Sending keys 'testing@gmail.com'
+2025-10-23 11:24:41 INFO - Text Field 'Password' :: Sending keys '111111'
+2025-10-23 11:24:42 INFO - Button 'Click Login' :: Clicking
+2025-10-23 11:24:43 INFO - Closing browser
+2025-10-23 11:24:44 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:24:44 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:24:44 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:24:44 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:24:47 INFO - Browser 'Chrome' ready...
+2025-10-23 11:24:47 INFO - Maximizing browser window
+2025-10-23 11:24:47 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:24:48 INFO - Waiting for page to load
+2025-10-23 11:24:49 INFO - Button 'Login' :: Clicking
+2025-10-23 11:24:50 INFO - Text Field 'Email' :: Sending keys 'test@gmail.com'
+2025-10-23 11:24:51 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-23 11:24:51 INFO - Button 'Click Login' :: Clicking
+2025-10-23 11:24:53 INFO - Closing browser
+2025-10-23 11:24:58 DEBUG - Get settings from: settings.json
+2025-10-23 11:24:58 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:24:58 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:24:58 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:24:58 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:25:03 INFO - Browser 'Chrome' ready...
+2025-10-23 11:25:03 INFO - Maximizing browser window
+2025-10-23 11:25:04 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:25:05 INFO - Waiting for page to load
+2025-10-23 11:25:05 INFO - Button 'Register ' :: Clicking
+2025-10-23 11:25:07 INFO - Button 'Male radio button' :: Clicking
+2025-10-23 11:25:08 INFO - Text Field 'First name is required.' :: Sending keys 'Mr.'
+2025-10-23 11:25:08 INFO - Text Field 'LastName is required.' :: Sending keys 'Test'
+2025-10-23 11:25:08 INFO - Text Field 'Password is required.' :: Sending keys '123456'
+2025-10-23 11:25:08 INFO - Text Field 'Email is required.' :: Sending keys 'test@gmail.com'
+2025-10-23 11:25:09 INFO - Text Field 'ConfirmPassword is required.' :: Sending keys '123456'
+2025-10-23 11:25:09 INFO - Button 'click register-button' :: Clicking
+2025-10-23 11:25:12 INFO - Closing browser
+2025-10-23 11:25:19 DEBUG - Get settings from: settings.json
+2025-10-23 11:25:19 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:25:19 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:25:20 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:25:20 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:25:24 INFO - Browser 'Chrome' ready...
+2025-10-23 11:25:24 INFO - Maximizing browser window
+2025-10-23 11:25:25 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:25:27 INFO - Waiting for page to load
+2025-10-23 11:25:27 INFO - Button 'Login' :: Clicking
+2025-10-23 11:25:29 INFO - Text Field 'Email' :: Sending keys 'testing@gmail.com'
+2025-10-23 11:25:30 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-23 11:25:30 INFO - Button 'Click Login' :: Clicking
+2025-10-23 11:25:32 INFO - Closing browser
+2025-10-23 11:25:33 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:25:33 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:25:33 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:25:33 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:25:35 INFO - Browser 'Chrome' ready...
+2025-10-23 11:25:36 INFO - Maximizing browser window
+2025-10-23 11:25:36 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:25:37 INFO - Waiting for page to load
+2025-10-23 11:25:38 INFO - Button 'Login' :: Clicking
+2025-10-23 11:25:39 INFO - Text Field 'Email' :: Sending keys ''
+2025-10-23 11:25:39 INFO - Text Field 'Password' :: Sending keys ''
+2025-10-23 11:25:39 INFO - Button 'Click Login' :: Clicking
+2025-10-23 11:25:40 INFO - Closing browser
+2025-10-23 11:25:41 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:25:41 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:25:41 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:25:41 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:25:44 INFO - Browser 'Chrome' ready...
+2025-10-23 11:25:44 INFO - Maximizing browser window
+2025-10-23 11:25:44 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:25:45 INFO - Waiting for page to load
+2025-10-23 11:25:46 INFO - Button 'Login' :: Clicking
+2025-10-23 11:25:47 INFO - Text Field 'Email' :: Sending keys 'testing@gmail.com'
+2025-10-23 11:25:47 INFO - Text Field 'Password' :: Sending keys '111111'
+2025-10-23 11:25:47 INFO - Button 'Click Login' :: Clicking
+2025-10-23 11:25:49 INFO - Closing browser
+2025-10-23 11:25:50 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:25:50 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:25:50 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:25:50 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:25:53 INFO - Browser 'Chrome' ready...
+2025-10-23 11:25:53 INFO - Maximizing browser window
+2025-10-23 11:25:53 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:25:54 INFO - Waiting for page to load
+2025-10-23 11:25:54 INFO - Button 'Login' :: Clicking
+2025-10-23 11:25:55 INFO - Text Field 'Email' :: Sending keys 'test@gmail.com'
+2025-10-23 11:25:56 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-23 11:25:56 INFO - Button 'Click Login' :: Clicking
+2025-10-23 11:25:58 INFO - Closing browser
+2025-10-23 11:39:06 DEBUG - Get settings from: settings.json
+2025-10-23 11:39:06 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:39:06 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:39:06 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:39:06 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:39:12 INFO - Browser 'Chrome' ready...
+2025-10-23 11:39:12 INFO - Maximizing browser window
+2025-10-23 11:39:13 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:39:14 INFO - Waiting for page to load
+2025-10-23 11:39:14 INFO - Button 'Login' :: Clicking
+2025-10-23 11:39:16 INFO - Text Field 'Email' :: Sending keys 'testing@gmail.com'
+2025-10-23 11:39:17 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-23 11:39:17 INFO - Button 'Click Login' :: Clicking
+2025-10-23 11:39:20 INFO - Closing browser
+2025-10-23 11:39:21 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:39:21 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:39:21 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:39:21 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:39:24 INFO - Browser 'Chrome' ready...
+2025-10-23 11:39:24 INFO - Maximizing browser window
+2025-10-23 11:39:24 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:39:25 INFO - Waiting for page to load
+2025-10-23 11:39:26 INFO - Button 'Login' :: Clicking
+2025-10-23 11:39:27 INFO - Text Field 'Email' :: Sending keys ''
+2025-10-23 11:39:27 INFO - Text Field 'Password' :: Sending keys ''
+2025-10-23 11:39:27 INFO - Button 'Click Login' :: Clicking
+2025-10-23 11:39:29 INFO - Closing browser
+2025-10-23 11:39:30 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:39:30 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:39:30 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:39:30 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:39:33 INFO - Browser 'Chrome' ready...
+2025-10-23 11:39:33 INFO - Maximizing browser window
+2025-10-23 11:39:33 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:39:34 INFO - Waiting for page to load
+2025-10-23 11:39:34 INFO - Button 'Login' :: Clicking
+2025-10-23 11:39:35 INFO - Text Field 'Email' :: Sending keys 'testing@gmail.com'
+2025-10-23 11:39:36 INFO - Text Field 'Password' :: Sending keys '111111'
+2025-10-23 11:39:36 INFO - Button 'Click Login' :: Clicking
+2025-10-23 11:39:38 INFO - Closing browser
+2025-10-23 11:39:39 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:39:39 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:39:39 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:39:39 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:39:42 INFO - Browser 'Chrome' ready...
+2025-10-23 11:39:42 INFO - Maximizing browser window
+2025-10-23 11:39:42 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:39:44 INFO - Waiting for page to load
+2025-10-23 11:39:44 INFO - Button 'Login' :: Clicking
+2025-10-23 11:39:45 INFO - Text Field 'Email' :: Sending keys 'test@gmail.com'
+2025-10-23 11:39:45 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-23 11:39:45 INFO - Button 'Click Login' :: Clicking
+2025-10-23 11:39:47 INFO - Closing browser
+2025-10-23 11:41:40 DEBUG - Get settings from: settings.json
+2025-10-23 11:41:40 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:41:40 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:41:40 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:41:40 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:41:49 INFO - Browser 'Chrome' ready...
+2025-10-23 11:41:49 INFO - Maximizing browser window
+2025-10-23 11:41:49 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:41:51 INFO - Waiting for page to load
+2025-10-23 11:41:52 INFO - Button 'Login' :: Clicking
+2025-10-23 11:41:53 INFO - Text Field 'Email' :: Sending keys 'testing@gmail.com'
+2025-10-23 11:41:53 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-23 11:41:53 INFO - Button 'Click Login' :: Clicking
+2025-10-23 11:41:55 INFO - Closing browser
+2025-10-23 11:42:02 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:42:02 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:42:02 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:42:02 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:42:04 INFO - Browser 'Chrome' ready...
+2025-10-23 11:42:05 INFO - Maximizing browser window
+2025-10-23 11:42:05 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:42:07 INFO - Waiting for page to load
+2025-10-23 11:42:08 INFO - Button 'Login' :: Clicking
+2025-10-23 11:42:09 INFO - Text Field 'Email' :: Sending keys ''
+2025-10-23 11:42:09 INFO - Text Field 'Password' :: Sending keys ''
+2025-10-23 11:42:09 INFO - Button 'Click Login' :: Clicking
+2025-10-23 11:42:10 INFO - Closing browser
+2025-10-23 11:42:17 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:42:17 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:42:17 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:42:17 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:42:20 INFO - Browser 'Chrome' ready...
+2025-10-23 11:42:20 INFO - Maximizing browser window
+2025-10-23 11:42:21 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:42:22 INFO - Waiting for page to load
+2025-10-23 11:42:22 INFO - Button 'Login' :: Clicking
+2025-10-23 11:42:23 INFO - Text Field 'Email' :: Sending keys 'testing@gmail.com'
+2025-10-23 11:42:24 INFO - Text Field 'Password' :: Sending keys '111111'
+2025-10-23 11:42:24 INFO - Button 'Click Login' :: Clicking
+2025-10-23 11:42:26 INFO - Closing browser
+2025-10-23 11:42:26 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:42:26 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:42:26 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:42:26 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:42:33 INFO - Browser 'Chrome' ready...
+2025-10-23 11:42:34 INFO - Maximizing browser window
+2025-10-23 11:42:34 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:42:35 INFO - Waiting for page to load
+2025-10-23 11:42:35 INFO - Button 'Login' :: Clicking
+2025-10-23 11:42:36 INFO - Text Field 'Email' :: Sending keys ''
+2025-10-23 11:42:37 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-23 11:42:37 INFO - Button 'Click Login' :: Clicking
+2025-10-23 11:42:38 INFO - Closing browser
+2025-10-23 11:42:40 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:42:40 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:42:40 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:42:40 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:42:43 INFO - Browser 'Chrome' ready...
+2025-10-23 11:42:43 INFO - Maximizing browser window
+2025-10-23 11:42:43 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:42:44 INFO - Waiting for page to load
+2025-10-23 11:42:45 INFO - Button 'Login' :: Clicking
+2025-10-23 11:42:46 INFO - Text Field 'Email' :: Sending keys 'testing@gmail.com'
+2025-10-23 11:42:46 INFO - Text Field 'Password' :: Sending keys ''
+2025-10-23 11:42:47 INFO - Button 'Click Login' :: Clicking
+2025-10-23 11:42:48 INFO - Closing browser
+2025-10-23 11:42:49 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:42:49 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:42:49 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:42:49 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:42:52 INFO - Browser 'Chrome' ready...
+2025-10-23 11:42:52 INFO - Maximizing browser window
+2025-10-23 11:42:53 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:42:54 INFO - Waiting for page to load
+2025-10-23 11:42:54 INFO - Button 'Login' :: Clicking
+2025-10-23 11:42:58 INFO - Text Field 'Email' :: Sending keys 'test@gmail.com'
+2025-10-23 11:42:58 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-23 11:42:58 INFO - Button 'Click Login' :: Clicking
+2025-10-23 11:43:00 INFO - Closing browser
+2025-10-23 11:43:34 DEBUG - Get settings from: settings.json
+2025-10-23 11:43:34 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:43:34 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:43:34 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:43:34 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:43:43 INFO - Browser 'Chrome' ready...
+2025-10-23 11:43:43 INFO - Maximizing browser window
+2025-10-23 11:43:43 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:43:45 INFO - Waiting for page to load
+2025-10-23 11:43:45 INFO - Button 'Login' :: Clicking
+2025-10-23 11:43:47 INFO - Button 'Click Login' :: Clicking
+2025-10-23 11:43:48 INFO - Closing browser
+2025-10-23 11:44:12 DEBUG - Get settings from: settings.json
+2025-10-23 11:44:12 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:44:12 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:44:12 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:44:13 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:44:21 INFO - Browser 'Chrome' ready...
+2025-10-23 11:44:21 INFO - Maximizing browser window
+2025-10-23 11:44:22 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:44:23 INFO - Waiting for page to load
+2025-10-23 11:44:23 INFO - Text Field 'Search store' :: Sending keys 'Iphone 16'
+2025-10-23 11:44:24 INFO - Button 'Click Search Button' :: Clicking
+2025-10-23 11:44:32 INFO - Closing browser
+2025-10-23 11:44:40 DEBUG - Get settings from: settings.json
+2025-10-23 11:44:40 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:44:40 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:44:40 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:44:40 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:44:47 INFO - Browser 'Chrome' ready...
+2025-10-23 11:44:47 INFO - Maximizing browser window
+2025-10-23 11:44:48 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:44:49 INFO - Waiting for page to load
+2025-10-23 11:44:49 INFO - Label 'Featured Products Section' :: Waiting for element to be displayed
+2025-10-23 11:44:49 INFO - Link 'First Featured Product' :: Clicking
+2025-10-23 11:44:56 INFO - Waiting for page to load
+2025-10-23 11:44:56 INFO - ComboBox 'Processor Select Menu' :: Selecting value - '2'
+2025-10-23 11:44:56 INFO - ComboBox 'Select RAM' :: Selecting value - '5'
+2025-10-23 11:44:57 INFO - Button 'HDD Option' :: Clicking
+2025-10-23 11:44:57 INFO - Button 'OS Option' :: Clicking
+2025-10-23 11:44:57 INFO - Button 'Software Checkbox' :: Clicking
+2025-10-23 11:44:57 INFO - Button 'Add To Cart Button' :: Clicking
+2025-10-23 11:44:59 INFO - Closing browser
+2025-10-23 11:46:35 DEBUG - Get settings from: settings.json
+2025-10-23 11:46:35 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:46:35 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:46:35 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:46:35 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:46:42 INFO - Browser 'Chrome' ready...
+2025-10-23 11:46:42 INFO - Maximizing browser window
+2025-10-23 11:46:43 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:46:44 INFO - Waiting for page to load
+2025-10-23 11:46:45 INFO - Button 'noopCommerce Logo ' :: Clicking
+2025-10-23 11:46:49 INFO - Closing browser
+2025-10-23 11:56:25 DEBUG - Get settings from: settings.json
+2025-10-23 11:56:25 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:56:25 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:56:25 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:56:25 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:56:33 INFO - Browser 'Chrome' ready...
+2025-10-23 11:56:33 INFO - Maximizing browser window
+2025-10-23 11:56:33 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:56:36 INFO - Waiting for page to load
+2025-10-23 11:56:36 INFO - Text Field 'Search store' :: Sending keys 'Iphone 16'
+2025-10-23 11:56:37 INFO - Button 'Click Search Button' :: Clicking
+2025-10-23 11:56:41 INFO - Closing browser
+2025-10-23 11:57:00 DEBUG - Get settings from: settings.json
+2025-10-23 11:57:00 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 11:57:00 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 11:57:00 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 11:57:00 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 11:57:09 INFO - Browser 'Chrome' ready...
+2025-10-23 11:57:09 INFO - Maximizing browser window
+2025-10-23 11:57:09 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 11:57:11 INFO - Waiting for page to load
+2025-10-23 11:57:12 INFO - Label 'Featured Products Section' :: Waiting for element to be displayed
+2025-10-23 11:57:12 INFO - Link 'First Featured Product' :: Clicking
+2025-10-23 11:57:16 INFO - Waiting for page to load
+2025-10-23 11:57:16 INFO - ComboBox 'Processor Select Menu' :: Selecting value - '2'
+2025-10-23 11:57:16 INFO - ComboBox 'Select RAM' :: Selecting value - '5'
+2025-10-23 11:57:16 INFO - Button 'HDD Option' :: Clicking
+2025-10-23 11:57:17 INFO - Button 'OS Option' :: Clicking
+2025-10-23 11:57:17 INFO - Button 'Software Checkbox' :: Clicking
+2025-10-23 11:57:17 INFO - Button 'Add To Cart Button' :: Clicking
+2025-10-23 11:57:19 INFO - Closing browser
+2025-10-23 12:22:32 DEBUG - Get settings from: settings.json
+2025-10-23 12:22:32 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 12:22:32 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 12:22:32 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 12:22:32 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 12:22:44 INFO - Browser 'Chrome' ready...
+2025-10-23 12:22:44 INFO - Maximizing browser window
+2025-10-23 12:22:44 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 12:22:45 INFO - Waiting for page to load
+2025-10-23 12:22:47 INFO - Label 'Featured Products Section' :: Waiting for element to be displayed
+2025-10-23 12:22:47 INFO - Link 'Second Featured Product' :: Clicking
+2025-10-23 12:22:51 INFO - Waiting for page to load
+2025-10-23 12:22:51 INFO - Text Field 'Qty Set' :: Clearing
+2025-10-23 12:22:51 INFO - Text Field 'Qty Set' :: Typing '1'
+2025-10-23 12:22:51 INFO - Button 'Click Add to Cart Btn' :: Clicking
+2025-10-23 12:22:51 INFO - Closing browser
+2025-10-23 12:22:54 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-23 12:22:54 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-23 12:22:54 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-23 12:22:54 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-23 12:22:57 INFO - Browser 'Chrome' ready...
+2025-10-23 12:22:57 INFO - Maximizing browser window
+2025-10-23 12:22:57 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-23 12:22:59 INFO - Waiting for page to load
+2025-10-23 12:22:59 INFO - Label 'Featured Products Section' :: Waiting for element to be displayed
+2025-10-23 12:22:59 INFO - Link 'First Featured Product' :: Clicking
+2025-10-23 12:23:01 INFO - Waiting for page to load
+2025-10-23 12:23:01 INFO - ComboBox 'Processor Select Menu' :: Selecting value - '2'
+2025-10-23 12:23:02 INFO - ComboBox 'Select RAM' :: Selecting value - '5'
+2025-10-23 12:23:02 INFO - Button 'HDD Option' :: Clicking
+2025-10-23 12:23:02 INFO - Button 'OS Option' :: Clicking
+2025-10-23 12:23:02 INFO - Button 'Software Checkbox' :: Clicking
+2025-10-23 12:23:03 INFO - Button 'Add To Cart Button' :: Clicking
+2025-10-23 12:23:04 INFO - Closing browser

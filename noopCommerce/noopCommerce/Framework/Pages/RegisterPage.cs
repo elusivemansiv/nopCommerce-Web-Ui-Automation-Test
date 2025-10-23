@@ -7,8 +7,8 @@ namespace noopCommerce.Framework.Pages
 {
     public class RegisterPage : Form
     {
-        private IButton  clickRegister = ElementFactory.GetButton(By.ClassName("ico-register"), "Register ");
-        private IButton  gender = ElementFactory.GetButton(By.Id("gender-male"), "Male radio button");
+        private IButton clickRegister = ElementFactory.GetButton(By.ClassName("ico-register"), "Register ");
+        private IButton gender = ElementFactory.GetButton(By.Id("gender-male"), "Male radio button");
         private ITextBox firstName = ElementFactory.GetTextBox(By.Id("FirstName"), "First name is required.");
         private ITextBox lastName = ElementFactory.GetTextBox(By.Id("LastName"), "LastName is required.");
         private ITextBox email = ElementFactory.GetTextBox(By.Id("Email"), "Email is required.");
