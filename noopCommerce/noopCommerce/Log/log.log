@@ -2215,6 +2215,7 @@ Performance: All
 2025-10-23 12:23:02 INFO - Button 'Software Checkbox' :: Clicking
 2025-10-23 12:23:03 INFO - Button 'Add To Cart Button' :: Clicking
 2025-10-23 12:23:04 INFO - Closing browser
+<<<<<<< HEAD
 2025-10-28 13:48:48 DEBUG - Get settings from: settings.json
 2025-10-28 13:48:48 DEBUG - Got browser profile options from settings file: 
 intl.accept_languages: en,
@@ -4795,3 +4796,5 @@ Performance: All
 2025-10-28 17:53:13 INFO - Getting current URL
 2025-10-28 17:53:13 INFO - Current URL: [https://demo.nopcommerce.com/]
 2025-10-28 17:53:13 INFO - Closing browser
+=======
+>>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59

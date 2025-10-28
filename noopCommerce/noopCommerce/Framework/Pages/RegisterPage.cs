@@ -9,10 +9,17 @@ namespace noopCommerce.Framework.Pages
     {
         private IButton clickRegister = ElementFactory.GetButton(By.ClassName("ico-register"), "Register ");
         private IButton gender = ElementFactory.GetButton(By.Id("gender-male"), "Male radio button");
+<<<<<<< HEAD
         private ITextBox FirstName = ElementFactory.GetTextBox(By.Id("FirstName"), "First name is required.");
         private ITextBox LastName = ElementFactory.GetTextBox(By.Id("LastName"), "LastName is required.");
         private ITextBox Email = ElementFactory.GetTextBox(By.Id("Email"), "Email is required.");
         private ITextBox Password = ElementFactory.GetTextBox(By.Id("Password"), "Password is required.");
+=======
+        private ITextBox firstName = ElementFactory.GetTextBox(By.Id("FirstName"), "First name is required.");
+        private ITextBox lastName = ElementFactory.GetTextBox(By.Id("LastName"), "LastName is required.");
+        private ITextBox email = ElementFactory.GetTextBox(By.Id("Email"), "Email is required.");
+        private ITextBox password = ElementFactory.GetTextBox(By.Id("Password"), "Password is required.");
+>>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
         private ITextBox confirmPassword = ElementFactory.GetTextBox(By.Id("ConfirmPassword"), "ConfirmPassword is required.");
         private IButton submitBtn = ElementFactory.GetButton(By.Id("register-button"), "click register-button");
         private ILabel successmsg = ElementFactory.GetLabel(By.XPath("//div[@class='result']"), "Register Success Message");

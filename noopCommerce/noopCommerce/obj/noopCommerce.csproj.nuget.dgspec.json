@@ -61,10 +61,13 @@
             "NUnit": {
               "target": "Package",
               "version": "[4.4.0, )"
+<<<<<<< HEAD
             },
             "NUnit.Allure": {
               "target": "Package",
               "version": "[1.2.1.1, )"
+=======
+>>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
             },
             "NUnit3TestAdapter": {
               "target": "Package",

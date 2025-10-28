@@ -196,7 +196,10 @@ C:\Users\DELL\source\repos\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aqu
 C:\Users\DELL\source\repos\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\noopCommerce\noopCommerce\obj\Debug\net8.0\noopCommerce.pdb
 C:\Users\DELL\source\repos\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\noopCommerce\noopCommerce\obj\Debug\net8.0\noopCommerce.genruntimeconfig.cache
 C:\Users\DELL\source\repos\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\noopCommerce\noopCommerce\obj\Debug\net8.0\ref\noopCommerce.dll
+<<<<<<< HEAD
 C:\Users\DELL\source\repos\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\noopCommerce\noopCommerce\bin\Debug\net8.0\Allure.Commons.dll
 C:\Users\DELL\source\repos\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\noopCommerce\noopCommerce\bin\Debug\net8.0\AspectInjector.Broker.dll
 C:\Users\DELL\source\repos\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\noopCommerce\noopCommerce\bin\Debug\net8.0\MimeTypesMap.dll
 C:\Users\DELL\source\repos\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\noopCommerce\noopCommerce\bin\Debug\net8.0\NUnit.Allure.dll
+=======
+>>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59

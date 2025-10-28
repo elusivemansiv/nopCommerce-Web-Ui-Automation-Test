@@ -12,7 +12,10 @@
           "DotNetSeleniumExtras.WaitHelpers": "3.11.0",
           "Microsoft.NET.Test.Sdk": "18.0.0",
           "NUnit": "4.4.0",
+<<<<<<< HEAD
           "NUnit.Allure": "1.2.1.1",
+=======
+>>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
           "NUnit3TestAdapter": "5.2.0",
           "Selenium.Support": "4.36.0",
           "Selenium.WebDriver": "4.36.0",
@@ -22,6 +25,7 @@
           "noopCommerce.dll": {}
         }
       },
+<<<<<<< HEAD
       "Allure.Commons/3.5.0.73": {
         "dependencies": {
           "MimeTypesMap": "1.0.8",
@@ -34,6 +38,8 @@
           }
         }
       },
+=======
+>>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
       "AngleSharp/1.1.2": {
         "dependencies": {
           "System.Text.Encoding.CodePages": "8.0.0"
@@ -75,6 +81,7 @@
           }
         }
       },
+<<<<<<< HEAD
       "AspectInjector/2.6.0": {
         "runtime": {
           "lib/netstandard2.0/AspectInjector.Broker.dll": {
@@ -83,6 +90,8 @@
           }
         }
       },
+=======
+>>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
       "coverlet.collector/6.0.4": {},
       "DotNetSeleniumExtras.PageObjects/3.11.0": {
         "dependencies": {
@@ -673,6 +682,7 @@
           "System.Security.Principal.Windows": "5.0.0"
         }
       },
+<<<<<<< HEAD
       "MimeTypesMap/1.0.8": {
         "runtime": {
           "lib/netstandard2.0/MimeTypesMap.dll": {
@@ -681,6 +691,8 @@
           }
         }
       },
+=======
+>>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
       "Newtonsoft.Json/13.0.3": {
         "runtime": {
           "lib/net6.0/Newtonsoft.Json.dll": {
@@ -720,6 +732,7 @@
           }
         }
       },
+<<<<<<< HEAD
       "NUnit.Allure/1.2.1.1": {
         "dependencies": {
           "Allure.Commons": "3.5.0.73",
@@ -733,6 +746,8 @@
           }
         }
       },
+=======
+>>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
       "NUnit3TestAdapter/5.2.0": {
         "dependencies": {
           "Microsoft.Testing.Extensions.VSTestBridge": "1.9.0",
@@ -860,6 +875,7 @@
       "serviceable": false,
       "sha512": ""
     },
+<<<<<<< HEAD
     "Allure.Commons/3.5.0.73": {
       "type": "package",
       "serviceable": true,
@@ -867,6 +883,8 @@
       "path": "allure.commons/3.5.0.73",
       "hashPath": "allure.commons.3.5.0.73.nupkg.sha512"
     },
+=======
+>>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
     "AngleSharp/1.1.2": {
       "type": "package",
       "serviceable": true,
@@ -888,6 +906,7 @@
       "path": "aquality.selenium.core/4.1.0",
       "hashPath": "aquality.selenium.core.4.1.0.nupkg.sha512"
     },
+<<<<<<< HEAD
     "AspectInjector/2.6.0": {
       "type": "package",
       "serviceable": true,
@@ -895,6 +914,8 @@
       "path": "aspectinjector/2.6.0",
       "hashPath": "aspectinjector.2.6.0.nupkg.sha512"
     },
+=======
+>>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
     "coverlet.collector/6.0.4": {
       "type": "package",
       "serviceable": true,
@@ -1021,6 +1042,7 @@
       "path": "microsoft.win32.registry/5.0.0",
       "hashPath": "microsoft.win32.registry.5.0.0.nupkg.sha512"
     },
+<<<<<<< HEAD
     "MimeTypesMap/1.0.8": {
       "type": "package",
       "serviceable": true,
@@ -1028,6 +1050,8 @@
       "path": "mimetypesmap/1.0.8",
       "hashPath": "mimetypesmap.1.0.8.nupkg.sha512"
     },
+=======
+>>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
     "Newtonsoft.Json/13.0.3": {
       "type": "package",
       "serviceable": true,
@@ -1056,6 +1080,7 @@
       "path": "nunit/4.4.0",
       "hashPath": "nunit.4.4.0.nupkg.sha512"
     },
+<<<<<<< HEAD
     "NUnit.Allure/1.2.1.1": {
       "type": "package",
       "serviceable": true,
@@ -1063,6 +1088,8 @@
       "path": "nunit.allure/1.2.1.1",
       "hashPath": "nunit.allure.1.2.1.1.nupkg.sha512"
     },
+=======
+>>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
     "NUnit3TestAdapter/5.2.0": {
       "type": "package",
       "serviceable": true,
