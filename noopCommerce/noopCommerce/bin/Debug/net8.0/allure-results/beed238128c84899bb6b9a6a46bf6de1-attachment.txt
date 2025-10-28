@@ -1,0 +1,16 @@
+2025-10-28 18:50:00 INFO - Browser 'Chrome' ready...
+2025-10-28 18:50:00 INFO - Maximizing browser window
+2025-10-28 18:50:00 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-28 18:50:03 INFO - Waiting for page to load
+2025-10-28 18:50:03 INFO - Button 'Register' :: Clicking
+2025-10-28 18:50:05 INFO - Button 'Male radio button' :: Clicking
+2025-10-28 18:50:05 INFO - Text Field 'First name' :: Sending keys 'Mr.'
+2025-10-28 18:50:06 INFO - Text Field 'Last name' :: Sending keys 'Test'
+2025-10-28 18:50:06 INFO - Text Field 'Email' :: Sending keys 'test@gmail.com'
+2025-10-28 18:50:06 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-28 18:50:06 INFO - Text Field 'Confirm password' :: Sending keys '123456'
+2025-10-28 18:50:07 INFO - Button 'Register button' :: Clicking
+2025-10-28 18:50:09 INFO - Label 'Register Page' :: Waiting for element to be displayed
+2025-10-28 18:50:10 INFO - Label 'Register VAlidation Message' :: Getting text from element
+2025-10-28 18:50:10 INFO - Label 'Register VAlidation Message' :: Element's text: [The specified email already exists]
+2025-10-28 18:50:10 INFO - Closing browser

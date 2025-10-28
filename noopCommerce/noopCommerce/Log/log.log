@@ -4798,3 +4798,209 @@ Performance: All
 2025-10-28 17:53:13 INFO - Closing browser
 =======
 >>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
+2025-10-28 18:49:27 DEBUG - Get settings from: settings.json
+2025-10-28 18:49:27 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-28 18:49:27 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-28 18:49:27 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-28 18:49:28 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-28 18:49:42 INFO - Browser 'Chrome' ready...
+2025-10-28 18:49:42 INFO - Maximizing browser window
+2025-10-28 18:49:42 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-28 18:49:43 INFO - Waiting for page to load
+2025-10-28 18:49:45 INFO - Button 'Register' :: Clicking
+2025-10-28 18:49:47 INFO - Button 'Male radio button' :: Clicking
+2025-10-28 18:49:48 INFO - Text Field 'First name' :: Sending keys 'Mr.'
+2025-10-28 18:49:48 INFO - Text Field 'Last name' :: Sending keys 'Test'
+2025-10-28 18:49:48 INFO - Text Field 'Email' :: Sending keys 'test@gmail.com'
+2025-10-28 18:49:49 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-28 18:49:49 INFO - Text Field 'Confirm password' :: Sending keys '123456'
+2025-10-28 18:49:49 INFO - Button 'Register button' :: Clicking
+2025-10-28 18:49:54 INFO - Label 'Register Page' :: Waiting for element to be displayed
+2025-10-28 18:49:54 INFO - Label 'Register success message' :: Getting text from element
+2025-10-28 18:49:54 INFO - Label 'Register success message' :: Element's text: [Your registration completed]
+2025-10-28 18:49:54 INFO - Closing browser
+2025-10-28 18:49:56 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-28 18:49:56 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-28 18:49:56 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-28 18:49:56 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-28 18:50:00 INFO - Browser 'Chrome' ready...
+2025-10-28 18:50:00 INFO - Maximizing browser window
+2025-10-28 18:50:00 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-28 18:50:03 INFO - Waiting for page to load
+2025-10-28 18:50:03 INFO - Button 'Register' :: Clicking
+2025-10-28 18:50:05 INFO - Button 'Male radio button' :: Clicking
+2025-10-28 18:50:05 INFO - Text Field 'First name' :: Sending keys 'Mr.'
+2025-10-28 18:50:06 INFO - Text Field 'Last name' :: Sending keys 'Test'
+2025-10-28 18:50:06 INFO - Text Field 'Email' :: Sending keys 'test@gmail.com'
+2025-10-28 18:50:06 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-28 18:50:06 INFO - Text Field 'Confirm password' :: Sending keys '123456'
+2025-10-28 18:50:07 INFO - Button 'Register button' :: Clicking
+2025-10-28 18:50:09 INFO - Label 'Register Page' :: Waiting for element to be displayed
+2025-10-28 18:50:10 INFO - Label 'Register VAlidation Message' :: Getting text from element
+2025-10-28 18:50:10 INFO - Label 'Register VAlidation Message' :: Element's text: [The specified email already exists]
+2025-10-28 18:50:10 INFO - Closing browser
+2025-10-28 18:53:50 DEBUG - Get settings from: settings.json
+2025-10-28 18:53:50 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-28 18:53:50 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-28 18:53:50 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-28 18:53:50 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-28 18:54:00 INFO - Browser 'Chrome' ready...
+2025-10-28 18:54:00 INFO - Maximizing browser window
+2025-10-28 18:54:01 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-28 18:54:03 INFO - Waiting for page to load
+2025-10-28 18:54:07 INFO - Button 'Login' :: Clicking
+2025-10-28 18:54:09 INFO - Text Field 'Email' :: Sending keys 'testing@gmail.com'
+2025-10-28 18:54:10 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-28 18:54:11 INFO - Button 'Click Login' :: Clicking
+2025-10-28 18:54:14 INFO - Label 'Login Fail Message' :: Getting text from element
+2025-10-28 18:54:15 INFO - Label 'Login Fail Message' :: Element's text: [Login was unsuccessful. Please correct the errors and try again.
+No customer account found]
+2025-10-28 18:54:15 INFO - Closing browser
+2025-10-28 18:54:16 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-28 18:54:16 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-28 18:54:16 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-28 18:54:16 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-28 18:54:20 INFO - Browser 'Chrome' ready...
+2025-10-28 18:54:20 INFO - Maximizing browser window
+2025-10-28 18:54:21 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-28 18:54:27 INFO - Waiting for page to load
+2025-10-28 18:54:29 INFO - Button 'Login' :: Clicking
+2025-10-28 18:54:39 INFO - Text Field 'Email' :: Sending keys 'testing@gmail.com'
+2025-10-28 18:54:40 INFO - Text Field 'Password' :: Sending keys '111111'
+2025-10-28 18:54:41 INFO - Button 'Click Login' :: Clicking
+2025-10-28 18:54:44 INFO - Label 'Login Fail Message' :: Getting text from element
+2025-10-28 18:54:45 INFO - Label 'Login Fail Message' :: Element's text: [Login was unsuccessful. Please correct the errors and try again.
+No customer account found]
+2025-10-28 18:54:45 INFO - Closing browser
+2025-10-28 18:54:51 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-28 18:54:51 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-28 18:54:51 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-28 18:54:51 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-28 18:54:55 INFO - Browser 'Chrome' ready...
+2025-10-28 18:54:55 INFO - Maximizing browser window
+2025-10-28 18:54:55 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-28 18:54:58 INFO - Waiting for page to load
+2025-10-28 18:54:58 INFO - Button 'Login' :: Clicking
+2025-10-28 18:55:00 INFO - Button 'Click Login' :: Clicking
+2025-10-28 18:55:02 INFO - Label 'validation error msg' :: Getting text from element
+2025-10-28 18:55:02 INFO - Label 'validation error msg' :: Element's text: [Please enter your email]
+2025-10-28 18:55:02 INFO - Closing browser
+2025-10-28 18:55:04 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-28 18:55:04 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-28 18:55:04 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-28 18:55:04 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-28 18:55:08 INFO - Browser 'Chrome' ready...
+2025-10-28 18:55:08 INFO - Maximizing browser window
+2025-10-28 18:55:08 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-28 18:55:10 INFO - Waiting for page to load
+2025-10-28 18:55:11 INFO - Button 'Login' :: Clicking
+2025-10-28 18:55:12 INFO - Text Field 'Email' :: Sending keys ''
+2025-10-28 18:55:13 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-28 18:55:13 INFO - Button 'Click Login' :: Clicking
+2025-10-28 18:55:14 INFO - Label 'validation error msg' :: Getting text from element
+2025-10-28 18:55:14 INFO - Label 'validation error msg' :: Element's text: [Please enter your email]
+2025-10-28 18:55:14 INFO - Closing browser
+2025-10-28 18:55:16 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-28 18:55:16 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-28 18:55:16 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-28 18:55:16 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-28 18:55:19 INFO - Browser 'Chrome' ready...
+2025-10-28 18:55:19 INFO - Maximizing browser window
+2025-10-28 18:55:20 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-28 18:55:21 INFO - Waiting for page to load
+2025-10-28 18:55:22 INFO - Button 'Login' :: Clicking
+2025-10-28 18:55:24 INFO - Text Field 'Email' :: Sending keys 'test@gmail.com'
+2025-10-28 18:55:25 INFO - Text Field 'Password' :: Sending keys ''
+2025-10-28 18:55:25 INFO - Button 'Click Login' :: Clicking
+2025-10-28 18:55:27 INFO - Label 'Login Fail Message' :: Getting text from element
+2025-10-28 18:55:27 INFO - Label 'Login Fail Message' :: Element's text: [Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect]
+2025-10-28 18:55:27 INFO - Closing browser
+2025-10-28 18:55:33 DEBUG - Got browser profile options from settings file: 
+intl.accept_languages: en,
+safebrowsing.enabled: true,
+profile.default_content_settings.popups: 0,
+disable-popup-blocking: true,
+download.prompt_for_download: false,
+download.default_directory: ..\\Resources
+2025-10-28 18:55:33 DEBUG - Got browser capabilities from settings file: 
+enableVNC: True,
+unhandledPromptBehavior: ignore
+2025-10-28 18:55:33 DEBUG - Got excluded browser arguments from settings file: enable-automation
+2025-10-28 18:55:33 DEBUG - Got browser logging preferences from settings file: 
+Performance: All
+2025-10-28 18:55:37 INFO - Browser 'Chrome' ready...
+2025-10-28 18:55:37 INFO - Maximizing browser window
+2025-10-28 18:55:37 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-28 18:55:39 INFO - Waiting for page to load
+2025-10-28 18:55:40 INFO - Button 'Login' :: Clicking
+2025-10-28 18:55:41 INFO - Text Field 'Email' :: Sending keys 'test@gmail.com'
+2025-10-28 18:55:42 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-28 18:55:42 INFO - Button 'Click Login' :: Clicking
+2025-10-28 18:55:46 INFO - Waiting for page to load
+2025-10-28 18:55:46 INFO - Getting current URL
+2025-10-28 18:55:46 INFO - Current URL: [https://demo.nopcommerce.com/]
+2025-10-28 18:55:46 INFO - Closing browser

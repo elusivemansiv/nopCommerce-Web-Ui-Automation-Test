@@ -4,12 +4,10 @@ using noopCommerce.Framework.Pages;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using System.Threading;
-<<<<<<< HEAD
 using Allure.Commons;
 using NUnit.Allure.Attributes;
 using NUnit.Allure.Core;
-=======
->>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
+
 
 namespace noopCommerce.Framework.Tests
 {

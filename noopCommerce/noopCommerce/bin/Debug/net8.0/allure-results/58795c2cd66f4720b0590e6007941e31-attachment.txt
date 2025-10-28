@@ -1,0 +1,12 @@
+2025-10-28 18:54:00 INFO - Browser 'Chrome' ready...
+2025-10-28 18:54:00 INFO - Maximizing browser window
+2025-10-28 18:54:01 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-28 18:54:03 INFO - Waiting for page to load
+2025-10-28 18:54:07 INFO - Button 'Login' :: Clicking
+2025-10-28 18:54:09 INFO - Text Field 'Email' :: Sending keys 'testing@gmail.com'
+2025-10-28 18:54:10 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-28 18:54:11 INFO - Button 'Click Login' :: Clicking
+2025-10-28 18:54:14 INFO - Label 'Login Fail Message' :: Getting text from element
+2025-10-28 18:54:15 INFO - Label 'Login Fail Message' :: Element's text: [Login was unsuccessful. Please correct the errors and try again.
+No customer account found]
+2025-10-28 18:54:15 INFO - Closing browser

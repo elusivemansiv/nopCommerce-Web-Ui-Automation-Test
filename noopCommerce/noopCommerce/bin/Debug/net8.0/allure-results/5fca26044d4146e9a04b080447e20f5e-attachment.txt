@@ -1,0 +1,16 @@
+2025-10-28 18:49:42 INFO - Browser 'Chrome' ready...
+2025-10-28 18:49:42 INFO - Maximizing browser window
+2025-10-28 18:49:42 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-28 18:49:43 INFO - Waiting for page to load
+2025-10-28 18:49:45 INFO - Button 'Register' :: Clicking
+2025-10-28 18:49:47 INFO - Button 'Male radio button' :: Clicking
+2025-10-28 18:49:48 INFO - Text Field 'First name' :: Sending keys 'Mr.'
+2025-10-28 18:49:48 INFO - Text Field 'Last name' :: Sending keys 'Test'
+2025-10-28 18:49:48 INFO - Text Field 'Email' :: Sending keys 'test@gmail.com'
+2025-10-28 18:49:49 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-28 18:49:49 INFO - Text Field 'Confirm password' :: Sending keys '123456'
+2025-10-28 18:49:49 INFO - Button 'Register button' :: Clicking
+2025-10-28 18:49:54 INFO - Label 'Register Page' :: Waiting for element to be displayed
+2025-10-28 18:49:54 INFO - Label 'Register success message' :: Getting text from element
+2025-10-28 18:49:54 INFO - Label 'Register success message' :: Element's text: [Your registration completed]
+2025-10-28 18:49:54 INFO - Closing browser

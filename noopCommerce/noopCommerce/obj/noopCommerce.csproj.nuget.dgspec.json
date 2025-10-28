@@ -11,7 +11,7 @@
         "projectName": "noopCommerce",
         "projectPath": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\noopCommerce.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Source\\Repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,13 +61,10 @@
             "NUnit": {
               "target": "Package",
               "version": "[4.4.0, )"
-<<<<<<< HEAD
             },
             "NUnit.Allure": {
               "target": "Package",
               "version": "[1.2.1.1, )"
-=======
->>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
             },
             "NUnit3TestAdapter": {
               "target": "Package",

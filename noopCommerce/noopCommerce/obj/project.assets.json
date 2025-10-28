@@ -2,7 +2,6 @@
   "version": 3,
   "targets": {
     "net8.0": {
-<<<<<<< HEAD
       "Allure.Commons/3.5.0.73": {
         "type": "package",
         "dependencies": {
@@ -23,8 +22,6 @@
           }
         }
       },
-=======
->>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
       "AngleSharp/1.1.2": {
         "type": "package",
         "dependencies": {
@@ -81,7 +78,6 @@
           }
         }
       },
-<<<<<<< HEAD
       "AspectInjector/2.6.0": {
         "type": "package",
         "compile": {
@@ -98,8 +94,6 @@
           "buildTransitive/netstandard2.0/AspectInjector.targets": {}
         }
       },
-=======
->>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
       "coverlet.collector/6.0.4": {
         "type": "package",
         "build": {
@@ -811,7 +805,6 @@
           }
         }
       },
-<<<<<<< HEAD
       "MimeTypesMap/1.0.8": {
         "type": "package",
         "compile": {
@@ -821,8 +814,6 @@
           "lib/netstandard2.0/MimeTypesMap.dll": {}
         }
       },
-=======
->>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
       "Newtonsoft.Json/13.0.3": {
         "type": "package",
         "compile": {
@@ -887,7 +878,6 @@
           "build/NUnit.props": {}
         }
       },
-<<<<<<< HEAD
       "NUnit.Allure/1.2.1.1": {
         "type": "package",
         "dependencies": {
@@ -905,11 +895,6 @@
       "NUnit3TestAdapter/5.2.0": {
         "type": "package",
         "dependencies": {
-=======
-      "NUnit3TestAdapter/5.2.0": {
-        "type": "package",
-        "dependencies": {
->>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
           "Microsoft.Testing.Extensions.VSTestBridge": "1.9.0",
           "Microsoft.Testing.Platform.MSBuild": "1.9.0"
         },
@@ -1235,7 +1220,6 @@
         "lib/netstandard2.0/Aquality.Selenium.Core.xml"
       ]
     },
-<<<<<<< HEAD
     "AspectInjector/2.6.0": {
       "sha512": "VTd4JwPJBdO+g0GFY9xPtsB63/iCs9WCCZkcw2KJ+4gCP3N1LQ99bsfuQhFfrdZOYxJ8I5HBPyojqGVJyKzuOA==",
       "type": "package",
@@ -1279,15 +1263,6 @@
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
-=======
-    "coverlet.collector/6.0.4": {
-      "sha512": "lkhqpF8Pu2Y7IiN7OntbsTtdbpR1syMsm2F3IgX6ootA4ffRqWL5jF7XipHuZQTdVuWG/gVAAcf8mjk8Tz0xPg==",
-      "type": "package",
-      "path": "coverlet.collector/6.0.4",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
->>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
         "VSTestIntegration.md",
         "build/netstandard2.0/Microsoft.Bcl.AsyncInterfaces.dll",
         "build/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
@@ -2338,7 +2313,6 @@
         "version.txt"
       ]
     },
-<<<<<<< HEAD
     "MimeTypesMap/1.0.8": {
       "sha512": "iOm6Zar+yVROhlyrGGSJTfThvNoHLUeYeQQND9YD/ot/nA2qsWUp9kP2MHTdF9P7I8afW6eCf8vdELLZjDFdSQ==",
       "type": "package",
@@ -2353,8 +2327,6 @@
         "mimetypesmap.nuspec"
       ]
     },
-=======
->>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
     "Newtonsoft.Json/13.0.3": {
       "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
       "type": "package",
@@ -2457,7 +2429,6 @@
         "nunit.nuspec"
       ]
     },
-<<<<<<< HEAD
     "NUnit.Allure/1.2.1.1": {
       "sha512": "Bb6hpYRrJFnWh3CePRY63E7D75eOG9waEYePUE+iMaRLq5mtRmYZKg4qUG0492AnoFjOnTRFpMlE1ucvgbk2PQ==",
       "type": "package",
@@ -2505,40 +2476,6 @@
     "Selenium.Support/4.36.0": {
       "sha512": "3/kioF20M28FKkCccmxDqMYZy9j1G4H37dcHfPgTPiOAlQXrqV/moWoV56o2TVFLhZw7o53PlsMp6Y8br9Z3lg==",
       "type": "package",
-=======
-    "NUnit3TestAdapter/5.2.0": {
-      "sha512": "EyXccnlnvktvDot81n0qStquYhk0iMDY9d91kjdoc5oUEXMsxwPFNbA9H6PRMZUm4elobsFM9tt7HOS7W30mlA==",
-      "type": "package",
-      "path": "nunit3testadapter/5.2.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "build/net462/NUnit3.TestAdapter.dll",
-        "build/net462/NUnit3.TestAdapter.pdb",
-        "build/net462/NUnit3TestAdapter.props",
-        "build/net462/NUnit3TestAdapter.targets",
-        "build/net462/nunit.engine.api.dll",
-        "build/net462/nunit.engine.core.dll",
-        "build/net462/nunit.engine.dll",
-        "build/net462/testcentric.engine.metadata.dll",
-        "build/netcoreapp3.1/NUnit3.TestAdapter.dll",
-        "build/netcoreapp3.1/NUnit3.TestAdapter.pdb",
-        "build/netcoreapp3.1/NUnit3TestAdapter.props",
-        "build/netcoreapp3.1/NUnit3TestAdapter.targets",
-        "build/netcoreapp3.1/nunit.engine.api.dll",
-        "build/netcoreapp3.1/nunit.engine.core.dll",
-        "build/netcoreapp3.1/nunit.engine.dll",
-        "build/netcoreapp3.1/testcentric.engine.metadata.dll",
-        "docs/README.md",
-        "nunit3testadapter.5.2.0.nupkg.sha512",
-        "nunit3testadapter.nuspec",
-        "nunit_256.png"
-      ]
-    },
-    "Selenium.Support/4.36.0": {
-      "sha512": "3/kioF20M28FKkCccmxDqMYZy9j1G4H37dcHfPgTPiOAlQXrqV/moWoV56o2TVFLhZw7o53PlsMp6Y8br9Z3lg==",
-      "type": "package",
->>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
       "path": "selenium.support/4.36.0",
       "files": [
         ".nupkg.metadata",
@@ -2951,10 +2888,7 @@
       "DotNetSeleniumExtras.WaitHelpers >= 3.11.0",
       "Microsoft.NET.Test.Sdk >= 18.0.0",
       "NUnit >= 4.4.0",
-<<<<<<< HEAD
       "NUnit.Allure >= 1.2.1.1",
-=======
->>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
       "NUnit3TestAdapter >= 5.2.0",
       "Selenium.Support >= 4.36.0",
       "Selenium.WebDriver >= 4.36.0",
@@ -2971,7 +2905,7 @@
       "projectName": "noopCommerce",
       "projectPath": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\noopCommerce.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Source\\Repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3021,13 +2955,10 @@
           "NUnit": {
             "target": "Package",
             "version": "[4.4.0, )"
-<<<<<<< HEAD
           },
           "NUnit.Allure": {
             "target": "Package",
             "version": "[1.2.1.1, )"
-=======
->>>>>>> 7b244fa0232d43dfbcb49c24a833e8775ca06f59
           },
           "NUnit3TestAdapter": {
             "target": "Package",

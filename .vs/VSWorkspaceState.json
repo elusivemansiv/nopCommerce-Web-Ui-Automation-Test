@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\noopCommerce",
-    "\\noopCommerce\\noopCommerce",
-    "\\noopCommerce\\noopCommerce\\Framework"
+    "\\noopCommerce"
   ],
   "SelectedNode": "\\noopCommerce\\noopCommerce.sln",
   "PreviewInSolutionExplorer": false

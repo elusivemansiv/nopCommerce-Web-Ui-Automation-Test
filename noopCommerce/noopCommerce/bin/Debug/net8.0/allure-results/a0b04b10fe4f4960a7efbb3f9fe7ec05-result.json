@@ -1,0 +1,80 @@
+{
+  "uuid": "8bb5405f-bd02-4bd3-b3f7-7d0902df1fdc-tr-0-1010",
+  "historyId": "noopCommerce.Framework.Tests.LoginTest.NoPassloginTest",
+  "fullName": "noopCommerce.Framework.Tests.LoginTest.NoPassloginTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-5J5HCF1"
+    },
+    {
+      "name": "package",
+      "value": "noopCommerce.Framework.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "NoPassloginTest"
+    },
+    {
+      "name": "testClass",
+      "value": "LoginTest"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "suite",
+      "value": "Browser tests"
+    }
+  ],
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://demo.nopcommerce.com/",
+      "type": "link"
+    }
+  ],
+  "name": "NoPassloginTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "NoPassloginTest"
+  },
+  "stage": "finished",
+  "description": "As user I want to login to the wesbsite with no password",
+  "steps": [
+    {
+      "name": "NoPassloginTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": ""
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "c0e177fc6eb9444dbc49b9863d9bb07e-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1761656116255,
+      "stop": 1761656133498
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1761656116255,
+  "stop": 1761656133499
+}
