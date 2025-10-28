@@ -1,0 +1,80 @@
+{
+  "uuid": "c2079e29-4a4e-4e85-86fb-34e190173c7e-tr-0-1009",
+  "historyId": "noopCommerce.Framework.Tests.LoginTest.NoEmailloginTest",
+  "fullName": "noopCommerce.Framework.Tests.LoginTest.NoEmailloginTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-5J5HCF1"
+    },
+    {
+      "name": "package",
+      "value": "noopCommerce.Framework.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "NoEmailloginTest"
+    },
+    {
+      "name": "testClass",
+      "value": "LoginTest"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "suite",
+      "value": "Browser tests"
+    }
+  ],
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://demo.nopcommerce.com/",
+      "type": "link"
+    }
+  ],
+  "name": "NoEmailloginTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "NoEmailloginTest"
+  },
+  "stage": "finished",
+  "description": "As user I want to login to the wesbsite with no email",
+  "steps": [
+    {
+      "name": "NoEmailloginTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": ""
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "bf194d25fb9c428a82e092046a5af2cf-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1761652351856,
+      "stop": 1761652365036
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1761652351856,
+  "stop": 1761652365037
+}

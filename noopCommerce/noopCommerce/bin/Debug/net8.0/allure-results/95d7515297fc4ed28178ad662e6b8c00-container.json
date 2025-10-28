@@ -1,0 +1,44 @@
+{
+  "uuid": "fb112827-bf2c-4d80-a874-57c9711cb936-tc-0-1005",
+  "name": "noopCommerce.Framework.Tests.LoginTest.InValidPassloginTest",
+  "children": [
+    "da90234a-967c-4747-8d28-c2e3323ee468-tr-0-1008"
+  ],
+  "befores": [
+    {
+      "name": "SetUp",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1761652333392,
+      "stop": 1761652333392
+    }
+  ],
+  "afters": [
+    {
+      "name": "TearDown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1761652333392,
+      "stop": 1761652333392
+    }
+  ],
+  "links": [],
+  "start": 1761652317233,
+  "stop": 1761652333441
+}

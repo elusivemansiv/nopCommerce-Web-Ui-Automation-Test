@@ -1,0 +1,6 @@
+2025-10-28 17:50:51 INFO - Browser 'Chrome' ready...
+2025-10-28 17:50:51 INFO - Maximizing browser window
+2025-10-28 17:50:52 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-28 17:50:53 INFO - Waiting for page to load
+2025-10-28 17:50:54 INFO - Button 'noopCommerce Logo ' :: Clicking
+2025-10-28 17:50:59 INFO - Closing browser

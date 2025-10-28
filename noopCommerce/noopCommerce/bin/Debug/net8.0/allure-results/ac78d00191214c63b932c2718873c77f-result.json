@@ -1,0 +1,82 @@
+{
+  "uuid": "1738259f-df0a-4e7c-b5f0-2af931514ab3-tr-0-1013",
+  "historyId": "noopCommerce.Framework.Tests.RegisterTest.registerTest",
+  "fullName": "noopCommerce.Framework.Tests.RegisterTest.registerTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-5J5HCF1"
+    },
+    {
+      "name": "package",
+      "value": "noopCommerce.Framework.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "registerTest"
+    },
+    {
+      "name": "testClass",
+      "value": "RegisterTest"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "suite",
+      "value": "Browser tests"
+    }
+  ],
+  "links": [
+    {
+      "name": "Website",
+      "url": "",
+      "type": "link"
+    }
+  ],
+  "name": "registerTest",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "OpenQA.Selenium.NoSuchElementException : Element [Register Success Message] was not found by locator 'By.XPath: //div[@class='result']' in Displayed state: Timed out after 30 seconds; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception",
+    "trace": "   at Aquality.Selenium.Core.Elements.ElementFinder.HandleTimeoutException(WebDriverTimeoutException ex, DesiredState desiredState, By locator, List`1 foundElements, String name)\r\n   at Aquality.Selenium.Core.Elements.ElementFinder.FindElements(By locator, DesiredState desiredState, Nullable`1 timeout, String name)\r\n   at Aquality.Selenium.Core.Elements.ElementFinder.FindElement(By locator, Func`2 elementStateCondition, String stateName, Nullable`1 timeout, String name)\r\n   at Aquality.Selenium.Core.Elements.ElementFinder.FindElement(By locator, ElementState state, Nullable`1 timeout, String name)\r\n   at Aquality.Selenium.Core.Elements.Element.GetElement(Nullable`1 timeout)\r\n   at Aquality.Selenium.Elements.Actions.JsActions.ResolveArguments(Object[] arguments)\r\n   at Aquality.Selenium.Elements.Actions.JsActions.<>c__DisplayClass29_0.<ExecuteScript>b__0()\r\n   at Aquality.Selenium.Core.Utilities.ActionRetrier.<>c__DisplayClass2_0.<DoWithRetry>b__0()\r\n   at Aquality.Selenium.Core.Utilities.ActionRetrier.DoWithRetry[T](Func`1 function, IEnumerable`1 handledExceptions)\r\n   at Aquality.Selenium.Core.Utilities.ElementActionRetrier.DoWithRetry[T](Func`1 function, IEnumerable`1 handledExceptions)\r\n   at Aquality.Selenium.Core.Utilities.ActionRetrier.DoWithRetry(Action action, IEnumerable`1 handledExceptions)\r\n   at Aquality.Selenium.Core.Utilities.ElementActionRetrier.DoWithRetry(Action action, IEnumerable`1 handledExceptions)\r\n   at Aquality.Selenium.Elements.Actions.JsActions.ExecuteScript(JavaScript scriptName, Object[] arguments)\r\n   at Aquality.Selenium.Elements.Actions.JsActions.HighlightElement(HighlightState highlightState)\r\n   at Aquality.Selenium.Elements.Element.GetText(HighlightState highlightState)\r\n   at noopCommerce.Framework.Pages.RegisterPage.GetSuccessMessage() in C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Pages\\RegisterPage.cs:line 40\r\n   at noopCommerce.Framework.Tests.RegisterTest.registerTest() in C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Tests\\RegisterTest.cs:line 37\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+  },
+  "stage": "finished",
+  "description": "As user I want to register to the wesbsite with valid data",
+  "steps": [
+    {
+      "name": "registerTest",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "OpenQA.Selenium.NoSuchElementException : Element [Register Success Message] was not found by locator 'By.XPath: //div[@class='result']' in Displayed state: Timed out after 30 seconds; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception",
+        "trace": "   at Aquality.Selenium.Core.Elements.ElementFinder.HandleTimeoutException(WebDriverTimeoutException ex, DesiredState desiredState, By locator, List`1 foundElements, String name)\r\n   at Aquality.Selenium.Core.Elements.ElementFinder.FindElements(By locator, DesiredState desiredState, Nullable`1 timeout, String name)\r\n   at Aquality.Selenium.Core.Elements.ElementFinder.FindElement(By locator, Func`2 elementStateCondition, String stateName, Nullable`1 timeout, String name)\r\n   at Aquality.Selenium.Core.Elements.ElementFinder.FindElement(By locator, ElementState state, Nullable`1 timeout, String name)\r\n   at Aquality.Selenium.Core.Elements.Element.GetElement(Nullable`1 timeout)\r\n   at Aquality.Selenium.Elements.Actions.JsActions.ResolveArguments(Object[] arguments)\r\n   at Aquality.Selenium.Elements.Actions.JsActions.<>c__DisplayClass29_0.<ExecuteScript>b__0()\r\n   at Aquality.Selenium.Core.Utilities.ActionRetrier.<>c__DisplayClass2_0.<DoWithRetry>b__0()\r\n   at Aquality.Selenium.Core.Utilities.ActionRetrier.DoWithRetry[T](Func`1 function, IEnumerable`1 handledExceptions)\r\n   at Aquality.Selenium.Core.Utilities.ElementActionRetrier.DoWithRetry[T](Func`1 function, IEnumerable`1 handledExceptions)\r\n   at Aquality.Selenium.Core.Utilities.ActionRetrier.DoWithRetry(Action action, IEnumerable`1 handledExceptions)\r\n   at Aquality.Selenium.Core.Utilities.ElementActionRetrier.DoWithRetry(Action action, IEnumerable`1 handledExceptions)\r\n   at Aquality.Selenium.Elements.Actions.JsActions.ExecuteScript(JavaScript scriptName, Object[] arguments)\r\n   at Aquality.Selenium.Elements.Actions.JsActions.HighlightElement(HighlightState highlightState)\r\n   at Aquality.Selenium.Elements.Element.GetText(HighlightState highlightState)\r\n   at noopCommerce.Framework.Pages.RegisterPage.GetSuccessMessage() in C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Pages\\RegisterPage.cs:line 40\r\n   at noopCommerce.Framework.Tests.RegisterTest.registerTest() in C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Tests\\RegisterTest.cs:line 37\r\n   at System.RuntimeMethodHandle.InvokeMethod(Object target, Void** arguments, Signature sig, Boolean isConstructor)\r\n   at System.Reflection.MethodBaseInvoker.InvokeWithNoArgs(Object obj, BindingFlags invokeAttr)"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "a37bfd1e8bd8493d9921a227c58006a1-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1761651417212,
+      "stop": 1761651478766
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1761651417208,
+  "stop": 1761651478775
+}

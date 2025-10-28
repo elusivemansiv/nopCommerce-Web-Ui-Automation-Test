@@ -1,0 +1,80 @@
+{
+  "uuid": "ed1b5247-102c-4e85-9bd0-0209cc369e3e-tr-0-1004",
+  "historyId": "noopCommerce.Framework.Tests.HomeTest.homeTest",
+  "fullName": "noopCommerce.Framework.Tests.HomeTest.homeTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-5J5HCF1"
+    },
+    {
+      "name": "package",
+      "value": "noopCommerce.Framework.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "homeTest"
+    },
+    {
+      "name": "testClass",
+      "value": "HomeTest"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "suite",
+      "value": "Browser tests"
+    }
+  ],
+  "links": [
+    {
+      "name": "Website",
+      "url": "",
+      "type": "link"
+    }
+  ],
+  "name": "homeTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "homeTest"
+  },
+  "stage": "finished",
+  "description": "",
+  "steps": [
+    {
+      "name": "homeTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": ""
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "6a26357547a3477e9c43a0103c3bcbfd-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1761652238413,
+      "stop": 1761652262485
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1761652238412,
+  "stop": 1761652262527
+}

@@ -1,0 +1,12 @@
+2025-10-28 17:53:03 INFO - Browser 'Chrome' ready...
+2025-10-28 17:53:03 INFO - Maximizing browser window
+2025-10-28 17:53:03 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-28 17:53:04 INFO - Waiting for page to load
+2025-10-28 17:53:06 INFO - Button 'Login' :: Clicking
+2025-10-28 17:53:10 INFO - Text Field 'Email' :: Sending keys 'test@gmail.com'
+2025-10-28 17:53:10 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-28 17:53:11 INFO - Button 'Click Login' :: Clicking
+2025-10-28 17:53:13 INFO - Waiting for page to load
+2025-10-28 17:53:13 INFO - Getting current URL
+2025-10-28 17:53:13 INFO - Current URL: [https://demo.nopcommerce.com/]
+2025-10-28 17:53:13 INFO - Closing browser

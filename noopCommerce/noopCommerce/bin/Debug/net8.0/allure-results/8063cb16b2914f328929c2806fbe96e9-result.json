@@ -1,0 +1,80 @@
+{
+  "uuid": "ad27140f-92fa-40eb-82e9-de478db9e963-tr-0-1014",
+  "historyId": "noopCommerce.Framework.Tests.RegisterTest.registerTest_2",
+  "fullName": "noopCommerce.Framework.Tests.RegisterTest.registerTest_2",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-5J5HCF1"
+    },
+    {
+      "name": "package",
+      "value": "noopCommerce.Framework.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "registerTest_2"
+    },
+    {
+      "name": "testClass",
+      "value": "RegisterTest"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "suite",
+      "value": "Browser tests"
+    }
+  ],
+  "links": [
+    {
+      "name": "Website",
+      "url": "",
+      "type": "link"
+    }
+  ],
+  "name": "registerTest_2",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "registerTest_2"
+  },
+  "stage": "finished",
+  "description": "As user I want to register to the wesbsite with same email again",
+  "steps": [
+    {
+      "name": "registerTest_2",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": ""
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "5f70779e1d054a479b7e620e616d455e-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1761652083881,
+      "stop": 1761652113836
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1761652083879,
+  "stop": 1761652113842
+}

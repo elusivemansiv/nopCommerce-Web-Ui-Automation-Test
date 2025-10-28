@@ -1,0 +1,80 @@
+{
+  "uuid": "06397179-c423-4ff6-a671-21ff5219b4f2-tr-0-1006",
+  "historyId": "noopCommerce.Framework.Tests.LoginTest.ValidloginTest",
+  "fullName": "noopCommerce.Framework.Tests.LoginTest.ValidloginTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-5J5HCF1"
+    },
+    {
+      "name": "package",
+      "value": "noopCommerce.Framework.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ValidloginTest"
+    },
+    {
+      "name": "testClass",
+      "value": "LoginTest"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "suite",
+      "value": "Browser tests"
+    }
+  ],
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://demo.nopcommerce.com/",
+      "type": "link"
+    }
+  ],
+  "name": "ValidloginTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "ValidloginTest"
+  },
+  "stage": "finished",
+  "description": "As user I want to login to the wesbsite with valid data",
+  "steps": [
+    {
+      "name": "ValidloginTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": ""
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "7c031dc734c7431e8dd0d484a686a761-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1761652378549,
+      "stop": 1761652396478
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1761652378549,
+  "stop": 1761652396478
+}

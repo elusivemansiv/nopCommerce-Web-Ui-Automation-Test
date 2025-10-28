@@ -1,0 +1,82 @@
+{
+  "uuid": "da90234a-967c-4747-8d28-c2e3323ee468-tr-0-1008",
+  "historyId": "noopCommerce.Framework.Tests.LoginTest.InValidPassloginTest",
+  "fullName": "noopCommerce.Framework.Tests.LoginTest.InValidPassloginTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-5J5HCF1"
+    },
+    {
+      "name": "package",
+      "value": "noopCommerce.Framework.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "InValidPassloginTest"
+    },
+    {
+      "name": "testClass",
+      "value": "LoginTest"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "suite",
+      "value": "Browser tests"
+    }
+  ],
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://demo.nopcommerce.com/",
+      "type": "link"
+    }
+  ],
+  "name": "InValidPassloginTest",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Assert.That(loginPage.GetUnSuccessMessage().Contains(\"Login was unsuccessful. Please correct the errors and try again.\\r\\nThe credentials provided are incorrect\"), Is.True)\r\n  Expected: True\r\n  But was:  False\r\n",
+    "trace": "   at noopCommerce.Framework.Tests.LoginTest.InValidPassloginTest() in C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Tests\\LoginTest.cs:line 58\r\n"
+  },
+  "stage": "finished",
+  "description": "As user I want to login to the wesbsite with invalid password",
+  "steps": [
+    {
+      "name": "InValidPassloginTest",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Assert.That(loginPage.GetUnSuccessMessage().Contains(\"Login was unsuccessful. Please correct the errors and try again.\\r\\nThe credentials provided are incorrect\"), Is.True)\r\n  Expected: True\r\n  But was:  False\r\n",
+        "trace": "   at noopCommerce.Framework.Tests.LoginTest.InValidPassloginTest() in C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Tests\\LoginTest.cs:line 58\r\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "d9deb5d6c7f34be886c4a89210cf67b7-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1761652317233,
+      "stop": 1761652333398
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1761652317233,
+  "stop": 1761652333398
+}

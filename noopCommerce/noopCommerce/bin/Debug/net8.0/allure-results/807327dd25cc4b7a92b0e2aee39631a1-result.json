@@ -1,0 +1,82 @@
+{
+  "uuid": "9e33293e-930a-4e4d-b010-7c3206b7617c-tr-0-1007",
+  "historyId": "noopCommerce.Framework.Tests.LoginTest.InValidEmailloginTest",
+  "fullName": "noopCommerce.Framework.Tests.LoginTest.InValidEmailloginTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-5J5HCF1"
+    },
+    {
+      "name": "package",
+      "value": "noopCommerce.Framework.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "InValidEmailloginTest"
+    },
+    {
+      "name": "testClass",
+      "value": "LoginTest"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "suite",
+      "value": "Browser tests"
+    }
+  ],
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://demo.nopcommerce.com/",
+      "type": "link"
+    }
+  ],
+  "name": "InValidEmailloginTest",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "  Assert.That(loginPage.GetUnSuccessMessage().Contains(\"Login was unsuccessful. Please correct the errors and try again.\\r\\nThe credentials provided are incorrect\"), Is.True)\r\n  Expected: True\r\n  But was:  False\r\n",
+    "trace": "   at noopCommerce.Framework.Tests.LoginTest.InValidEmailloginTest() in C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Tests\\LoginTest.cs:line 45\r\n"
+  },
+  "stage": "finished",
+  "description": "As user I want to login to the wesbsite with invalid email",
+  "steps": [
+    {
+      "name": "InValidEmailloginTest",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "  Assert.That(loginPage.GetUnSuccessMessage().Contains(\"Login was unsuccessful. Please correct the errors and try again.\\r\\nThe credentials provided are incorrect\"), Is.True)\r\n  Expected: True\r\n  But was:  False\r\n",
+        "trace": "   at noopCommerce.Framework.Tests.LoginTest.InValidEmailloginTest() in C:\\Users\\DELL\\source\\repos\\nopCommerce-Web-Ui-Automation-Test-using-Selenium-Aquality-Framework-\\noopCommerce\\noopCommerce\\Framework\\Tests\\LoginTest.cs:line 45\r\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "bded5a190a4c43b6acad302ecff0a590-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1761652294853,
+      "stop": 1761652316755
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1761652294852,
+  "stop": 1761652316781
+}

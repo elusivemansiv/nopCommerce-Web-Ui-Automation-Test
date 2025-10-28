@@ -1,0 +1,80 @@
+{
+  "uuid": "8071fb40-b6b7-40f1-a2f8-d2999c3efae7-tr-0-1011",
+  "historyId": "noopCommerce.Framework.Tests.LoginTest.NodataloginTest",
+  "fullName": "noopCommerce.Framework.Tests.LoginTest.NodataloginTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-5J5HCF1"
+    },
+    {
+      "name": "package",
+      "value": "noopCommerce.Framework.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "NodataloginTest"
+    },
+    {
+      "name": "testClass",
+      "value": "LoginTest"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "suite",
+      "value": "Browser tests"
+    }
+  ],
+  "links": [
+    {
+      "name": "Website",
+      "url": "https://demo.nopcommerce.com/",
+      "type": "link"
+    }
+  ],
+  "name": "NodataloginTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "NodataloginTest"
+  },
+  "stage": "finished",
+  "description": "As user I want to login to the wesbsite with No data",
+  "steps": [
+    {
+      "name": "NodataloginTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": ""
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "ae2adbf2e1754438a47763778749936b-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1761652333515,
+      "stop": 1761652351775
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1761652333515,
+  "stop": 1761652351778
+}

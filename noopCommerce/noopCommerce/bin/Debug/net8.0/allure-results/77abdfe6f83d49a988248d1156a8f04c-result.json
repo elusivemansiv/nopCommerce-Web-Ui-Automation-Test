@@ -1,0 +1,80 @@
+{
+  "uuid": "3490a684-7ea7-4007-ada7-1b9caa40d634-tr-0-1013",
+  "historyId": "noopCommerce.Framework.Tests.RegisterTest.registerTest",
+  "fullName": "noopCommerce.Framework.Tests.RegisterTest.registerTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NUnit.Fw.ParallelWorker#1"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-5J5HCF1"
+    },
+    {
+      "name": "package",
+      "value": "noopCommerce.Framework.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "registerTest"
+    },
+    {
+      "name": "testClass",
+      "value": "RegisterTest"
+    },
+    {
+      "name": "severity",
+      "value": "normal"
+    },
+    {
+      "name": "suite",
+      "value": "Browser tests"
+    }
+  ],
+  "links": [
+    {
+      "name": "Website",
+      "url": "",
+      "type": "link"
+    }
+  ],
+  "name": "registerTest",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "registerTest"
+  },
+  "stage": "finished",
+  "description": "As user I want to register to the wesbsite with valid data",
+  "steps": [
+    {
+      "name": "registerTest",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": ""
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "d45c3e65094c4390b6c7e7a5e67e4108-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1761651839421,
+      "stop": 1761651871958
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1761651839416,
+  "stop": 1761651871971
+}

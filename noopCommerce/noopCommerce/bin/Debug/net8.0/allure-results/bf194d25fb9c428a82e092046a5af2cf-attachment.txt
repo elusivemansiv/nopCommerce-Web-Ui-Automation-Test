@@ -1,0 +1,11 @@
+2025-10-28 17:52:35 INFO - Browser 'Chrome' ready...
+2025-10-28 17:52:35 INFO - Maximizing browser window
+2025-10-28 17:52:36 INFO - Navigate to URL - 'https://demo.nopcommerce.com/'
+2025-10-28 17:52:37 INFO - Waiting for page to load
+2025-10-28 17:52:38 INFO - Button 'Login' :: Clicking
+2025-10-28 17:52:39 INFO - Text Field 'Email' :: Sending keys ''
+2025-10-28 17:52:40 INFO - Text Field 'Password' :: Sending keys '123456'
+2025-10-28 17:52:40 INFO - Button 'Click Login' :: Clicking
+2025-10-28 17:52:42 INFO - Label 'validation error msg' :: Getting text from element
+2025-10-28 17:52:42 INFO - Label 'validation error msg' :: Element's text: [Please enter your email]
+2025-10-28 17:52:42 INFO - Closing browser
